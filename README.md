@@ -1,5 +1,9 @@
 ## Welcome to Asus e403sa dotfiles
 
+To-do
+- polybar
+- i3wm config
+
 ### Support or Contact
 #### Markdown
 

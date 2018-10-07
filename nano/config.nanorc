@@ -1,7 +1,7 @@
 # Author: Alexandre Bobkov
 ## Syntax for config files.
 
-syntax "conf" "\.?conf$"
+syntax "config" "\.?config$"
 comment "#"
 
 # Possible errors and parameters
@@ -24,7 +24,6 @@ icolor magenta "^[[:space:]]*i?color\>" "\<(start|end)="
 color brightmagenta ""(\\.|[^"])*""
 # Comments
 color brightblue "(^|[[:space:]]+)#.*$"
-color cyan "(^|[[:space:]]+);.*$"
 color cyan "^[[:space:]]*##.*$"
 
 # Trailing whitespace

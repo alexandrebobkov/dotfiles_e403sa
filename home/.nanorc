@@ -1,0 +1,25 @@
+# Author: Aleandre Bobkov
+# Customization
+
+set mouse			# enable mouse support
+set linenumbers		# line show line numbers
+set positionlog		# remember cursor previous postion
+set smarthome		# set smart home
+set smooth			# set smooth scrolling
+set titlecolor	brightwhite	# set title line colors (file name and command)
+set statuscolor	white	# set status line colors
+set keycolor	white
+set numbercolor white
+set functioncolor brightwhite
+set matchbrackets "(<[{)>]}"
+set nonewlines
+
+set autoindent
+#set numbercolor fgcolor, bgcolor
+
+# Syntax Highlights
+include /usr/share/nano/*
+# Custom syntax highlights for .config and .conf extentions
+include /home/e403sa/.config/nano/config.nanorc
+include /home/e403sa/.config/nano/conf.nanorc
+

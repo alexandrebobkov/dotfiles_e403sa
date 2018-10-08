@@ -1,5 +1,7 @@
 ## Welcome to Asus e403sa dotfiles
 
+![Screenshot](/Screenshot_2018-Oct-07_21:03:05.png)
+
 To-do
 - polybar
 - i3wm config

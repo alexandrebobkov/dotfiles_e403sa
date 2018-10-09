@@ -19,35 +19,13 @@ font pango:monospace 10
 # Use Mouse+$mod to drag floating windows to their wanted position
 floating_modifier $mod
 
-##                  DEFAULT LAUNCHERS
-#########################################################
-## start a terminal
-bindsym $mod+Return exec --no-startup-id xfce4-terminal --hide-scrollbar
-#bindsym $mod+Return exec --no-startup-id tilix
-bindsym $mod+Shift+Return exec xfce4-terminal --hide-scrollbar -e htop
-## start Midnight Commander
-bindsym $mod+Ctrl+Return exec xfce4-terminal --hide-scrollbar --command mc
+#gaps outer 2
+gaps inner 5
+smart_borders on
 
-# kill focused window
-bindsym $mod+q kill
-bindsym $mod+Escape kill
-bindsym button3 kill
-
-# start dmenu (a program launcher)
-#bindsym $mod+d exec dmenu_run
-bindsym $mod+d exec --no-startup-id rofi -show drun -theme DarkBlue.rasi
-bindsym $mod+Shift+d exec --no-startup-id rofi -show run -columns 5  -eh 1 -theme DarkBlue.rasi -fullscreen
-#bindsym $mod+shift+d exec --no-startup-id i3-dmenu-desktop
-#bindsym $mod+shift+d exec --no-startup-id rofi -show window
-#bindsym $mod+z exec --no-startup-id rofi -show window
-bindsym $mod+z exec --no-startup-id rofi -show window -theme solarized -location 0 -window-format: w:10 t:10
-bindsym $mod+Tab exec --no-startup-id rofi -show window -theme DarkBlue.rasi -location 0 -window-format: w:10 t:10
-#bindsym $modl+tab exec --no-startup-id rofi -show window
-bindsym $mod+shift+a exec --no-startup-id xfce4-appfinder
-#--entry-type=command
-
-##                  CONTROLS
-################################################
+##################################################################################
+##########                  CONTROLS
+##################################################################################
 
 # change focus
 bindsym $mod+j focus left
@@ -102,8 +80,10 @@ bindsym $mod+a focus parent
 # toggle sticky
 bindsym $mod+Shift+s sticky toggle
 
-##                  Workspaces
-##################################################
+##################################################################################
+##########                  WORKSPACES
+##################################################################################
+
 ## terminals
 
 # workspace back and forth (with/without active container)
@@ -223,8 +203,8 @@ mode "resize" {
 bindsym $mod+r mode "resize"
 
 # Colors Palette
-set $base0  #839496
-set $base1  #93A1A1
+set $base0 #839496
+set $base1 #93A1A1
 set $base2 #EEE8D5
 set $base3 #FDF6E3
 set $base03 #002B36
@@ -250,10 +230,11 @@ set $white2  #F1F2F6
 #set $color_window_focused   #FFAA11
 set $color_window_focused   #268bd2
 set $color_window_nofocus   #252936
+
 #                         border 				background 				text    	indicator
-client.focused                  $color_window_focused	$color_window_focused	$white2		$white2
-client.unfocused            $color_window_nofocus	$color_window_nofocus	$base00		$base0F
-client.urgent                     $base02	$base08		$base00		$base0F
+client.focused            $color_window_focused	$color_window_focused	$white2		$white2
+client.unfocused        $color_window_nofocus	$color_window_nofocus	$base00		$base0F
+client.urgent               $base02	$base08		$base00		$base0F
 
 ## Hide edges only if using single window.
 hide_edge_borders both
@@ -263,32 +244,6 @@ hide_edge_borders both
 client.background #eee8d5
 # Make title bold
 for_window [class=".*"] title_format "<b><i>%title</i></b>"
-
-#bar {
-#    id bar-3
-#    #mode dock
-#    mode hide
-#    hidden_state hide
-#    modifier $bar_mod
-#    position bottom
-#    tray_output eDP1
-#    tray_padding 0
-#    workspace_buttons yes
-#    strip_workspace_numbers yes
-#    binding_mode_indicator yes
-#    font pango:FontAwesome 10
-   
-#     colors {
-#        background  $white2
-#        statusline  $green2
-       #                   border      background  text
-#        focused_workspace  $green2     $green2     $white2
-#        inactive_workspace $white2     $white2     $green2
-#        urgent_workspace   $red        $red        $white2
-#    }
-#   binding_mode_indicator yes
-#   status_command conky -c $HOME/.config/conky/conky_bar2.conf
-#}
 
 ## bar to show shortcuts
 bar {
@@ -309,6 +264,38 @@ bar {
 }
 
 ##################################################################################
+##########                  DEFAULT LAUNCHERS
+##################################################################################
+
+# Use xmodmap -pke command to identify key opcodes or showkey --keycodes
+
+## start a terminal
+bindsym $mod+Return exec --no-startup-id xfce4-terminal --hide-scrollbar
+
+#bindsym $mod+Return exec --no-startup-id tilix
+bindsym $mod+Shift+Return exec xfce4-terminal --hide-scrollbar -e htop
+
+## start Midnight Commander
+bindsym $mod+Ctrl+Return exec xfce4-terminal --hide-scrollbar --command mc
+
+# kill focused window
+bindsym $mod+q kill
+bindsym $mod+Escape kill
+bindsym button3 kill
+
+# start dmenu (a program launcher)
+#bindsym $mod+d exec dmenu_run
+bindsym $mod+d exec --no-startup-id rofi -show drun -theme DarkBlue.rasi
+bindsym $mod+Shift+d exec --no-startup-id rofi -show run -columns 5  -eh 1 -theme DarkBlue.rasi -fullscreen
+#bindsym $mod+shift+d exec --no-startup-id i3-dmenu-desktop
+#bindsym $mod+shift+d exec --no-startup-id rofi -show window
+#bindsym $mod+z exec --no-startup-id rofi -show window
+bindsym $mod+z exec --no-startup-id rofi -show window -theme solarized -location 0 -window-format: w:10 t:10
+bindsym $mod+Tab exec --no-startup-id rofi -show window -theme DarkBlue.rasi -location 0 -window-format: w:10 t:10
+#bindsym $modl+tab exec --no-startup-id rofi -show window
+bindsym $mod+shift+a exec --no-startup-id xfce4-appfinder
+
+##################################################################################
 ##########                  CUSTOM KEY STROKES
 #############################################@####################################
 
@@ -318,9 +305,6 @@ bindsym $mod+Shift+minus move scratchpad
 ## Show the first scratchpad window
 bindsym $mod+minus scratchpad show
 #bindsym $mod+button1 scratchpad show
-
-# Use xmodmap -pke command to identify key opcodes
-# or showkey --keycodes
 
 bindsym $mod+ctrl+w exec --no-startup-id feh --randomize --bg-scale $HOME/Pictures/Wallpapers/*
 
@@ -332,7 +316,7 @@ bindsym $mod+shift+x exec i3lock -e -I 5 -i $HOME/Pictures/Wallpapers/wallpaper_
 #bindsym $mod+shift+x exec i3lock -e -I 5 -i $HOME/Pictures/Wallpapers/transfer-orange-3840x2160-4k.jpg
 #; exec xbacklight -set 10
 
-# Media keys
+##########                  Media keys
 #bindsym XF86MonBrightnessUp exec "xbacklight -dec 5"
 ## Touchpad controls
 # Volume up
@@ -342,56 +326,62 @@ bindcode 122 exec --no-startup-id amixer -q sset Master Playback Volume 2%-
 # Volume Mute
 bindcode 121 exec --no-startup-id amixer -q sset Master Playback Volume toggle;exec notify-send 'Toggle Mute'
 
-# PLAY/PAUSE
-#bindcode 164
-# NEXT
-#bindcode 163
-# PREV
-#bindcode 165
-# STOP
-#bindcode 166
-
-# Z-z-z
-#bindcode 240
-# Plane mode
-#bindcode 247
-# Fn + F3
-#bindcode 215
-# Fn + F4
-#bindcode 150
-# Fn + F9 code 191 - Toggle mousepad
-#bindcode 191 exec --no-startup-id synclient TouchpadOff=1
 bindsym $mod+F9 exec --no-startup-id synclient TouchpadOff=1;exec notify-send 'Touchpad off'
 bindsym $mod+Ctrl+F9 exec --no-startup-id synclient TouchpadOff=0;exec notify-send 'Touchpad on'
 
 ## Take Screenshot
-#bindcode 107 exec "i3-nagbar -t warning -m 'Screenshot'"
 bindcode 107 exec --no-startup-id scrot 'Screenshot_%Y-%h-%d_%H:%M:%S.png' -e 'mv $f ~/Pictures/screenshots/'
-#bindcode 107 exec --no-startup-id xfce4-screenshooter -f
+
 ## Capture Camera
 bindcode Shift+107 exec fswebcam -c ~/.config/fswebcam/fswebcam.conf
 
 ## Launch file browser
 #bindsym $mod+ctrl+f exec thunar
 bindsym $mod+ctrl+f exec nautilus
+
 ## Launch Chrome browser
 bindsym $mod+shift+b exec chromium
 bindsym $mod+ctrl+b exec firefox
+
 ## Launch Sublime text editor
 #bindsym $mod+ctrl+t exec $HOME/Software/sublime-text/sublime-text.sh
 bindsym $mod+ctrl+t exec --no-startup-id subl
+
 ## Launch chrome calculator
 #bindsym $mod+ctrl+c exec --no-startup-id /usr/bin/chromium --profile-directory=Default --app-id=joodangkbfjnajiiifokapkpmhfnpleo
+
 ## Launch calculator
 bindsym $mod+ctrl+c exec --no-startup-id galculator
+
 ## Show/Hide calendar
 #bindsym $mod+ctrl+d exec --no-startup-id orage -t
 bindsym $mod+ctrl+d exec --no-startup-id chromium --app=https://calendar.google.com/calendar/b/0/render\?tab\=mc\&t\=AKUaPmZ6TGE1i6-E7m8ykcxa8VxajckrciSNyBzLkF9KyvalkGbmxbrcRgSKTQEOkRwWC2gznRHYuoVp0gYu4zf2GHZ7wwDJgA%3D%3D\#main_7%7Cmonth
+
 ## Thunderbird
 bindsym $mod+ctrl+m exec --no-startup-id thunderbird
 
-##                  STARTUP ON LOAD
-########################################################
+##################################################################################
+##########                  COMPLEX KEY BINDINGS
+#############################################@####################################
+
+# Complex key binds - press mod+o, then selection followed by Enter key.
+set $mode_launcher Launch: Chrome | Thunderbird | Excel | Word | Music
+mode "$mode_launcher" {
+    bindsym c exec --no-startup-id chromium
+    bindsym t exec --no-startup-id thunderbird
+    bindsym e exec --no-startup-id et
+    bindsym w exec --no-startup-id wps
+    bindsym m exec --no-startup-id clementine
+    bindsym q mode "default"
+    bindsym Escape mode "default"
+    bindsym Return mode "default"
+}
+bindsym $mod+o mode "$mode_launcher"
+
+##################################################################################
+##########                  STARTUP ON LOAD
+##################################################################################
+
 ## Set Wallpaper 021; 24b; 033 301; 29; 39; 45
 exec_always --no-startup-id feh --bg-scale $HOME/Pictures/Wallpapers/wallpaper_302.jpg
 
@@ -415,11 +405,6 @@ exec_always --no-startup-id ~/.config/polybar/polybar.sh &
 # Network Manager
 exec --no-startup-id nm-applet
 
-## run conky showing date and time.
-### exec_always --no-startup-id sh ~/.config/conky/get_weather_icon.sh
-### exec --no-startup-id conky -c /home/e403sa/.config/conky/conky_date.conf
-# exec --no-startup-id conky -c /home/e403sa/.config/conky/shortcuts.conf
-#exec --no-startup-id conky -c /home/e403sa/.config/conky/shortcuts_top.conf
 ## Dual Monitor
 #exec –no-startup-id xrandr --output HDMI2 --right-of eDP1 --auto
 
@@ -428,8 +413,10 @@ exec --no-startup-id xset s 400 600
 exec --no-startup-id xfce4-power-manager
 exec --no-startup-id blueman-applet
 exec --no-startup-id clementine
+
 # Launch Chrome calculator
 #exec --no-startup-id /usr/bin/chromium --profile-directory=Default --app-id=joodangkbfjnajiiifokapkpmhfnpleo
+
 # Set mousepad values
 exec_always --no-startup-id synclient VertScrollDelta=-70
 exec_always --no-startup-id synclient MaxSpeed=4
@@ -438,34 +425,4 @@ exec --no-startup-id volumeicon
 # enable click on tap
 exec_always --no-startup-id synclient VertEdgeScroll=1 TapButton1=1 TapButton2=1 TapButton3=1
 
-# Screen saver
-#exec_always --no-startup-id xautolock -time 5 -locker 'i3lock -i ~/Pictures/Wallpapers/wallpaper_301.png'
-#exec_always --no-startup-id xautolock -time 5 -locker 'i3lock -i  ~/Pictures/Wallpapers/wallpaper_050.png'
-
-# exec_always --no-startup-id xautolock -time 5 -locker 'xlock -mode spiral -count 12 -erasedelay  400  -cycles 1000 -nolock'
-
-#exec_always --no-startup-id nm-applet
-
-# Complex key binds - press mod+o, then selection followed by Enter key.
-set $mode_launcher Launch: Chrome | Thunderbird | Excel | Word | Music
-mode "$mode_launcher" {
-	bindsym c exec --no-startup-id chromium
-	bindsym t exec --no-startup-id thunderbird
-    bindsym e exec --no-startup-id et
-    bindsym w exec --no-startup-id wps
-    bindsym m exec --no-startup-id clementine
-    bindsym q mode "default"
-	bindsym Escape mode "default"
-	bindsym Return mode "default"
-}
-bindsym $mod+o mode "$mode_launcher"
 # pacman -Rns $(pacman -Qtdq)
-
-#exec_always --no-startup-id xcompmgr -c f -n
-#exec_always --no-startup-id compton -I 0.5 -O 0.5 -D 25 -i 0.8 -e 0.8
-
-#exec_always --no-startup-id compton -cCGfF -D25
-
-#gaps outer 2
-gaps inner 5
-smart_borders on

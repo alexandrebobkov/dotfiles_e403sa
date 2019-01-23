@@ -1,0 +1,5 @@
+AutoNext = yes
+SeekTime = 5
+#  Theme = darkdot_theme
+HideFileExtension = yes
+PlaylistFullPaths = no

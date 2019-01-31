@@ -222,38 +222,44 @@ mode "resize" {
 
 bindsym $mod+r mode "resize"
 
+# Dark Slate Gray	#183E46
+# Steel Blue		#4484A0
+# Light Steel Blue	#CED7E3
+# Cadet Blue		#668D9F
+# Light Steel Blue	#90B0C3
+
 # Colors Palette
-set $base0  #839496
-set $base1  #93A1A1
-set $base2 #EEE8D5
-set $base3 #FDF6E3
-set $base03 #002B36
-set $base00 #657B83
-set $base01 #586E75
-set $base02 #073642
+set $base0	#839496
+set $base1	#93A1A1
+set $base2	#EEE8D5
+set $base3	#FDF6E3
+set $base03	#002B36
+set $base00	#657B83
+set $base01	#586E75
+set $base02	#073642
 
-set $blue       #268BD2
-set $black     #252936
-set $cyan      #2AA198
-set $green    #859900
-set $green2 #073642
-set $red         #DC322F
-set $magenta #D33682
-set $orange #CB4B16
-set $violet    #6C71C4
-set $yellow #B589
-set $white    #FFFFFF
-set $white1   #EEE8D5
-set $white2  #F1F2F6
+set $blue	#268BD2
+set $black	#252936
+set $cyan	#2AA198
+set $green	#859900
+set $green2	#073642
+set $red	#DC322F
+set $magenta	#D33682
+set $orange	#CB4B16
+set $violet	#6C71C4
+set $yellow	#B589
+set $white	#FFFFFF
+set $white1	#EEE8D5
+set $white2	#F1F2F6
 
-#set $color_window_focused   #002B36
-#set $color_window_focused   #FFAA11
-set $color_window_focused   #268bd2
-set $color_window_nofocus   #252936
-#                         border 				background 				text    	indicator
-client.focused                  $color_window_focused	$color_window_focused	$white2		$white2
-client.unfocused            $color_window_nofocus	$color_window_nofocus	$base00		$base0F
-client.urgent                     $base02	$base08		$base00		$base0F
+#set $color_window_focused	#002B36
+#set $color_window_focused	#FFAA11
+set $color_window_focused	#268bd2
+set $color_window_nofocus	#252936
+#			border			background		text		indicator
+client.focused		$color_window_focused	$color_window_focused	$white2		$white2
+client.unfocused	$color_window_nofocused	$color_window_nofocus	$base00		$base0F
+client.urgent		$base02	$base08		$base00			$base0F
 
 ## Hide edges only if using single window.
 hide_edge_borders both

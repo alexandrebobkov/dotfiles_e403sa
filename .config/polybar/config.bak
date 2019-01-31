@@ -1,0 +1,644 @@
+;=====================================================
+;
+;   To learn more about how to configure Polybar
+;   go to https://github.com/jaagr/polybar
+;
+;   The README contains alot of information
+;
+;=====================================================
+
+[colors]
+#transparent = #f90000
+transparent = #112233
+#transparent = #0F0F0F0F
+#transparent = #61EFF0F1
+#transparent = #603F1111
+;background = ${xrdb:color0:#222}
+background = #FFEEBB
+#background = #61EFF0
+#background-alt = #444
+;foreground = ${xrdb:color7:#222}
+foreground = #FFEEBB
+#foreground = #EF5A29
+foreground-alt = #888888
+primary =	#ffb52a
+secondary =	#e60053
+alert	=	#bd2c40
+red	=	#f90000
+blue	=	#0063ff
+green	=	#55aa55
+yellow	=	#FFAA11
+# yellow =	#ffb52a
+
+[bar/top]
+width = 100%
+height = 25
+radius = 3.0
+fixed-center = true
+
+modules-left =
+modules-center = date
+modules-right =
+module-margin-left = 3
+module-margin-right= 0
+
+border-size = 0
+
+padding-left = 0
+padding-right = 0
+
+tray-position = center
+tray-padding = 0
+tray-transparent = true
+
+;background = ${colors.background}
+background = ${colors.transparent}
+foreground = ${colors.foreground}
+line-size = 2
+line-color = #F00
+;font-0 = fixed:pixelsize=10;1
+font-0 = fontawesome:size=10:dpi=150;1
+font-1 = fontawesome:size=10:dpi=150:antialias=true;2
+;font-1 = Codystar:pixelsize=10;1
+font-2 = siji:pixelsize=10;1
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+
+[bar/e403sa]
+;monitor = ${env:MONITOR:HDMI-1}
+bottom = true
+;tray = right
+width = 100%
+height = 25
+radius = 10.0
+fixed-center = true
+separator = |
+
+; app_terminal app_chrome app_calendar
+modules-left = i3
+;modules-center =
+; app_cra
+modules-right =  app_gdocs app_audio volume updates memory freespace cpu xbacklight  battery wlan  kernel date xkeyboard2 app_timer powermenu
+module-margin-left = 2
+module-margin-right = 2
+
+border-size = 250
+border-top-size = 0
+border-bottom-size = 5
+
+padding-left = 0
+padding-right = 3
+
+tray-position = 
+tray-padding = 0
+tray-transparent = true
+
+;background = ${colors.background}
+background = ${colors.transparent}
+foreground = ${colors.foreground}
+line-size = 3
+line-color = #F00
+;font-0 = fixed:pixelsize=10;1
+font-0 = fontawesome:size=10:dpi=150;1
+;font-1 = fontawesome:size=10:dpi=150:antialias=true;2
+;font-1 = Noto Sans Mono Light:pixelsize=10;1
+font-1 = Jura:dpi=91;1
+font-2 = siji:pixelsize=10;1
+;font-2 = Jura:dpi=91;1
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+[bar/example]
+;monitor = ${env:MONITOR:HDMI-1}
+width = 100%
+height = 27
+;offset-x = 1%
+;offset-y = 1%
+radius = 6.0
+fixed-center = false
+
+background = ${colors.background}
+foreground = ${colors.foreground}
+
+line-size = 3
+line-color = #f00
+
+border-size = 4
+border-color = #00000000
+
+padding-left = 0
+padding-right = 2
+
+module-margin-left = 1
+module-margin-right = 2
+
+font-0 = fixed:pixelsize=10;1
+font-1 = unifont:fontformat=truetype:size=8:antialias=false;0
+font-2 = siji:pixelsize=10;1
+
+modules-left = bspwm i3
+modules-center = 
+modules-right = filesystem volume xbacklight xkeyboard memory cpu wlan eth battery temperature date app_timer powermenu power_off
+
+tray-position = right
+tray-padding = 2
+;tray-transparent = true
+;tray-background = #0063ff
+
+;wm-restack = bspwm
+wm-restack = i3
+
+;override-redirect = true
+
+;scroll-up = bspwm-desknext
+;scroll-down = bspwm-deskprev
+
+;scroll-up = i3wm-wsnext
+;scroll-down = i3wm-wsprev
+
+[module/xwindow]
+type = internal/xwindow
+;label = %title:0:30:...%
+label = %title%
+label-maxlen = 35
+format-padding = 2
+
+[module/xkeyboard]
+type = internal/xkeyboard
+blacklist-0 = num lock
+
+format-prefix = " "
+;format-prefix-foreground = ${colors.foreground-alt}
+format-prefix-underline = #0a6cf5
+
+label-layout = %layout%
+label-layout-underline = #0a6cf5
+
+;label-indicator-padding = 2
+;label-indicator-margin = 1
+label-indicator-background = ${colors.secondary}
+label-indicator-underline = #0a6cf5
+
+[module/filesystem]
+type = internal/fs
+;interval = 15
+mount-0 = /
+
+label-mounted = %{F#0a81f5}%{F-} %free%
+label-unmounted = %mountpoint% not mounted
+label-unmounted-foreground = #f00
+
+[module/bspwm]
+type = internal/bspwm
+
+label-focused = %index%
+label-focused-background = ${colors.background-alt}
+label-focused-underline= ${colors.primary}
+label-focused-padding = 2
+
+label-occupied = %index%
+label-occupied-padding = 2
+
+label-urgent = %index%!
+label-urgent-background = ${colors.alert}
+label-urgent-padding = 2
+
+label-empty = %index%
+label-empty-foreground = ${colors.foreground-alt}
+label-empty-padding = 2
+
+[module/i3]
+type			=	internal/i3
+format			=	<label-state> <label-mode>
+strip-wsnumbers	=	true
+fuzzy-match		=	true
+pin-workspaces	=	true
+index-sort		=	true
+wrapping-scroll	=	false
+
+; Only show workspaces on the same output as the bar
+;pin-workspaces = true
+
+label-mode-padding		= 3
+label-mode-foreground	= ${colors.transparent}
+label-mode-background	=#556644
+
+; focused = Active workspace on focused monitor
+label-focused = %icon%
+#label-focused-background = #556644
+label-focused-background = #444455
+#label-focused-underline = #FFAA11
+label-focused-underline = #993322
+label-focused-padding = 2
+label-focused-font = 1
+
+; unfocused = Inactive workspace on any monitor
+label-unfocused = %icon%
+label-unfocused-padding = 2
+
+; visible = Active workspace on unfocused monitor
+;label-visible = %index%
+label-visible = %icon%
+label-visible-background = #556644
+#label-visible-underline = #FFAA11
+label-visible-underline = ${colors.yellow}
+label-visible-padding = ${self.label-focused-padding}
+label-visible-font = 1
+
+; urgent = Workspace with urgency hint set
+label-urgent = %icon%
+label-urgent-background = ${colors.yellow}
+label-urgent-padding = 2
+
+; 1 &#xf0ce;1 
+; 2 &#xf0ce;2 
+ws-icon-0 = 1:Terminals ;
+ws-icon-1 = ;
+ws-icon-2 = ;
+ws-icon-3 = 
+ws-icon-4 = 
+ws-icon-5 = 
+ws-icon-6 = 
+ws-icon-7 = ;
+ws-icon-8 = ;
+ws-icon-9 = ;
+ws-icon-default = 
+
+[module/mpd]
+type = internal/mpd
+format-online = <label-song>  <icon-prev> <icon-stop> <toggle> <icon-next>
+
+icon-prev = 
+icon-stop = 
+icon-play = 
+icon-pause = 
+icon-next = 
+
+label-song-maxlen = 25
+label-song-ellipsis = true
+
+[module/xbacklight]
+type = internal/xbacklight
+
+;format = <label> <bar>
+format = <label> <ramp>
+label = 
+
+ramp-0 = 🌕
+ramp-1 = 🌔
+ramp-2 = 🌓
+ramp-3 = 🌒
+ramp-4 = 🌑
+
+bar-width = 10
+bar-indicator = |
+bar-indicator-foreground = #ff
+bar-indicator-font = 2
+bar-fill = ─
+bar-fill-font = 2
+bar-fill-foreground = #9f78e1
+bar-empty = ─
+bar-empty-font = 2
+bar-empty-foreground = ${colors.foreground-alt}
+
+[module/backlight-acpi]
+inherit = module/xbacklight
+type = internal/backlight
+card = intel_backlight
+
+[module/cpu]
+type = internal/cpu
+interval = 2
+format-prefix = 
+format-prefix-foreground = #FFEEBB
+format-foreground = #FFEEBB
+format = <label> <ramp-coreload>
+#format-underline = #DD1111
+label = %{A:xfce4-terminal -e htop & disown:} %{A}
+ramp-coreload-0	= ▁
+ramp-coreload-1	= ▂
+ramp-coreload-2	= ▃
+ramp-coreload-3	= ▄
+ramp-coreload-4	= ▅
+ramp-coreload-5	= ▆
+ramp-coreload-6	= ▇
+ramp-coreload-7	= █
+
+[module/memory]
+type = internal/memory
+interval = 2
+;format = <bar-used> <label>
+fprmat = <label>
+format-prefix = "  "
+;format-prefix-foreground = ${colors.foreground-alt}
+;format-underline = #268bd2
+;label = %percentage_used%%
+
+label = "%percentage_used%% "
+
+; Only applies if <bar-used> is used
+bar-used-indicator = ▇
+bar-used-width = 7
+;bar-used-foreground-0 = #557755
+;bar-used-foreground-1 = #55aa55
+;bar-used-foreground-2 = #f5a70a
+;bar-used-foreground-3 = #ff5555
+bar-used-fill = ▇
+;▐ 
+;bar-used-fill = |
+bar-used-empty = ▁
+;▐
+;bar-used-empty = |
+bar-used-empty-foreground = #FFEEBB
+
+[module/wlan]
+type = internal/network
+interface = wlp2s0
+interval = 3.0
+
+;format-connected = <label-connected> <ramp-signal>
+format-connected = <label-connected> <ramp-signal>
+;format-connected-underline = #55aa55
+label-connected = "  %essid% | %local_ip% "
+;%signal%%
+
+format-disconnected = <label-disconnected>
+format-disconnected-underline = #F90000
+;format-disconnected = <label-disconnected>
+;format-disconnected-underline = #ffb52a
+label-disconnected = %ifname% disconnected
+;label-disconnected-foreground = ${colors.foreground-alt}
+
+ramp-signal-0 = ▁
+ramp-signal-1 = ▃
+ramp-signal-2 = ▄
+ramp-signal-3 = ▆
+ramp-signal-4 = ▇
+ramp-signal-foreground = #55aa55
+
+[module/eth]
+type = internal/network
+interface = net0
+interval = 3.0
+
+format-connected-underline = #55aa55
+format-connected-prefix = " "
+format-connected-prefix-foreground = ${colors.foreground-alt}
+label-connected = %local_ip%
+
+format-disconnected =
+;format-disconnected = <label-disconnected>
+;format-disconnected-underline = ${self.format-connected-underline}
+;label-disconnected = %ifname% disconnected
+;label-disconnected-foreground = ${colors.foreground-alt}
+
+[module/date]
+type = internal/date
+interval = 5
+
+;date			= " %d.%m.%Y"
+date			= " %a, %b %d "
+date-alt		= " %a, %b %d "
+
+time			= " %H:%M"
+time-alt		= " week %U %Z"
+
+format-prefix = 
+;format-prefix-foreground = #0a6cf5
+;format-underline = #0a6cf5
+
+label = %date% %time%
+click-right = orage
+
+[module/volume]
+type = internal/volume
+
+format-volume = <label-volume> <bar-volume>
+label-volume = 
+label-volume-foreground = #FFEEBB
+
+format-muted-prefix = " "
+format-muted-foreground = #FFEEBB
+label-muted = "      "
+
+bar-volume-width = 7
+bar-volume-foreground-0 = ${colors.foreground-alt}
+bar-volume-foreground-1 = ${colors.foreground-alt}
+bar-volume-foreground-2 = ${colors.foreground-alt}
+bar-volume-foreground-3 = ${colors.foreground-alt}
+bar-volume-foreground-4 = ${colors.foreground-alt}
+bar-volume-foreground-5 = ${colors.foreground-alt}
+bar-volume-foreground-6 = #DD1111
+bar-volume-gradient = true
+; ▐
+bar-volume-indicator = ""
+; 
+bar-volume-indicator-font = 2
+#bar-volume-indicator-foreground = #FFAA11
+bar-volume-indicator-foreground = #77AADD
+;bar-volume-fill = | ▐
+bar-volume-fill = ""
+;▇ 
+bar-volume-fill-font = 2
+;bar-volume-empty = -
+bar-volume-empty = ""
+;▁  
+bar-volume-empty-font = 2
+bar-volume-empty-foreground = #888888
+;bar-used-empty-foreground = #444444
+click-right = clementine -t
+
+; BATTERY
+;;;;;;;;;;;
+[module/battery]
+type = internal/battery
+battery = BAT0
+adapter = AC
+full-at = 90
+
+format-charging = <animation-charging> <label-charging>
+#format-charging-underline = #ffb52a
+format-charging-underline = ${colors.yellow}
+;label-charging = %consumption% W %percentage%%
+label-charging = %percentage%%
+
+format-discharging = <ramp-capacity> <label-discharging>
+#format-discharging-underline = #EF5A29
+format-discharging-underline = #993322
+;label-discharging = %time% %consumption% W %percentage%%
+;label-discharging = %percentage%%
+label-discharging = %percentage%% %consumption%W
+
+format-full-prefix = " "
+format-full-prefix-foreground = #55aa55
+format-full-underline = #55aa55
+
+ramp-capacity-0 = 
+ramp-capacity-1 = 
+ramp-capacity-2 = 
+ramp-capacity-3 = 
+ramp-capacity-4 = 
+#ramp-capacity-foreground = #EF5A29
+ramp-capacity-foreground = #993322
+;#55aa55
+;${colors.foreground-alt}
+
+animation-charging-0 =  
+animation-charging-1 =  
+animation-charging-2 =  
+animation-charging-3 =  
+animation-charging-4 =  
+animation-charging-foreground = #ffb52a
+animation-charging-framerate = 750
+
+;animation-discharging-foreground = #dc322f
+
+[module/temperature]
+type = internal/temperature
+thermal-zone = 0
+warn-temperature = 60
+
+format = <ramp> <label>
+format-underline = #f50a4d
+format-warn = <ramp> <label-warn>
+format-warn-underline = ${self.format-underline}
+
+label = %temperature%
+label-warn = %temperature%
+label-warn-foreground = ${colors.secondary}
+
+ramp-0 = 
+ramp-1 = 
+ramp-2 = 
+ramp-foreground = ${colors.foreground-alt}
+
+[module/powermenu]
+type = custom/menu
+
+format-spacing = 1
+
+label-open = 
+label-open-foreground = #EF5A29
+label-close = 
+label-close-foreground = ${colors.secondary}
+label-separator = |
+label-separator-foreground = ${colors.foreground-alt}
+
+menu-0-0 = 
+menu-0-0-exec = systemctl poweroff
+menu-0-1 = 
+menu-0-1-exec = i3-msg exit
+menu-0-2 = 
+menu-0-2-exec = systemctl reboot
+menu-0-3 = 
+menu-0-3-exec = xautolock -locknow
+
+;menu-1-0 = 
+;menu-1-0-exec = menu-open-0
+;menu-1-1 = reboot
+;menu-1-1-exec = sudo reboot
+
+;menu-2-0 = 
+;menu-2-0-exec = sudo poweroff
+;menu-2-1 = cancel
+;menu-2-1-exec = menu-open-0
+
+;[module/power_off]
+;type = custom/script
+;tail = false
+;format-prefix = ""
+;format-underline = #F90000
+;label = %{A: systemctl poweroff:}%{A}
+
+; =====================================================
+; displays number of packages available updates
+[module/updates]
+type = custom/script
+exec = "pacman -Qqu | wc -l"
+tail = true
+interval = 90
+format-prefix = 
+#format-underline = #764514
+format-underline = ${colors.yellow}
+label = %{A:exo-open --launch TerminalEmulator:} %output% %{A}
+; -e "pacman -Qu"
+;format-background = #268bd2
+;click-left = echo left %counter%
+;click-middle = echo middle %counter%
+;click-right = echo right %counter%
+
+; =====================================================
+; displays available disk space
+[module/freespace]
+type = custom/script
+;exec = "du -sh /home"
+exec = "df -h --output=avail /dev/mmcblk0p6 | sed 1d"
+tail = true
+interval = 15
+format-prefix = " "
+;format-underline = #268bd2
+
+[module/kernel]
+type = custom/script
+exec = uname -r
+tail = false
+interval = 1024
+format-prefix = " "
+
+[module/app_chrome]
+type = custom/text
+content = 
+content-foreground = #FFB52A
+click-left = chromium
+
+[module/app_calendar]
+type = custom/text
+content = 
+content-foreground = #FFB52A
+click-left = chromium --app=https://calendar.google.com/calendar/b/0/render\?tab\=mc\&t\=AKUaPmZ6TGE1i6-E7m8ykcxa8VxajckrciSNyBzLkF9KyvalkGbmxbrcRgSKTQEOkRwWC2gznRHYuoVp0gYu4zf2GHZ7wwDJgA%3D%3D\#main_7%7Cmonth
+
+[module/app_terminal]
+type = custom/text
+content = 
+content-foreground = #FFB52A
+click-left = xfce4-terminal -e mocp
+
+[module/app_gdocs]
+type = custom/text
+content = 
+content-foreground = #F90000
+click-left = chromium --app=https://docs.google.com/spreadsheets/u/0/
+
+[module/app_cra]
+type = custom/text
+content = %{A}CRA%{A}
+content-padding = 1
+content-foreground = #DDEFF3
+content-background = #F90000
+click-left = chromium --app=https://www.canada.ca/en/revenue-agency/services/e-services/represent-a-client.html
+
+[module/app_timer]
+type = custom/text
+content = 
+content-foreground = #EF5A29
+click-left = gnome-pomodoro --pause-resume
+click-right = gnome-pomodoro
+
+[module/app_audio]
+type = custom/text
+content = 
+content-foreground = #FFB52A
+click-left = clementine -t
+click-right = clementine
+
+[settings]
+screenchange-reload = true
+;compositing-background = xor
+;compositing-background = screen
+;compositing-foreground = source
+;compositing-border = over
+
+[global/wm]
+margin-top = 5
+margin-bottom = 5
+
+; vim:ft=dosini

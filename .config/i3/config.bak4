@@ -1,0 +1,361 @@
+# Author: Alexandre Bobkov
+# Custom confoguration file for i3wm
+
+
+set $mod Mod4
+# Mod4 = WIN key
+
+# colors
+#set $base00 #101218
+#set $base00 #657b83
+#set $base01 #1f222d
+#set $base02 #252936
+#set $base03 #7780a1
+#set $base04 #C0C5CE
+#set $base05 #d1d4e0
+#set $base06 #C9CCDB
+#set $base07 #ffffff
+#set $base08 #ee829f
+#set $base09 #f99170
+#set $base0A #ffefcc
+#set $base0B #a5ffe1
+#set $base0C #97e0ff
+#set $base0D #97bbf7
+#set $base0E #c0b7f9
+#set $base0F #fcc09e
+
+#set smart_gaps on
+#set smart_borders on
+
+#set gaps inner all set 20
+set gaps inner all set 20
+#set gaps outer 20
+set new_window pixel 10
+
+
+# Font for window titles. Will also be used by the bar unless a different font
+# is used in the bar {} block below.
+#font pango:monospace 8
+font pango:monospace 10
+
+# This font is widely installed, provides lots of unicode glyphs, right-to-left
+# text rendering and scalability on retina/hidpi displays (thanks to pango).
+#font pango:DejaVu Sans Mono 8
+
+# Before i3 v4.8, we used to recommend this one as the default:
+# font -misc-fixed-medium-r-normal--13-120-75-75-C-70-iso10646-1
+# The font above is very space-efficient, that is, it looks good, sharp and
+# clear in small sizes. However, its unicode glyph coverage is limited, the old
+# X core fonts rendering does not support right-to-left and this being a bitmap
+# font, it doesn’t scale on retina/hidpi displays.
+
+# Use Mouse+$mod to drag floating windows to their wanted position
+floating_modifier $mod
+
+## Start a terminal
+#bindsym $mod+Return exec i3-sensible-terminal
+bindsym $mod+Return exec xfce4-terminal --hide-scrollbar
+## Start Midnight Commander
+bindsym $mod+Ctrl+Return exec xfce4-terminal --hide-scrollbar --command mc
+
+# kill focused window
+bindsym $mod+q kill
+
+# start dmenu (a program launcher)
+bindsym $mod+d exec dmenu_run
+# There also is the (new) i3-dmenu-desktop which only displays applications
+# shipping a .desktop file. It is a wrapper around dmenu, so you need that
+# installed.
+bindsym $mod+shift+d exec --no-startup-id i3-dmenu-desktop
+
+# change focus
+bindsym $mod+j focus left
+bindsym $mod+k focus down
+bindsym $mod+l focus up
+bindsym $mod+semicolon focus right
+
+# alternatively, you can use the cursor keys:
+bindsym $mod+Left focus left
+bindsym $mod+Down focus down
+bindsym $mod+Up focus up
+bindsym $mod+Right focus right
+
+# move focused window
+bindsym $mod+Shift+j move left
+bindsym $mod+Shift+k move down
+bindsym $mod+Shift+l move up
+bindsym $mod+Shift+semicolon move right
+
+# alternatively, you can use the cursor keys:
+bindsym $mod+Shift+Left move left
+bindsym $mod+Shift+Down move down
+bindsym $mod+Shift+Up move up
+bindsym $mod+Shift+Right move right
+
+# split in horizontal orientation
+bindsym $mod+h split v
+
+# split in vertical orientation
+bindsym $mod+v split h
+
+# enter fullscreen mode for the focused container
+bindsym $mod+f fullscreen toggle
+
+# change container layout (stacked, tabbed, toggle split)
+bindsym $mod+s layout stacking
+bindsym $mod+w layout tabbed
+bindsym $mod+e layout toggle split
+
+# toggle tiling / floating
+bindsym $mod+Shift+space floating toggle
+
+# change focus between tiling / floating windows
+bindsym $mod+space focus mode_toggle
+
+# focus the parent container
+bindsym $mod+a focus parent
+
+# focus the child container
+#bindsym $mod+d focus child
+
+set $workspace1 "1:Terminals "
+
+## Filebrowser
+set $workspace2 "2:&#xf114;"
+## Internet browser
+set $workspace3 "3:&#xf269;"
+
+## Excel &#xf0ce;
+set $workspace4 "4:1 &#xf0ce;"
+set $workspace5 "5:2 &#xf0ce;"
+
+## Word
+set $workspace6 "6:&#xf1c2;"
+set $workspace7 "7:&#xf02d;"
+## E-mail
+set $workspace8 "8:&#xf2b7;"
+## Leisure
+set $workspace9 "9:&#xf0f4;"
+## Media 
+set $workspace10 "10:&#xf001;"
+
+# switch to workspace and switch wallpaper
+##set $feh exec --no-startup-id feh --bg-scale 
+bindsym $mod+1 workspace $workspace1
+##; $feh $HOME/Pictures/Wallpapers/wallpaper_101.png
+bindsym $mod+2 workspace $workspace2
+##; $feh $HOME/Pictures/Wallpapers/wallpaper_014.jpg
+bindsym $mod+3 workspace $workspace3
+##; $feh $HOME/Pictures/Wallpapers/wallpaper_010.jpg
+bindsym $mod+4 workspace $workspace4
+##; $feh $HOME/Pictures/Wallpapers/wallpaper_014.jpg
+bindsym $mod+5 workspace $workspace5
+bindsym $mod+6 workspace $workspace6
+bindsym $mod+7 workspace $workspace7
+bindsym $mod+8 workspace $workspace8
+bindsym $mod+9 workspace $workspace9
+bindsym $mod+0 workspace $workspace10
+
+# move focused container to workspace
+bindsym $mod+Shift+1 move container to workspace $workspace1
+bindsym $mod+Shift+2 move container to workspace $workspace2
+bindsym $mod+Shift+3 move container to workspace $workspace3
+bindsym $mod+Shift+4 move container to workspace $workspace4
+bindsym $mod+Shift+5 move container to workspace $workspace5
+bindsym $mod+Shift+6 move container to workspace $workspace6
+bindsym $mod+Shift+7 move container to workspace $workspace7
+bindsym $mod+Shift+8 move container to workspace $workspace8
+bindsym $mod+Shift+9 move container to workspace $workspace9
+bindsym $mod+Shift+0 move container to workspace $workspace10
+
+# Launch Chromium browser and assign to workspace #2
+#exec_always chromium
+#assign [class="Chromium"] $workspace2
+
+# Launch Midnight Commander
+#exec_always Gnome-terminal
+#assign [class="Gnome-terminal"] $workspace1
+
+# reload the configuration file
+bindsym $mod+Shift+c reload
+# restart i3 inplace (preserves your layout/session, can be used to upgrade i3)
+bindsym $mod+Shift+r restart
+# exit i3 (logs you out of your X session)
+bindsym $mod+Shift+e exec "i3-nagbar -t warning -m 'You pressed the exit shortcut. Do you really want to exit i3? This will end your X session.' -b 'Yes, exit i3' 'i3-msg exit'"
+
+# resize window (you can also use the mouse for that)
+mode "resize" {
+        # These bindings trigger as soon as you enter the resize mode
+
+        # Pressing left will shrink the window’s width.
+        # Pressing right will grow the window’s width.
+        # Pressing up will shrink the window’s height.
+        # Pressing down will grow the window’s height.
+        bindsym j resize shrink width 10 px or 10 ppt
+        bindsym k resize grow height 10 px or 10 ppt
+        bindsym l resize shrink height 10 px or 10 ppt
+        bindsym semicolon resize grow width 10 px or 10 ppt
+
+        # same bindings, but for the arrow keys
+        bindsym Left resize shrink width 10 px or 10 ppt
+        bindsym Down resize grow height 10 px or 10 ppt
+        bindsym Up resize shrink height 10 px or 10 ppt
+        bindsym Right resize grow width 10 px or 10 ppt
+
+        # back to normal: Enter or Escape
+        bindsym Return mode "default"
+        bindsym Escape mode "default"
+}
+
+bindsym $mod+r mode "resize"
+
+# Window Colors
+
+#  client.focused          $base01 $base01    $base07 #268bd2
+#  client.focused            $base01 $base01 $base07 #268bd2
+
+
+#set $clr_white #F1F2F6
+
+set $base0 		#839496
+set $base1 		#93A1A1
+set $base2 		#EEE8D5
+set $base3 		#FDF6E3
+set $base03		#002B36
+set $base00		#657B83
+set $base01 	#586E75
+set $base02		#073642
+
+set $blue		#268BD2
+set $black 		#252936
+set $cyan		#2AA198
+set $green 		#859900
+set $green2		#073642
+set $red 		#DC322F
+set $magenta 	#D33682
+set $orange		#CB4B16
+set $violet		#6C71C4
+set $yellow		#B58900
+set $white 		#FFFFFF
+set $white1		#EEE8D5
+set $white2		#F1F2F6
+
+set $color_wondow_focused 	#002B36
+set $color_window_nofocus 	#252936
+#                         border 				background 				text    	indicator
+client.focused            $color_wondow_focused	$color_wondow_focused	$white2		$white2
+client.unfocused          $color_window_nofocus	$color_window_nofocus	$base00		$base0F
+client.urgent             $base02	$base08		$base00		$base0F
+new_window normal 6
+#client.background #002b36
+client.background #eee8d5
+for_window [class=".*"] title_format "<b><i>%title</i></b>"
+#for_window [window_role="__focused__"] title_format "<b>%title</b>"
+
+
+## Top bar
+bar {
+	id bar-1
+    mode dock
+	position top
+	workspace_buttons no
+    font pango:FontAwesome 10
+    colors {
+        background  $white2
+        statusline  $green2
+    }
+	status_command conky -c $HOME/.config/conky/conky_bar.conf
+}
+# Start i3bar to display a workspace bar (plus the system information i3status
+# finds out, if available)
+bar {
+	id bar-2
+    position bottom
+	font pango:FontAwesome 10
+	strip_workspace_numbers yes
+#	separator_symbol ":|:"
+    colors {
+        background  $white2
+        statusline  $green2
+		#					border 		background	text
+        focused_workspace   $green2     $green2     $white2
+        inactive_workspace	$white2		$white2 	$green2        
+        urgent_workspace	$red		$red 		$white2
+    }
+	binding_mode_indicator yes
+#	status_command i3status -c $HOME/.config/i3status/i3status.conf
+	status_command conky -c $HOME/.config/conky/conky_bar_bottom.conf
+
+}
+
+##################################################################################
+##########                  CUSTOM SETTINGS
+#############################################@####################################
+# Use xmodmap -pke command to identify key opcodes
+## Custom Wallpaper 014
+exec_always feh --bg-scale $HOME/Pictures/Wallpapers/wallpaper_013.jpg
+#archlinux-simplyblack.png
+bindsym $mod+ctrl+w exec feh --randomize --bg-scale $HOME/Pictres/Wallpapers/*
+# enable click on tap
+exec_always synclient VertEdgeScroll=1 TapButton1=1 TapButton2=1 TapButton3=1
+# Lock the screen
+#bindsym $mod+shift+x exec xscreensaver gleidescope -root -duration 148
+# wallpaper 101 - Arch logo onblack background
+bindsym $mod+shift+x exec i3lock -e -d -I 5 -i /$HOME/Pictures/Wallpapers/wallpaper_010.jpg
+#; exec xbacklight -set 10
+
+# Media keys
+#bindsym XF86MonBrightnessUp exec "xbacklight -dec 5"
+#bindsym XF86MonBrightnessDown exec xbacklight -dec 20
+bindsym $mod+ctrl+o exec "xbacklight -dec 5"
+bindsym $mod+ctrl+p exec "xbacklight -inc 10"
+
+## Touchpad controls
+# Volume up
+bindcode 123 exec amixer -q sset Master Playback Volume 2%+
+# Volume down
+bindcode 122 exec amixer -q sset Master Playback Volume 2%-
+# Volume Mute
+bindcode 121 exec amixer -q sset Master Playback Volume toggle
+
+## Take Screenshot
+#bindcode 107 exec "i3-nagbar -t warning -m 'Screenshot'"
+bindcode 107 exec scrot 'Screenshot_%Y-%h-%d_%H:%M:%S.png' -e 'mv $f ~/Pictures/screenshots/'
+## Capture Camera
+bindcode Shift+107 exec fswebcam -c ~/.config/fswebcam/fswebcam.conf
+
+## Launch file browser
+bindsym $mod+ctrl+f exec thunar
+## Launch Chrome browser
+bindsym $mod+ctrl+b exec chromium
+## Launch Sublime text editor
+bindsym $mod+ctrl+t exec $HOME/Software/sublime-text/sublime-text.sh
+## Launch chrome calculator
+bindsym $mod+ctrl+c exec xcalc
+## Launch calendar
+bindsym $mod+ctrl+d exec orage
+
+
+# Complex key binds - press mod+o, then selection followed by Enter key.
+set $mode_launcher Launch: [c]hrome [t]hunderbird [e]xcel [w]ord
+mode "$mode_launcher" {
+	bindsym c exec chromium
+	bindsym t exec thunderbird
+    bindsym e exec et
+    bindsym w exec wps
+	bindsym Escape mode "default"
+	bindsym Return mode "default"
+}
+bindsym $mod+o mode "$mode_launcher"
+
+
+
+## Conky
+#exec conky -c $HOME/.config/conky/conky.conf
+
+## Dropbox
+exec --no-startup-id dropbox 
+#exec conky -c $HOME/.config/conky/conky_cal
+## Blank screen after 5 minutes
+exec --no-startup-id xset s 400 600
+exec --no-startup-id xfce4-power-manager

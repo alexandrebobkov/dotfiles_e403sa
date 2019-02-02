@@ -1,0 +1,9 @@
+====== PUBLIC MANAGEMENT ======
+===== Lectures =====
+  * [[PAP2320:lectures:March 30]]
+  * [[PAP2320:lectures:Lecture]]
+
+===== Exam Review =====
+[[PAP2320:Exam Review|Review Notes]]
+
+<sub>create new lectures using format PAP2320:lectures:lecture</sub>

@@ -1,0 +1,6 @@
+SCS2150 - Intro. to Methodology 			[@!!PAGE@ @!FILE@]
+
+%A  %B %e, %Y. %H:%M
+
+====== @!PAGE!@ ======
+

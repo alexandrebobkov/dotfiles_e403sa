@@ -1,0 +1,22 @@
+== To list & connect to access points ==
+
+  * nm-cli device wifi list
+  * nm-cli device wifi connect 'Access_Point_Name'
+
+  * to display OS release version and hostname -> uname -a && lsb_release -a
+
+== To obtain the information about hardware ==
+
+  * lscpu
+  * sudo lshw -short
+  * sudo dmidecode -t processor
+  * sudo dmidecode -t memory
+  * sudo hdparm -i /dev/sda
+  * lspci
+  * lsusb
+  * lsblk
+  * df
+  * fdisk 
+
+== To remove orphaned packages on Arch ==
+sudo pacman -Rns $(pacman -Qtdq)

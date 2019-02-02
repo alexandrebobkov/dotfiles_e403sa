@@ -1,0 +1,73 @@
+ Mon, Oct 26
+====== REFLECTION ======
+  * reference to the first three chapters;
+  * discuss assumptions about the analysis of ethical behavior in the public sector;
+    - What are the most important considerations in an approach to ethical reasoning?
+    - Which sets of assumptions do you consider the most __challenging__? Why? :ok:
+    - Which sets of assumptions you are the most __comfortable__ with? Why? :ok:
+    - What role do you consider that values can play in promoting ethical behavior? :ok:
+  * 2500 words (10 pages);
+
+My perception of the material covered at the beginning of the class is that public servants tend to extract the economic benefit from the public organizations, and as a consequence their actions have to be controlled in order to avoid unethical behavior and benefit the public interest.
+
+For instance, public servants tend to avoid personal responsiblities for the actions peformed at a workplace. They tend to do so by making one of the general claims. First, is that since there are too many people involved in decision-making, then it is impossible to poin-point particular person at fault. Second, although some actions can be deemed unethical, public servants can still claim that they are not responsible because they were following the orders from superiors.
+
+1. Taking Personal Responsibility
+  * "too many hands" excuse: in the team environment public servants refuse to accept individual responsibility for inactions they have involved with. According to Thompson (1985), under ethics of structure, public servants cannot be held morally responsible for most of the decisions and policies of government; their personal moral responsibility extends only to the specific duties of their own office for which they are legally liable (p.550).
+  * "dirty hands" excuse;
+
+//Public servants have significant amount of power in their hands in regards to the decision-making and policy-making capacities.//
+
+2. Defensible Decisions
+  * Ethical Relativism:
+    * justifying moral choices;
+    * duty ethics;
+  * Focusing on Consequences;
+  * Virtue Ethics
+3. Acting in the Public Interest
+  * the utility of public interest;
+  * players affecting public interest;
+  * Approaches:
+    * cost-benefit analysis;
+    * procedural approach;
+    * consensualist approach;
+  * avoiding self-interest;
+
+==== Ethical Relativism ====
+Ethical relativism is the theory that holds that morality is relative to the norms of one's culture. That is, whether an action is right or wrong depends on the moral norms of the society in which it is practiced. The same action may be morally right in one society but be morally wrong in another. For the ethical relativist, there are no universal moral standards -- standards that can be universally applied to all peoples at all times. The only moral standards against which a society's practices can be judged are its own. If ethical relativism is correct, there can be no common framework for resolving moral disputes or for reaching agreement on ethical matters among members of different societies.
+
+Also, it is argued, it may be the case that some moral beliefs are culturally relative whereas others are not. Certain practices, such as customs regarding dress and decency, may depend on local custom whereas other practices, such as slavery, torture, or political repression, may be governed by universal moral standards and judged wrong despite the many other differences that exist among cultures. Simply because some practices are relative does not mean that all practices are relative.
+
+Other philosophers criticize ethical relativism because of its implications for individual moral beliefs. These philosophers assert that if the rightness or wrongness of an action depends on a society's norms, then it follows that one must obey the norms of one's society and to diverge from those norms is to act immorally. This means that if I am a member of a society that believes that racial or sexist practices are morally permissible, then I must accept those practices as morally right. But such a view promotes social conformity and leaves no room for moral reform or improvement in a society. Furthermore, members of the same society may hold different views on practices. In the United States, for example, a variety of moral opinions exists on matters ranging from animal experimentation to abortion.
+
+==== Consequentialism ====
+
+Consequentialism is the class of normative ethical theories holding that the consequences of one's conduct are the ultimate basis for any judgment about the rightness or wrongness of that conduct. Thus, from a consequentialist standpoint, a morally right act (or omission from acting) is one that will produce a good outcome, or consequence. In an extreme form, the idea of consequentialism is commonly encapsulated in the English saying, "the ends justify the means",[1] meaning that if a goal is morally important enough, any method of achieving it is acceptable.[2]
+
+Consequentialism is usually contrasted with deontological ethics (or deontology), in that deontology, in which rules and moral duty are central, derives the rightness or wrongness of one's conduct from the character of the behaviour itself rather than the outcomes of the conduct. It is also contrasted with virtue ethics, which focuses on the character of the agent rather than on the nature or consequences of the act (or omission) itself, and pragmatic ethics which treats morality like science: advancing socially over the course of many lifetimes, such that any moral criterion is subject to revision. Consequentialist theories differ in how they define moral goods.
+
+Some argue that consequentialist and deontological theories are not necessarily mutually exclusive. For example, T. M. Scanlon advances the idea that human rights, which are commonly considered a "deontological" concept, can only be justified with reference to the consequences of having those rights.[3] Similarly, Robert Nozick argues for a theory that is mostly consequentialist, but incorporates inviolable "side-constraints" which restrict the sort of actions agents are permitted to do.
+
+==== Virtue Ethics ====
+It holds that the proper goal of human life is eudaimonia (which can be variously translated as "happiness", "well-being" or the "good life"), and that this goal can be achieved by a lifetime of practising "arête" (the virtues) in one's everyday activities, subject to the exercise of "phronesis" (practical wisdom) to resolve any conflicts or dilemmas which might arise. Indeed, such a virtous life would in itself constitute eudaimonia, which should be seen as an objective, not a subjective, state, characterized by the well-lived life, irrespective of the emotional state of the person experiencing it.
+A virtue is a habit or quality that allows individuals to succeed at their purpose. Therefore, Virtue Ethics is only intelligible if it is teleological (i.e. it includes an account of the purpose or meaning of human life), a matter of some contention among philosophers since the beginning of time. Aristotle, with whom Virtue Ethics is largely identified, categorized the virtues as moral virtues (including prudence, justice, fortitude and temperance) and intellectual virtues (including "sophia" or theoretical wisdom, and "phronesis" or practical wisdom). Aristotle further argued that each of the moral virtues was a golden mean, or desirable middle ground, between two undesirable extremes (e.g. the virtue of courage is a mean between the two vices of cowardice and foolhardiness).
+
+-------------------------
+//Virtue ethics is a middle point between ethics of duty and consequential ethics. Virtue ethics place more weight on statements of values that public servants should follow. For example, the federal government's Values and Ethics Code for the Public Sector structured with virtue ethics in mind as it outlines the values and acceptable behaviors applicable to public servants (p. 59). Many scholars from public sector ethics recognize the importance of virtue ethics in public sector. For example, Lynch (2004) notes that virtue ethics pursuits development of such important virtues as justice, courage, and truthfulness that help to advance the public interest (p. 32). Virtue ethics help to hold public interest by promoting integrity so that public servants put the common good before private interest (Canadian Centre for Management Development 1996, p.56). Virtue ethics define rules that public servant has to follow. Virtues look like a statements of a rule that state what to do and what not to do. Importantly, ethics of virtue do not look at the consequences, they simply define the rules that have to be obeyed. One of the issues with this theory is that having the number of virtues available, public servant will chose the most appealing one; that means that bias in actions is possible - actions of one person may differ from the actions of another. Advantages of virtue ethics is that determination of good action does not involve analysis of consequences or calculations of associated costs and benefits. Virtues can be implemented through the statement of values.//
+
+//
+Virtue - characteristics traits that judges desirable or admirable values. Ethical judgement is problematic.
+//
+
+==== CONCLUSION ====
+
+From the listed assumptions I am the most comfortable with the ethics of duties for the number of reason. First of all, this assumption defines right action the one which corresponds to the set of rules and regulations. The assessment of the action is clear and finite: if action corresponds to the defined rules, then it is right. Second of all, this assumption promotes efficiency and segregation of duties at the workplace. The efficiency is promoted by virtue of having the framework of pre-defined correct actions readily available. Since the tasks are defined, there is a segregation of duties, which allows to specialize the work and directly trace the responsibility associated with each task performed by each public servant. Together, they promote efficient workplace where each individual conducts pre-defined tasks within own scope of work in accordance with predefined rules. Any deviation could be assessed on per-worker basis.
+
+From the listed assumptions I find the ethics of consequences the most challenging one. I think so because there is always an issue of perfect information available at a given time that would be necessary in determining the best way of action. In other words, at the moment of making the decision, public servant may not have complete information available in order to assess the consequences of the actions. However, once such information becomes available, the decision may no longer be viewed as a right one. In other words, what's right in a given point of time under given circumstances may become wrong once more information becomes available.
+
+
+In my opinion each of the ethic approaches is appropriate in different scenarios. For instance, public servants involved in technical tasks that structured around algorithm of procedures are more likely to use ethics of duty. That way they can assess ethics of their actions based on the degree of deviation from the prescribed course of actions. For example, public servant who reviews completeness of documents or the passport application would likely to guide own actions based on the tasks he or she needs to follow; if there are missing documents then issuance of the passport should not be initiated regardless of the consequences strictly because doing so would violate the duties, and thus would be unethical. Public servants who are involved in decision-making and have degree of freedom of action are more likely to use ethics of virtue and consequential in order to assess their actions based on the consequences they may encounter on public. For example, policy-maker would likely to assess the consequences when deciding which policy to implement and thus what action to take.
+
+Therefore, I am inclined to the point of view that all ethics approaches are equally valid for as long as they are applied appropriately.
+
+In my opinion ethical values can promote wide range of roles. The ethics of duties can be more appropriate for the forces and military sectors, where actions have to be spelled out and there is strictness about objectives, such as protect the government borders. There might be little consideration for the consequences for as long as the goal is accomplished. In turn, ethics of virtue can be appropriate in the sphere of professional conduct evaluation. For instance, the development of policies in the health sector have to take into the account benefit to the public as well as promotion and development of professional qualities such as integrity, honesty and truthfulness. Thus, in this regards the ethics of virtue can play the role of projecting ideal traits and characteristics for professionals.

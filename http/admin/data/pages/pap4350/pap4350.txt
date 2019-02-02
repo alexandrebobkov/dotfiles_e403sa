@@ -1,0 +1,21 @@
+====== PAP4350 ======
+
+:!: emergence programs in Montreal & Quebec to learn French.
+
+[[pap4350:Lectures|Lectures]] \\
+[[pap4350:Readings|Readings]] \\
+[[pap4350:Review|Review]] \\
+[[pap4350:Project|Project]]
+
+**Books**
+
+Kerzner, H. (2009). Project Management: A Systems Approach to Planning, Scheduling, and
+Controlling. (10 th ed). Hoboken, New Jersey: John Wiley & Sons, Inc. \\
+{{:pap4350:project_management_a_systems_approach_10thed.pdf|}}
+
+
+
+
+
+
+Created on: 2016/01/15 17:41

@@ -1,0 +1,39 @@
+====== PROJECT CHARTER ======
+
+===== PART A =====
+==== The Organization ====
+  * describe the organization and the client
+  * who are the organizations key stakeholders?
+  * what is the client's role and responsibilities?
+==== The Project Description ====
+  * explain the reason why this project is being undertaken?
+  * what's the problem the client would like to be solved? opportunity the client would like to seize?
+  * is it linked to the organization overall strategy?
+===== PART B =====
+==== The Project Overview ====
+=== Objectives ===
+  * describe the tangible entity that you will deliver to the client
+  * describe the expected outcome
+  * scope statement -> what's in scope and what's not
+=== Performance Measurement ===
+  * identify the measures that will validate that the objective has been met
+=== Constraints and Assumptions ===
+  * what constraint limit the scope of the project?
+  * what are the assumptions that impact the project scope?
+=== Project Risks ===
+  - risk 1
+  - risk 2
+  - risk 3
+=== Project Resources ===
+  * describe the project team, and clearly identify each team member's role and responsibilities
+  * budget & the process for managing it
+===== APPENDICES =====
+==== Logic Model ====
+==== Work Breakdown Structure ====
+
+
+
+
+
+
+Created on: 2016/02/02 09:03

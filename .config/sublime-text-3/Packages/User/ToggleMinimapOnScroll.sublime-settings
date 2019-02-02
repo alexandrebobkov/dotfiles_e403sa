@@ -1,0 +1,4 @@
+{
+    // Set to false to disable minimap toggle on scroll by default
+    "toggle_minimap_on_scroll_enabled_by_default": false,
+}

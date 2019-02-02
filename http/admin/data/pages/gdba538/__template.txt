@@ -1,0 +1,26 @@
+====== Case: @!PAGE!@ ======
+
+===== 1. CONTEXT =====
+__Situation:__ //a summary of key facts, events, developments and players found in the case. What facts do we know?//
+
+__Company's Current Strategy:__ \\
+  * goals and objectives \\
+  * product / market emphasis \\
+  * industry the firm competes in \\
+
+__Problem Statement:__ //strategic problems or issues//
+  * particular actions to be done?
+  * specific obstacles to overcome?
+
+===== 2. EXTERNAL ANALYSIS =====
+
+===== 3. INTERNAL ANALYSIS =====
+===== 4. APPRAISAL OF ISSUES =====
+===== 5. EVALUATION OF ALTERNATIVES =====
+===== 6. RECOMMENDATION =====
+
+
+
+
+
+Created on: @DATE@

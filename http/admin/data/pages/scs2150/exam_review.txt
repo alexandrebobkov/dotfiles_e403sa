@@ -1,0 +1,165 @@
+SCS2150 - Intro. to Methodology 			[Exam Review Exam_review]
+
+Monday  April 20, 2015. 22:08
+
+====== EXAM REVIEW ======
+
+===== Sampling =====
+  * 3 factors in identifying a population
+  * advantages of sampling
+  * 3 factors influencing the representatives of a sample
+
+__Population__ - the group that we wish to study.
+
+__Sample__ - a smaller group that is representative of the population. The statistical analysis of sample allows to form generalizations about population as a whole.
+
+==== 3 FACTORS THAT IDENTIFY POPULATION ====
+  - Unit of analysis (who?)
+  - Geographic location (where?)
+  - Time period (when?)
+
+==== ADVANTAGES OF SAMPLING ====
+  - Efficient
+  - Cheaper
+  - Restricted to time frame
+  - Less data collection and entry
+  - Accurate estimate of population
+
+==== 3 FACTORS OF REPRESENTATIVES OF SAMPLE ====
+   - Accuracy of the sample time frame
+   - Sample size (larger sample -> lower error)
+   - Sample selection method
+
+//weakness in any one element cannot be compensated by another//
+
+==== 4 FACTORS THAT INFLUENCE SAMPLE SIZE ====
+  - Homogeneity: highly homogeneous -> smaller sample is needed
+  - # of variables under study: more variables -> larger sample is needed
+  - Sampling method
+    * Simple Random Sample
+    * Stratified Sample
+    * Cluster Sample
+
+Cluster (low accuracy) -> Simple -> Stratified (high accuracy)
+
+==== QUANTITATIVE RESEARCH ====
+
+=== 1. Simple Random Sampling ===
+//Cases (samples) are randomly chosen until the desired sample size is met.//
+
+//Ideal method. Each element has an equal chance of being selected. However, costly for large population.//
+=== 2. Stratified Sampling ===
+//__Breaking__ population into __mutually exclusive subgroups__ and then randomly sampling each group. Increases homogeneity of the samples and reduces sampling error.//
+
+//Ex.: group by political party, then sample. Group schools into urban and sub-urban.//
+=== 3. Cluster Sampling ===
+//Dividing the population into a smaller number of small subgroups (clusters), and then randomly selecting clusters.//
+
+//Yields high sample error.//
+==== QUALITATIVE RESEARCH ====
+=== 1. Purposive Sampling ===
+The most common sampling strategy. It groups participants according to __research question__ or pre-selected criteria.
+
+Sample size is not always fixed. It grows until additional data is no longer brings additional insights.
+
+Purposive sampling is most successful when data collection is done in conjunction with data review and analysis.
+=== 2. Quota Sampling ===
+Stipulates number of samples with different characteristics (i.e. age, place, class, etc). Groups participants according to __characteristics__. Useful when group is rare. Weak because it is not random. However, cheap and fast.
+=== 3. Snowball Sampling ===
+Recruits sampling of "hidden populations". Ex.: ask participant to refer to his/her social networks.
+
+==== QUAL vs. QUANT ====
+^  QUAL  ^  QUANT  ^
+| sample method depends on research objective & characteristocs of population.  | sample method depends on margin of error.  |
+| no generalization; non-random  | represents population  |
+
+===== Observation =====
+//integral part of the research process.//
+
+^  +  ^  -  ^
+| Observation research is useful to develop a familiarity with a cultural mileau.  | It is time consuming. Difficult to document the data. Involves subjectivity.  |
+| Participant observation is useful for gaining an understanding of the following: a) context (sociological, cultural, social); b) relationships between people; c) behaviors and activities.  | :::  |
+| Observation may uncover important factors that were unknown when the study was designed. Observation may help to design questions to better understand subject studied, or to improve design. | ::: |
+
+=== 2 TYPES OF OBSERVATIONAL RESEARCH ===
+  - Direct Observation - observe from beside. Note behaviours and categorize.
+    * covert (aware)
+    * overt (blend-in)
+  - Participant Observation - become part of community. Allows for greater understanding of context.
+
+__**THINGS TO OBSERVE**__
+  * apearance
+  * verbal behaviour
+  * physical behaviour
+  * personal space
+  * people who stand out
+
+__**THINGS TO NOTE**__
+  * cloths, age, gender
+  * actions, qualities, characteristics
+
+//**watch for something in particular to the objective**//
+
+===== Interview =====
+Gain rich data from knowledgeable person. Ask respondent questions in a face-to-face situation. Interview schedules and questionnaires measure variables by gathering answers to questions.
+
+Each question must be relevant to one of the variables being studied.
+
+Avoid asking questions out of curiosity or out of scope of object/subject.
+
+  - whom to interview?
+  - outline topics of interview.
+  - What questions to ask?
+  - Draft interview framework.
+
+Unstructured interviews - use reminders or key points to aid in keeping interview along the lines.
+
+===== Case Studies =====
+
+In-depth study of particular subject; might be unique or exceptional.
+
+May study more than one case to draw comparison or generalizations, or build a theory.
+
+Allows to learn more about little known situation; or subject that changes over time.
+
+Does not ensure generalization. Case study requires extensive amount of time.
+
+Case study involves the following:
+  * organization of data;
+  * categorization of data;
+  * interpretation of instances (bit of data);
+  * indentification of patterns;
+  * synthesis & generalization - form overall picture.
+==== 3 TYPES OF INTERVIEW ====
+  - Unstructured: little standardization; improvise on correspondent's words meaning; conversation-like.
+  - Structured: standardized (known Q, t, etc.); remain on topic; no improvisation; structured conversation; dialogue form; no deviations from Q; no interpretation of meaning.
+  - Semi-structured: flexibility between the two.
+
+===== Survey =====
+Survey has to use neutral language; be clear; response categories have to be mutually exclusive & exhaustive (no overlap & all available choices).
+
+**__Open-ended questions__**: respondent's answers are not limited; allows for greater range of answers. Disadvantage is that respondent may answer in more than one way. Open-ended questions are harder to compare between respondents.
+
+**__Closed-ended question__**: respondent's answers are limited; can answer quickly; simplifies data entry and comparison. Response may be too simplified for the complex question; strict choices may alter oppinion or knowledge that did not initially exist (respondent change own mind).
+
+__**Intensity Scales**__: measure how strong respondent feel/agree/disagree about the question.
+  * 1-Directional: least to most (i.e. 1 -> 7)
+  * 2-Directional: negative - neutral - positive
+  * Matrix: sub-questions about the same question
+
+**__Ranking Questions__**: ask respondent to put items in order of preference. Ex.: rank in order of importance. Do not ask to rank more than 5 items at once.
+
+**__Worded Questions__**: never use always/never; avoid leading questions (that may bias the response).
+
+Ask only relative questions; use appropriate level of measurement; be aware of sensitive information;
+
+:?: **Filter and Branching Questions**
+Ordering of items
+Sections & numbers
+
+==== Levels of Measurement ====
+**__Nominal__**: categories; numerical values that are arbitrary. Ex.: age, gender, location.
+
+**__Ordinal__**: order of values in list. Ex.: Rank
+
+**__Interval__**:

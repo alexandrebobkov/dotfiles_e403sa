@@ -1,0 +1,230 @@
+====== PAP4350 - LECTURES ======
+===== Lecture 2. Jan 19, 2016 =====
+
+__Team:__
+  * e-mail member's list to prof & proj. coordinator;
+  * define team leader (not necessarily);
+
+  * no control over usage of the project once it's delivered;
+  * projects end usage may be different from the intended;
+  * define what's to be delivered;
+
+__Project__ - temporary endeavor undertaken to create unique product/service or result. Typically, project involves a problem that has to be solved.
+
+__Project management life cycle:__ Design phase (project initiation) -> Planning -> Implementation (sign-off of project charter :?:) -> Termination (asking to sign-off project approval).
+
+Design & Implementation pick up slowly -> details are to be negotiated with the client;
+Completion stage is also slow. Project costs are at their maximum during primary stage of carrying out the project work (peak carrying out of work);
+
+Cost of changes vs. Stakeholder influence get inversely related towards completion of the project; i.e. it is more costly to change project towards its completion, but stakeholder has higher power over changing the project at its beginning, and vise versa.
+
+It is advised to have stakeholders/clients during project discussions. __Communication is critical__ :!:
+
+Change management -> sometimes organizations go through the change during project implementation. Ex.: reallocation. Communication __is a key__ - not only project implementation has to be communicated, but also its consequences.
+
+Project failure can be reduced through project management experience.
+
+__ Triple Project Constraints __
+  * time -> activities & sequence
+  * budget -> cost break-down
+  * scope -> define what the scope is
+
+<WRAP group>
+<WRAP half column>
+__Project Management__ \\
+(Activity Costing; Custom)
+  * unique
+  * temporary
+  * cross-functional teams
+  * unique outcome
+  * budgets are set-up differently than program budgets
+</WRAP>
+
+<WRAP half column>
+__ Program Management__ \\
+(High Volume Production)
+  * repetitive
+  * on-going
+  * wider focus
+  * daily routine operations that do not require detailed documentation
+  * budgets remain the same with slight differences
+</WRAP>
+</WRAP>
+
+
+//get project on budget and on time//
+
+
+===== Lecture 3. Jan 26, 2016 =====
+
+**Why do Projects Fail?**
+  * lack of communication;
+  * last-minute decisions;
+  * poor planning;
+  * lack of sensitivity to people's needs;
+  * lack of patience;
+  * lack of necessary resources;
+  * document the changes in project plan;
+  * lack of clearly defined project;
+
+**Project Identification**
+  * internal & external factors;
+  * objectives (reasons for the project -> improve service; reduce cost, etc.)
+
+**Project Feasibility**
+  * cost, time, and quality considerations
+  * involves assessment of large amount of data
+  * financial resources
+  * geographic location -> affects how easy it is to obtain required resources
+  * time, technology & resources -> affects the "window" available for project implementation
+  * :!: any conflicts with other resources at the organization?
+
+//Feasibility study// -> an analytical study to determine the ability to do the project. Its objectives is to assist with decision to implement the project or not.
+
+^  INTEREST  ^  POWER  ^
+|  |  LOW  |  HIGH  |
+|  low   |  monitor  |  keep informed  |
+|  high  |  keep satisfied  |  manage closely  |
+
+**Stakeholder Analysis**
+  * identify their interests
+  * analyse stakeholders based on: interests, assumptions & risks (lesser importance), estimated project impact (degree of influence on the project).
+
+//Stakeholders// -> project managers, sponsors, core project team, functional manager, and other (internal clients, suppliers, contractors, P3 partnerships).
+
+__Ways to build strong relationships with client__
+  * be open and honest
+  * make lunch meetings
+
+//Project Charter// -> agreement between two parties outlining info about implementation of the project. Document gets circulated back and forth between parties until signed/agreed upon. 
+
+Project charter has to have precise scope statement -> narrative description of what needs to be accomplished by the project
+
+  - Determine Need -> meet with the client
+
+===== Lecture 4. Feb 2, 2016 =====
+
+==== Work Breakdown Structure ====
+  * INPUT = Project Charter -> defines WBS
+  * reasons why to use WBS;
+  * allows to monitor, measure and control work;
+  * visualizes work to be done;
+  * integrates scope with time and cost; (how :?:)
+  * helps to identify budget;
+  * improves future projects;
+
+==== Project Life Cycle ====
+  - Create
+  - Refine
+  - Use
+  - Verify
+
+===== Lecture 5. Feb 9, 2016 =====
+  * going #3
+
+===== Lecture 6. Feb 23, 2016 =====
+  * explore 2nd language - 5-week imersion
+
+===== Lecture 7. Feb 30, 2016 PRESENTATIONS =====
+
+===== Lecture 8. Mar 1, 2016 =====
+===== Lecture 9. Mar 8, 2016 =====
+===== Lecture 10. Mar 15, 2016 =====
+
+**Critical Path** - a sequence of activities in a project that takes the longest time to complete.
+
+**Compressing schedule** - find ways to reduce the total duration of the project to meet delivery deadline.
+
+**Resource leveling** - used to ensure that the project schedule can be accomplished with the resources available.
+  * Strategies to level:
+    - outsource the services/tasks
+
+**Slack** - amount of time available before task must be started.
+
+//When have several activities that finish at the same time, and need to pick the one you should complete://
+  * Compare resources
+  * Take completion date into consideration
+
+** A Team ** - a group of people with shared objectives and processes with complementary skills, knowledge, and exercises.
+  * project expectations: objectives & benefits
+  * people expectations: values
+
+Factors that affect communication and tone within the team:
+  * cultural backgrounds
+  * interests
+  * competencies
+  * personalities
+  * interests
+
+^  Characteristics of High-Performing Teams  ^^
+|  Task-related qualities  |  People-related qualities  |
+| * commitment  | * work interests  |
+| * result-oriented  | * capacity to solve conflict  |
+| * willingness to change  | * good communication  |
+| * concern for quality  | * mutual trust :!:  |
+| * ability to predict trends  | * self-development of team members  |
+| * ability to anticipate problems  | * effective organizational interfacing  |
+| * synergism | |
+
+Factors contributing to cooperation:
+  * superordinate goals
+  * rules and procedures
+  * accessibility - ability to approach and interact with each other
+  * psycho-social outcomes
+  * physical proximity
+
+==== Four Phases of Team Development ====
+  - Forming
+  - Storming - communications and problem resolutions
+  - Norming - executing the work plan and achieving
+  - Reforming - 
+  - Performing - re-calibrating expectations
+
+=== Barriers to Team Development ===
+  * role conflict
+  * communication problems
+  * dynamic project environments
+  * lack of team definition and structure
+
+===== Lecture 11. Apr 5, 2016 =====
+
+==== Change Management Awareness ====
+**Pierre Martineau**
+
+  * probability of success
+  * Kotter, Ackerman-Anderson
+
+=== Project Checklist ===
+who's in charge of what? \\
+external resources become internal ones via integration/communication process \\
+outcome mapping - similar to logic model; used for items that cannot be quantified; \\
+community letter engagement -> write behaviors description for scenarios that cannot be quantified; \\
+project -> is a change\\
+resistance is inherent to the project management; change causes resistance
+
+__Project Management Summary Checklist:__
+  - client's implicit needs
+  - environment and stakeholder analysis (SWOT?)
+  - governance structure
+  - time frames
+  - HR requirements
+  - risks tolerances - personal characteristic
+  - schedule
+  - budget
+  - performance management/measurement system -> what get's measured get's managed
+  - involvement & communications 
+
+__To get results__ \\
+Define -> Measure (implement measurement system to control process) -> Manage (control loops) = RESULTS + Tell your Story (show what was done)
+
+Symptoms of delay of change: reduced performance and involvement.
+Culture = people + organizational practices learned over the course of time. \\
+Strategic plan to deal with a change ->  compare/match the objectives of the project \\
+
+Strong driver for change -> negative external outcome (change -> tendency to avoid it); __good crisis__
+
+Risk management -> maximize likelihood of project success using limited amount of resources & avoiding waste of resources (i.e. identify target); arbitrage between resources and needs.
+
+High speed projects have higher rate of failures and errors; avoid delays and procrastination.
+
+Created on: 2016/01/19 19:04

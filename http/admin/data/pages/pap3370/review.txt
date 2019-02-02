@@ -1,0 +1,97 @@
+====== REVIEW ======
+Sat, Dec 19
+
+  - Structural-mechanistic and organic-humanistic approaches provide very different accounts of how organizations should function. Which approach is more convincing? An answer that argues both approaches are convincing and/or have their merits will receive a 0.
+  - Does organizational culture matter?
+
+===== Structural-Mechanistic and Organic-Humanistic Approaches =====
+
+** Classical Theories **
+  * imply a "one best way" to organize and "closed-system" view on the organizations and the people in them.
+  * Max Weber (rationality) -> bureaucracy is hierarchy of authorities, career service, selection and promotion merits, and rules and regulations that define procedures and responsibilities of offices.
+  * Frederick Taylor (scientific management) -> management must reward workers with fair pay for efficient production; specialized tasks and monetary rewards are primary motivators.
+  * Administrative Management School -> principles of administration; division of work, coordination of work (span of control, one master, technical efficiency), scalar principle (authority is to be distributed in an organization).
+
+** Humanistic Theories **
+  * Hawthorne Studies: Motivating Factors -> social factors are important in motivating workers.
+  * Maslow: the Needs Hierarchy -> human needs and motives fall into a hierarchy.
+  * McGregor: Theories X and Y -> Theory X - workers are passive and require direct motivation and direction from management; Theory Y - workers are capable to motivate and direct themselves (job enrichment, participative decision making, performance evaluations).
+
+==== Structural-Mechanistic School ====
+  * authoritarian organizations;
+  * ignores the role of people in organizations;
+  * employees require constant supervision and direction;
+  * depersonalized organizations are isolated;
+  * Weber -> assumes that public and private organizations are alike;
+  * theories aggressively imply that there is no distinction between private and public organizations, market and non-market environment (p. 45).
+  * Herbert Simon -> public and private organizations are essentially identical on the dimensions of the capacities of leaders and reward of employees (Simon, 1995, p. 283).
+  * No sympathy for the distinction between private and public.
+
+  * Structural-mechanistic school -> focused on public bureaucracies and emphasize the relationship between the bureaucracy and other elements of political system; theories formulated without concern about economic markets for the outputs of public organization.
+  * The writings on public bureaucracy were too discursively descriptive, lacking the systematic empirical and conceptual analyses common in organizational theory. The literature on public bureaucracies showed too little concern about internal structures, behavior, and management.
+  * Organic-humanistic school -> pay little attention to political and economic market issues, but focus more on internal and managerial dimensions - organizational structure, tasks and technology, motivation, and leadership.
+
+==== Outline ====
+//Thesis:// The organic-humanistic approach to how public organizations should function is more convincing.
+
+Organic-humanistic approach is more convincing because:
+  - classical theories suggest specialization, which causes waste of labour resources;
+  - organic-humanistic studies suggest that autonomous workers perform better;
+  - as technology evolves and takes over technical tasks, workplace requires application of professional judgement;
+  - job autonomy and enrichment is effective way to motivate public servants;
+  - organic-humanistic view promotes environment for ethical public servant.
+
+I. Classical theories are less convincing because they suggest labour division, which leads to the waste of resources
+  * specialized tasks causes waste of resources since worker will remain idle until specific task is obtained; tasks that do not fall under specialization are not handled;
+  * increased specialization reduces autonomy and make employees to heavily rely on the orders from superiors, which create potential for time lag for obtaining orders;
+
+II. As technology evolves, it takes over technical jobs, which reduces need for specialization and rule-driven management of employees
+  * specialized tasks are typically technical in nature, which tend to be processed by the technology (i.e. payments, word processing, resource planning, etc);
+  * as the number of specialized tasks performed by employees decreases, workers are expected to be competent in making decisions and judgement on their own;
+  
+III. Autonomy in workplace encourages employees to work better.
+  * Peters and Waterman study -> ways to encourage enthusiasm of workers:
+    * autonomy in workplace;
+    * delegation of responsibility and authority;
+    * clear and defined challenging tasks.
+  * From Hale (1996) study it follows that:
+    * necessity of communication and collaboration in workplace promotes co-ordinates the course of action;
+    * flexible authority;
+  * This results in: effective use of resources, meaningful tasks and elimination of idle.
+
+IV.  Employees to be motivated with job enrichment and participative decision-making process.
+  * as technology evolves, there are fewer technical jobs and more jobs that require professional judgement;
+  * workforce becomes more professional, which requires new motivation techniques;
+  * organic-humanistic approach advocates that employees are capable to make decisions and can be motivated by job enrichment.
+
+V. Ethics cannot be written in terms of rules and policies, as classical theories would do. 
+  * ethical decision making requires public servant to be autonomous;
+  * ethical decision making requires assessment of set of actions and selection of the appropriate action, which requires public servant to be professional and independent to some extent;
+  * professional workers are covered by organic-humanistic view
+===== Organizational Culture (p. 354; 452) =====
+  * **Ohio State University** -> report on the behaviors of superiors -> consideration and initial structure;
+  * consideration -> friendly and approachable leader; listening to subordinate ideas; cares about morale of the group; open communication; concerned.
+  * initial structure -> emphasis on standards, roles and pressure on productivity & performance;
+  * two dimensions are related; refer to the leader behavior.
+
+  * **Blake and Mounton Managerial Grid**
+  * organizations characterized by two dimensions: concern for people, and concern for productivity;
+  * impoverished management -> low on people, low on productivity;
+  * country club management -> high on people, low on productivity;
+  * team management -> high on both factors; communication, participative problem solving & goal setting; teamwork.
+
+  * leaders play important role in shaping organizational culture;
+  * management in excellent organizations place emphasis on organizational culture (Peters and Waterman, 1982);
+  * shaping culture -> use of rules, publicity campaigns, mission statement;
+  * **culture** -> pattern of shared meaning in organization (Trice and Beyer 1993);
+  * levels of culture -> basic assumptions about organization; ideological (how things are ought to be; values); technical (how things are ought to operate); 
+  * strong culture -> good performance and adherence to organizational's values;
+  * low culture -> little commitment;
+
+  * culture communication, shared values, and mutual loyalty and support between the organization and its employees -> excellent organizations-performers;
+
+  * Peters and Waterman -> attention to managing organizational culture in successful organization;
+  * shared values guided major decisions and motivatioed and guided performance;
+  * "without exception, the dominance and coherence of culture proved to be an essential quality of the excellent companies (Peters and Waterman's "In Search of Excellence" 1982, p. 75);
+  * Ouchi (1981) -> used implicit control mechanisms such as social influence (IBM, Procter & Gamble, Hewlett Packard); culture -> one of the most important aspect of organizations; importance of people in organization;
+  * Gold -. studied 5 private and 5 public organizations; 

@@ -1,0 +1,440 @@
+PAP3350 Public Policy Development
+
+[[http://www.fin.gc.ca/pub/index-eng.asp | Department of Finance Canada: Publications and Reports]]
+
+====== LECTURES ======
+
+===== Jan 14, 2016 Financial Cycle & Speech from the Throne =====
+**Overview of the Financial Cycle** \\
+**The Role of the Speech from the Throne**
+
+__Budget__ - big fiscal plan. Documents relevant to budgeting are aligned along the budget cycle.
+
+  * a parliamentary democracy system; a representative system of government;
+  * bicameral federal system (where money builds (House of Commons ["common people'] ) & ;
+  * Constitution Act 1867 -> Parliament: the Crown, the Senate and the House of Commons;
+  * federal state -> lawmaking shared between orders of the government;
+  * constitutional monarchy -> government os carried out in the name of the crown;
+  * executive function -> Governor in Council (Governor General) acting on behalf of the Prime Minister and Cabinet;
+  * __members of Parliament__ are elected, who then elect the Prime Minister;
+
+==== Financial Procedures ====
+  * the Crown is responsible for managing all the revenue (taxes, etc.); ~$290B/year
+  * all revenues go to the Consolidated Revenue;
+  * the Crown makes financial requirements of the government known to the House of Commons which authorizes the necessary taxes and "supplies" (grants of money);
+  * what are the financial requirements? How do we spend the $$$?
+  * no tax may be imposed, or no money can be spent without consent of Parliament;
+  * __only authorized $$$ can be spent__;
+  * control exercised at 2 levels:
+    * Parliament must assent to all legislative measures. The House of Commons must authorize amounts and purposes of expenditure;
+    * throughout review process and reporting, the House ascertains that no expenditure made that was not authorized;
+<WRAP center round info 60%>
+  * income distribution tables -> based on analysis;
+  * purchasing power of social classes -> money flow to the upper class;
+</WRAP>
+==== The Budget and Financial Management Process ====
+  * Speech from the Throne (priorities & policy direction) -> Budget (fiscal plan) -> Estimates [Ways & Means] (allocation & review) -> Public Accounts (reporting & review);
+  * speech from the throne -> aka framing the budget;
+  * Budget -> high level fiscal plan & high level financial requirements
+  * Appropriation stream -> Estimates system -> how much each sector needs? what are their requirements? 
+  * Taxation stream -> changing the Income Tax Act in order to alter tax revenues; change in tax goes through legislation change since ITA is a law;
+  * Public Accounts -> says how to spend the money -> can be used to assess how $$ were spent;
+
+<WRAP center round info 60%>
+  * Privy Office -> AMAZING PLACE TO WORK -> decide on career
+  * also check: 
+    * [[http://www.agr.gc.ca/eng/about-us/planning-and-reporting/reports-on-plans-and-priorities/?id=1174061891718]]
+    * [[http://www.agr.gc.ca/eng/about-us/planning-and-reporting/reports-on-plans-and-priorities/2015-16-report-on-plans-and-priorities/?id=1422918881954]]
+    * [[http://www.agr.gc.ca/eng/about-us/planning-and-reporting/reports-on-plans-and-priorities/2015-16-report-on-plans-and-priorities/?id=1422918881954#s1.3|Planned HR Expenditures]]
+    * [[http://www.tpsgc-pwgsc.gc.ca/recgen/cpc-pac/2015/index-eng.html]]
+</WRAP>
+
+<WRAP center round important 60%>
+  * Oil prices have the effect on the Budget;
+  * Main Estimates -> big chunk of authorized spending, which then specified in more detail;
+  * Forced supply period -> fiscal accountability period (can be more than 2 years!);
+</WRAP>
+
+==== Policy (Speech from the Throne) ====
+  * the gov't sets forth its view on the state of the country and the legislation it intends to bring forward;
+  * read by the Governor General in the Senate with the House in attendance;
+  * 2015 SFT indicated the commitment to growth (middle class), open & transparent gov't, environment, diversity, and opportunity;
+  * SFT is mainly //drafted by the Prime Minister's// office with help from the public service;
+  * politicians have to be pushed to bring the change;
+
+==== Estimates (Supply Process) ====
+  * planned government spending for coming fiscal year;
+
+<WRAP center round info 60%>
+Contains 4 parts
+</WRAP>
+
+==== Accounts of Canada ====
+  * Treasury of Canada;
+  * under FAA __Receiver General__ is responsible for ensuring the accounts for each department and agency of the Government of Canada;
+  * annual report tabled in the House of Commons by the President of the treasury Board ~ Dec 31 following the end of fiscal year;
+  * Public Accounts -> to provide information to Parliament and public on financial position of Government;
+  * Audit General examines the govenrments financial statements to ensure information is fairly presented;
+  * examined by the Standing Committee of the Public Accounts;
+
+==== Security & Opportunity - Analysis ====
+  * specific initiatives _ defence procurement, legislation;
+  * commitments -> development assistance for poor, trade agreements, protection of rights and freedoms, etc.
+    * clarity?
+    * direction?
+    * strategy?
+    * mood of the country?
+
+===== Jan 18, 2016 Key Public Service Players =====
+
+<WRAP center round info 60%>
+The Speech of the Throne is the very first step of initiating the government after elections.
+
+  * maany job are situated around financial cycle of the budget.
+  * perfect time to join public sector as a graduate.
+</WRAP>
+
+<WRAP center round tip 90%>
+  * refer to the political parties to get an idea about goals that they pursue -> can be adopted to draft SFT;
+  * draft SFT based on own interests/perceptions;
+  * short SFT is good -> easier for ppl to memorize it;
+  * be long-term looking & risk taking;
+  * frame around political parties -> to gain support;
+  * avoid strong political branding -> can leave some parties left away -> reduce support;
+  * make commitment to pursuing the goals;
+  * be specific;
+  * 
+</WRAP>
+
+
+<WRAP group>
+<WRAP half column>
+__EXECUTIVE__
+
+  * Privy Council Office 
+    * adviser to Prime Minister & secretary of Cabinet (head of public servants); 
+    * policies traffic control :!:
+  * Finance 
+    * drafts the budget, tax policy, debt management;
+    * big department with interesting jobs (economists, projectionists, expenditure estimators) :!:
+    * tax analysis :!:
+    * overlooking budgets of departments;
+  * Treasury - oversight on financial management
+  * Receiver General
+    * issuing & accepting payments, Public Accounts, Chart of Accounts
+    * monthly balances;
+    * financial oversight for the executives;
+    * key jobs, great jobs for financial people :!:
+  * Comptroller General
+    * functional direction & assurance in financial management;
+    * lots of jobs over here :!:
+  * Canada Revenue Agency 
+    * administer & benefit programs;
+    * administer collected taxes;
+</WRAP>
+
+<WRAP half column>
+__PARLIAMENT__
+
+  * Auditor General - audits departments, agencies and crowns
+  * Parliamentary Budget Office - legislative budget office
+</WRAP>
+</WRAP>
+
+**Speech from the Throne**
+__What?__ - sets out broad goals and directions of the government & what initiatives the government will take to accomplish those goals;
+__When?__  - with every new session
+__Where?__ - read by the Queen's representative - the Governor General in the Senate.
+
+  * overall theme - //"making real change happen"//
+  * 5 policy components
+    - Growth for the Middle Class
+    - Open & Transparent Government
+    - Clean Environment and a strong economy (i.e. renewable energy)
+    - Diversity is Canada's strength
+    - Security & Opportunity 
+  * __INTRODUCTION__ 
+    * sets the tone;
+    * sets vision and direction;
+  * __CONCLUSION__
+    * by focusing on items 1 - 5 the Government will make real change happen
+
+===== Jan 21, 2016 The Executive Scrutiny & Approval Policy, Money and Management =====
+
+<WRAP center round tip 60%>
+  * try to get into Export Development programs;
+  * reconciliation projects -> work on one file can be very very lengthy;
+  * job at gov't -> follow the $$$;
+</WRAP>
+
+  * Governor's Report -> analysis of economy; fiscal plan;
+  * lower currency rate (cheaper CAD) -> yes, exports get cheaper, BUT also lowers the inflow from exports, which is 1/3 of the economy;
+  * checks and balances are needed when other's people money are spent;
+  * in government, it is crucial to keep colleagues accountable for their own tasks;
+  * :!: :!: Executive Approval Road Map - refer to slide #5:
+      * policy commitments -> policy development & approval -> funding approval -> management approval -> legislation.
+
+===== Jan 25, 2016 The Executive Scrutiny & Approval Policy, Money and Program =====
+
+__SFT:__
+  - Theme. Ex.: sustainability, long-term, real actions, confidence, cut GST or income tax or change tax brackets.
+  - Priorities Ex.: institutional renewal, electoral reform, fix the Senate (:!: got to change the Constitution before can change the Senate -> bit too much to do -> somewhat unrealistic).
+
+//format//
+  * script-like form;
+  * as much detail as needed to set priorities and directions;
+  * avoid being too detailed;
+  * make it "fun" and creative;
+  * theme -> make overarching; ex.: sustainability, growth, efficiency, better Canada, reform, justice, innovation, building sustainable future, strength;
+
+__Example__ \\
+Theme: Sustainable Canada
+  - Economy -> sustaining a quality of life in a changing world
+    * free post-secondary education -> %GDP, specific initiatives
+  - Environment -> making transition to responsibility
+  - International -> return to peacekeeping values
+  - Social and Culture -> diversity as strength, health care reform, dental insurance
+
+==== Approval Process ====
+  - Executive
+    * Policy (memorandum to cabinet (MC))
+    * Funding (Budget -> PM+FM)
+    * Program (Treasury Board Submission)
+  - Parliamentary
+
+  * Ex.: Notice of Ways and Means on Middle Class Tax Cut [[http://www.fin.gc.ca/n15/data/15-086_1-eng.asp | Department of Finance Canada: Middle Class Tax Cut]]
+  * any change is normally a law changed -> team of lawyers get together to ensure that level of details is descriptive enough
+  * budget memorandum -> serves as a basis of decision since it shows how much money will be required
+  * [[http://www.fin.gc.ca/taxexp-depfisc/2014/taxexp1401-eng.asp#toc9 | Tax Expenditures]]
+
+===== Jan 28, 2016 Budget =====
+===== Feb 1, 2016 Budget (Fiscal Impact Table) =====
+__APPROVALS__
+  * Policy
+  * Funding
+  * Program
+  * -> Parliament
+
+<WRAP center round info 50%>
+Today Parliament votes on C-2 (Tax cut)
+</WRAP>
+
+  * impacts on the bottom line
+  * :!: Fiscal Impact Table (5.2.3 "Fiscal Outlook With Measures"); -> bottom line & funding approval
+  * Treasury Board Submission -> approves //detailed program parameters//
+
+==== Memorandum to Cabinet vs Treasury Board Submission ====
+^  ^  Memorandum to Cabinet  ^  TB Submission  ^
+|  Purpose  | To seek approval of a policy or new initiative  | To seek approval of elements for a program's design, delivery and implementation  |
+|  Focus  | Policy rationale with clear outline  | Detailed program design and implementation plan  |
+|  Resource details  | General funding information  | Specific funding details and a clear rationale  |
+|  Target audience  | Policy Committees, cabinet Ministers  | Treasury Board  |
+|  Recommendation/Approval  | Ministerial recommendation  (MR) approved, approved-in-principle  | TBS prepares recommendations, makes final decision to approve with decision or defer |
+
+=== TB Submission Template ===
+  * Title and synopsis
+  * Authority sought from TB
+  * Background
+  * Rationale
+  * Design, delivery and implementation
+  * Expected outcomes
+  * Risks and risk responses
+  * Cost, funding requirements and source of funds
+  * Costing due to diligence and validation
+  * Contact
+
+:!: TB Submission - Rationale slide __is on the exam__
+
+===== Feb 4, 2016 Budgetary Policy & Public Finance =====
+
+//Traditional & Legislative Foundations for Approvals of Authorities//
+
+  * decides on appropriateness of funding of programs
+  * approvals on legislature side
+  * :!: House of Commons Procedure & Practice
+  * The Finance Administration Act
+
+==== Traditions & Procedures ====
+  * direct control of national finance; executive power responsible for managing revenue of state
+  * makes financial requirements of gov't known to House of Commons
+  * no tax imposed or money spent without consent of Parliament -> requires voting process
+  * __control__ -> job of Parliament
+
+  * financial control exercised at 2 levels:
+    - Parliament must assent to all legislative measures and HoC authorizes amounts and objects of expenditures -> //can you use $$$?//
+    - House must assure that no expenditure made other than authorized -> //what did you spend $$$ on?//
+  * Cardinal principle -> before authorization, financial measures must be given the possible consideration in committee and HoC -> //got to give the Parliament time to look at it//
+
+==== Basic Components of Procedure ====
+  * Consolidated Revenue Fund (an account)
+  * Royal Recommendation (an instrument)
+  * Supply (a process) -> expenditures side
+  * Borrowing authority (authorization)
+  * Ways and Means (a process) -> revenue side (taxes -> excise, corporate, income, etc.)
+  * Public Accounts (an account statement)
+
+==== The Cycle ====
+  - Feb -> budget presentation
+  - Mar 1 -> tabling of main estimates
+  - Mar 26 -> end of supply period
+  - May 31 -> committees report back on Estimates
+  - June 23 -> end of supply period
+  - Oct -> pre-budget consultations
+  - Nov -> tabling of public accounts
+  - Dec -> tabling of report on pre-budget consultation
+  - Dec 10 -> end of supply period
+
+==== Consolidated Fund ====
+  * concept established in late 1970s to decouple the raising and spending money
+  * matches a particular outlay with a specified revenue
+  * 2 types of business:
+    - business of supply
+    - business of Ways and Means 
+  * all expenses authorized by a statue or/and annual appropriation bill
+  * statue (Act) provides authority & guarantee for spending
+
+==== Royal Recommendation ====
+  * The Crown alone initiates all public expenditure and Parliament can authorize only spending which has been recommended; Crown -> initiates; Parliament -> authorizes
+  * Constitution 1867
+
+==== Supply (Motions) ====
+  * the business of supply consists of the considerations of motions
+    - Interim supply
+    - Main and supplementary estimates
+    - Restore or reinstate any item in the estimates
+    - Introduce or pass any bill
+    - Debates to be proposed by the opposition
+
+==== Borrowing Authority ====
+  * powers required by government to cover shortfall between revenues and expenditures
+  * the issuance of treasury bills, marketable bonds on domestic and foreign markets 
+  * borrowing authority is sought by Budget Bill
+
+==== Business of Ways & Means ====
+  * consideration of legislation which imposes a tax or other change on the tax payer
+
+==== Accounts of Canada ====
+  * Receiver General
+  * Public Accounts
+  * President of the Treasury Board
+  * Auditor General
+
+==== Constitution Acts ====
+  * Sections 53 - Appropriation and Tax Bills
+  * Sections 54 - Recommendations ...
+  * Sections 55 - Royal Assent to Bills
+
+==== Financial Administration Act ====
+
+===== Feb 8, 2016 Budgetary Policy & Public Finance (con't) =====
+<WRAP center round info 80%>
+Charts of Accounts, etc.:
+  * [[http://www.tpsgc-pwgsc.gc.ca/recgen/pceaf-gwcoa/1617/tdm-toc-eng.html|Chart of Accounts]]
+  * [[http://www.tpsgc-pwgsc.gc.ca/recgen/cpc-pac/2015/index-eng.html|Public Accounts of Canada]]
+  * [[http://www.tpsgc-pwgsc.gc.ca/recgen/pceaf-gwcoa/1617/2-eng.html#id2.2]]
+  * [[http://www.tpsgc-pwgsc.gc.ca/comm/index-eng.html|Public Works and Government Services Canada]]
+
+[[https://buyandsell.gc.ca/procurement-data/tenders|Buy and Sell]]
+</WRAP>
+
+===== Feb 11, 2016 Budget 2015 =====
+  - Economic outlook -> assumptions
+  - Fiscal outlook -> baseline & new programs
+  - Budget rules of thumb
+  - Fiscal rules (constants)
+
+:!: Table 2.2 Average Private Sector Forecasts \\
+:!: Budgetary document -> various rules, i.e. multiplier effect, impact of revenue on inflation, etc. \\
+:!: Sensitivity of the Budgetary Balance to Economic Shocks (p.375) \\
+:!: Federal revenues -> Table 5.2.8 -> Estimated Impact of ... \\
+
+===== Feb 22, 2016 =====
+
+  * sensitivity analysis, explanations for adjustments :!:
+  * [[http://www.fin.gc.ca/n16/data/16-025_1-eng.asp|Canadian Economic Outlook]]
+
+a^3 = 27; a = 3 \\
+b^3*a = 24 => b^3=8 => b=2 \\
+abc^2 = 96 => 3*2*c^2=96 => c^2=16 => c=4 \\
+c+ab=? => 4+(2*3)=4+6=10
+
+===== Feb 25, 2016 =====
+
+  * role of a legislature in budgeting -> fiscal scrutiny (Parliamentary democracy; keeps government accountable through money)
+
+===== Feb 29, 2016 - The Fiscal Plan Project =====
+==== Assignment ====
+  - create economic scenario
+  - [[http://www.budget.gc.ca/2015/docs/plan/budget2015-eng.pdf|Budget]]
+
+===== Mar 3, 2016 =====
+__Assignment__
+<WRAP center round box 60%>
+variables: real GDP growth, nominal GDP growth, interest rate (ref. to Table 2.2*)
+</WRAP>
+
+Part 1 - Economic Outlook (approx. 2 pages)
+  - Info Sources
+    * Feb update 2016
+    * Nov update 2015
+  - Other
+    * private sector banks (TD Bnak)
+    * BoC
+    * International IME/OECD
+Part 2
+  * Nov 2015 fiscal update, Table 2.2 
+
+==== Example ====
+Table 1 - Fiscal Outlook (growth in %)
+^  Revised Economic Outlook  ^^^
+|  |  2015  |  2016  |
+| Real GDP growth  |||
+| Fall update  |  2.0  |  2.2  |
+| Revised  |  1.0  |  2.2  |
+|  |  1.0  |  0.0  |
+| GDP inflation  |||
+| Fall update  |  2.1  |  2.4  |
+| Revised  |  1.1  |  2.4  |
+|  |  1.0  |  0.0  |
+
+[[https://www.liberal.ca/files/2015/10/New-plan-for-a-strong-middle-class.pdf|Liberal Fiscal Plan]]
+
+===== March 10, 2016 -  Assignment =====
+[[https://www.liberal.ca/files/2015/10/New-plan-for-a-strong-middle-class.pdf|Liberal Platform]]
+
+//refer to GFolder content//
+
+Assignment flow: economic outlook -> revise -> correct budget -> review party platform -> is budget reasonable?
+
+===== March 17, 2016 - Estimates =====
+[[https://www.canada.ca/en/treasury-board-secretariat.html|Canada.ca]] \\
+[[http://www.tbs-sct.gc.ca/hgw-cfg/finances/pgs-pdg/se-bsd/sups/c/20152016/sec-bsdc-end.pdf|Supplementary Estimates 2015-2016]]
+
+===== March 21, 2016 -  =====
+<WRAP center round info 60%>
+On Exam: Budget 2016 (GDP growth & unemployment rate)
+</WRAP>
+
+===== March 31, 2016 - EMS Project =====
+
+:!: pick the project wisely; 
+  * go backwards from General Auditor's Report (find the project you find interesting)
+  * [[http://www.oag-bvg.gc.ca/internet/English/parl_lp_e_856.html|Reports to Parliament]] -> [[http://www.oag-bvg.gc.ca/internet/English/parl_lp_e_933.html|Auditors reports -> Ch. 5 Support to the Automotive Sector]]
+  * SFT -> Budget (see where the money came in ) -> Estimates (see if we can track the money & approvals) -> Public Accounts (volume 2 [[http://epe.lac-bac.gc.ca/100/201/301/public_accounts_can/pdf/2008/50-eng.pdf|2008 vol ii]]) -> OAG
+    * Estimates:
+      - Main Estimates
+      - Supplementary Estimates
+      - Reports on Plans and Priorities 
+      - Departmental Performance Reports
+
+===== Take-home Exam =====
+  * do not write more than 1000 words per question
+
+Questions:
+  - 
+    * what do you mean by democratic?
+    * who is in power over instruments?
+    * frame answer around democracy.
+  - 
+    * recall professor's CBC news interview about jets
+    * 

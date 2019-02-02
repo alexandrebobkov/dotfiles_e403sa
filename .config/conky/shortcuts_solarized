@@ -1,0 +1,44 @@
+# Author: Alexandre Bobkov
+# Displays the shortcuts
+
+alignment bottom_left
+background true
+cpu_avg_samples 2
+draw_shades false
+default_color 93A1A1
+color2 586E75
+double_buffer true
+font Bitstream Vera Sans:size=9
+gap_x 25
+gap_y 40
+minimum_width 350
+no_buffers true
+own_window true
+own_window_type override
+own_window_transparent true
+update_interval 2.0
+use_xft true
+
+TEXT
+${color white}${hr}
+${color2}Terminal${alignr}${color}mod+Enter
+${color2}Sublime${alignr}${color}mod+ctrl+T
+${color2}Browser${alignr}${color}mod+ctrl+B
+${color2}Files${alignr}${color}mod+ctrl+F
+${color2}E-Mail${alignr}${color}mod+ctrl+T
+${color2}App Launcher${alignr}${color}mod+O
+
+${color2}Screenshot${alignr}${color}Fn+Prt Sc
+${color2}Camera shot${alignr}${color}Fn+Shift+Prt Sc
+
+${color2}Close focused${alignr}${color}mod+q / Right click
+${color2}dmenu${alignr}${color}mod+d / mod+Shift+D
+${color2}switch workspace${alignr}${color}mod+1...8
+${color2}send to workspace${alignr}${color}mod+Shift+1...8
+${color2}navigate workspaces${alignr}${color}mod+Ctrl+arrows
+${color2}toggle floating${alignr}${color}mod+Shift+Space
+
+${color white}${hr}
+${color red}exit${alignc}${color}mod+Shift+E
+mod${alignc}<Super>
+

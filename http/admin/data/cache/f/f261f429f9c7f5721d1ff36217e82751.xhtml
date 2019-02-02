@@ -1,0 +1,194 @@
+
+<h1 class="sectionedit1" id="archlinux_shell">archlinux shell</h1>
+<div class="level1">
+
+</div>
+<!-- EDIT1 SECTION "archlinux shell" [1-30] -->
+<h2 class="sectionedit2" id="git">GIT</h2>
+<div class="level2">
+<pre class="code">$ git clone https://url_address_of_github_repo</pre>
+<pre class="code">$ git config --global user.email alexandre.bobkov@gmail.com</pre>
+<pre class="code">$ git add .</pre>
+<pre class="code">$ git commit -a -m &#039;comment&#039;</pre>
+<pre class="code">$ git status</pre>
+<pre class="code">$ git pull</pre>
+
+</div>
+<!-- EDIT2 SECTION "GIT" [31-297] -->
+<h2 class="sectionedit3" id="monitoring">Monitoring</h2>
+<div class="level2">
+
+</div>
+
+<h4 id="glances">glances</h4>
+<div class="level4">
+
+</div>
+
+<h4 id="vtop">vtop</h4>
+<div class="level4">
+
+</div>
+
+<h4 id="gtop">gtop</h4>
+<div class="level4">
+
+</div>
+
+<h4 id="nmon">nmon</h4>
+<div class="level4">
+
+</div>
+
+<h4 id="vnstat">vnstat</h4>
+<div class="level4">
+
+</div>
+
+<h4 id="vnstati">vnstati</h4>
+<div class="level4">
+
+</div>
+
+<h4 id="ncdu">ncdu</h4>
+<div class="level4">
+
+<p>
+<em> Scans user&#039;s home directory and shows how much space each folder uses. </em>
+</p>
+<pre class="code">$ ncdu</pre>
+
+</div>
+<!-- EDIT3 SECTION "Monitoring" [298-517] -->
+<h2 class="sectionedit4" id="utilities">Utilities</h2>
+<div class="level2">
+
+</div>
+
+<h4 id="cmatrix">cmatrix</h4>
+<div class="level4">
+<pre class="code">$ cmatrix -b -u 10 -C blue -s</pre>
+
+<p>
+<img src="/admin/lib/exe/fetch.php?w=600&amp;tok=a6690f&amp;media=archlinux:screenshot_2017-feb-12_15_08_14.png" class="mediacenter" alt="" width="600" />
+</p>
+
+</div>
+
+<h4 id="network_manager">Network Manager</h4>
+<div class="level4">
+<pre class="code">$ systemctl enable NetworkManager.service
+$ systemctl start NetworkManager.service
+$ nm-applet</pre>
+
+<p>
+debug wpa_supplicant
+</p>
+<pre class="code">$ wpa_supplicant -i wlp2s0 -c /etc/wpa_supplicant/wpa_supplicant.conf -d </pre>
+
+</div>
+
+<h4 id="cpupower">cpupower</h4>
+<div class="level4">
+
+<p>
+display frequencies and governors
+</p>
+<pre class="code">$ cpupower frequency-info</pre>
+
+<p>
+set maximum frequency 
+</p>
+<pre class="code">$ cpupower frequency-set -u 700MHz</pre>
+
+</div>
+
+<h4 id="pacman">pacman</h4>
+<div class="level4">
+
+</div>
+
+<h5 id="generate_list_of_installed_packages_excludes_aur">Generate list of installed packages (excludes AUR)</h5>
+<div class="level5">
+<pre class="code"># pacman -Qqn &gt; packages_local.list </pre>
+
+</div>
+
+<h5 id="generate_list_of_manually_installed_packages_from_aur">Generate list of manually installed packages (from AUR)</h5>
+<div class="level5">
+<pre class="code"># pacman -Qqm &gt; packages_aur.list</pre>
+
+</div>
+
+<h5 id="download_installed_packages_excludes_aur">Download installed packages (excludes AUR)</h5>
+<div class="level5">
+<pre class="code"># pacman -Sw $(cat packages_local.list)</pre>
+
+<p>
+<em>-q option eliminates version numbers; i.e. lists only package names.</em>
+</p>
+
+</div>
+
+<h5 id="backup_dowloaded_packages">Backup dowloaded packages</h5>
+<div class="level5">
+<pre class="code">$ tar -cjf pacman_pkg_downloads.tar.bz2 /var/cache/pacman/pkg</pre>
+
+</div>
+
+<h5 id="backup_local_database">Backup local database</h5>
+<div class="level5">
+<pre class="code">$ tar -cjf pacman_lib_local.tar.bz2 /var/lib/pacman/local </pre>
+
+</div>
+
+<h5 id="restore_archive">Restore archive</h5>
+<div class="level5">
+<pre class="code"># tar -xjvf pacman_pkg_downloads.tar.bz2</pre>
+
+<p>
+<a href="https://wiki.archlinux.org/index.php/Pacman/Tips_and_tricks#Recreate_a_package_from_the_file_system" class="urlextern" title="https://wiki.archlinux.org/index.php/Pacman/Tips_and_tricks#Recreate_a_package_from_the_file_system" rel="nofollow">Pacman tips and tricks</a>
+</p>
+
+</div>
+
+<h4 id="mount_squashfs">Mount squashfs</h4>
+<div class="level4">
+
+<p>
+1. Create squashfs archive
+</p>
+<pre class="code"># mksquashfs /source_folder /archive.sqsh</pre>
+
+<p>
+2. Mount squashfs archive
+</p>
+<pre class="code"># mount archive.sqsh ./folder -t squashfs -o loop</pre>
+
+<p>
+3. fstab entry for squashfs
+</p>
+<pre class="code">/var/archive.sqsh	/var/archive	squashfs	ro,defaults	0 0</pre>
+
+</div>
+
+<h4 id="journalctld">journalctld</h4>
+<div class="level4">
+
+<p>
+1. To check amount of space used by journal
+</p>
+<pre class="code">#journalctl --disk-usage</pre>
+
+<p>
+2. Can delete folders/files under /var/log/journal folder
+</p>
+
+<p>
+2017/02/09 01:02 <br/>
+
+<em>Arch Linux</em>
+</p>
+
+</div>
+<!-- EDIT4 SECTION "Utilities" [518-] -->

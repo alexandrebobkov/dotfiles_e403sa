@@ -1,0 +1,37 @@
+a:2:{s:7:"current";a:9:{s:4:"date";a:2:{s:7:"created";i:1486690046;s:8:"modified";i:1491086974;}s:4:"user";s:0:"";s:7:"creator";s:0:"";s:11:"last_change";a:8:{s:4:"date";i:1491086974;s:2:"ip";s:3:"::1";s:4:"type";s:1:"E";s:2:"id";s:33:"archlinux:archlinux_customization";s:4:"user";s:5:"admin";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:54;}s:11:"contributor";a:1:{s:5:"admin";s:5:"Admin";}s:5:"title";s:24:"ARCH LINUX CUSTOMIZATION";s:11:"description";a:2:{s:15:"tableofcontents";a:11:{i:0;a:4:{s:3:"hid";s:24:"arch_linux_customization";s:5:"title";s:24:"ARCH LINUX CUSTOMIZATION";s:4:"type";s:2:"ul";s:5:"level";i:1;}i:1;a:4:{s:3:"hid";s:8:"commands";s:5:"title";s:8:"Commands";s:4:"type";s:2:"ul";s:5:"level";i:4;}i:2;a:4:{s:3:"hid";s:4:"i3wm";s:5:"title";s:4:"i3wm";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:3;a:4:{s:3:"hid";s:5:"conky";s:5:"title";s:5:"conky";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:4;a:4:{s:3:"hid";s:19:"desktop_date_widget";s:5:"title";s:19:"Desktop Date Widget";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:5;a:4:{s:3:"hid";s:11:"nano_editor";s:5:"title";s:11:"NANO Editor";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:6;a:4:{s:3:"hid";s:6:"nanorc";s:5:"title";s:7:".nanorc";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:7;a:4:{s:3:"hid";s:18:"syntax_hightlights";s:5:"title";s:18:"Syntax Hightlights";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:8;a:4:{s:3:"hid";s:12:"confignanorc";s:5:"title";s:13:"config.nanorc";s:4:"type";s:2:"ul";s:5:"level";i:4;}i:9;a:4:{s:3:"hid";s:10:"confnanorc";s:5:"title";s:11:"conf.nanorc";s:4:"type";s:2:"ul";s:5:"level";i:4;}i:10;a:4:{s:3:"hid";s:16:"hardware_tunning";s:5:"title";s:16:"Hardware Tunning";s:4:"type";s:2:"ul";s:5:"level";i:3;}}s:8:"abstract";s:503:"ARCH LINUX CUSTOMIZATION
+
+ 
+
+
+Commands
+
+To remove orphaned packages 
+
+# pacman -Rns $(pacman -Qtdq)
+
+i3wm
+
+
+# Author: Alexandre Bobkov
+# Custom configuration file for i3wm
+
+# Use WIN key
+set $mod Mod4
+
+#set smart_gaps on
+#set smart_borders on
+
+#set gaps inner all set 20
+set gaps inner all set 20
+#set gaps outer 20
+set new_window pixel 10
+
+
+# Set the font.
+font pango:monospace 10
+
+# Use Mouse+$mod to drag floating windows to their wanted position
+floating_modifier $mod
+
+
+## Typical launchers ####…";}s:8:"relation";a:2:{s:5:"media";a:1:{s:46:"arch_linux:screenshot_2017-feb-04_19_11_49.png";b:1;}s:10:"firstimage";s:46:"arch_linux:screenshot_2017-feb-04_19_11_49.png";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}}s:10:"persistent";a:5:{s:4:"date";a:2:{s:7:"created";i:1486690046;s:8:"modified";i:1491086974;}s:4:"user";s:0:"";s:7:"creator";s:0:"";s:11:"last_change";a:8:{s:4:"date";i:1491086974;s:2:"ip";s:3:"::1";s:4:"type";s:1:"E";s:2:"id";s:33:"archlinux:archlinux_customization";s:4:"user";s:5:"admin";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:54;}s:11:"contributor";a:1:{s:5:"admin";s:5:"Admin";}}}

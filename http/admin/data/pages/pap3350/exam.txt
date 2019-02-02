@@ -1,0 +1,144 @@
+PAP3350 - Public Policy Development
+
+Sunday  December 13, 2015. 14:56
+
+====== EXAM ======
+
+===== PART 1 =====
+  * outline core foundations;
+  * specify assumptions;
+  * specify views, and limitations;
+  * provide concrete application examples;
+  * demonstrate a way in which approach would account for certain aspect of policy process;
+
+In general, policy studies rely on deductive and inductive methods of analysis (20).
+  - __deductive__ methods develop understanding based on general presumptions, concepts, or principles to specific phenomena (20); //Example:// Public Choice, Marxist, some institutionalists theories (20);
+  - __inductive__ methods are less predetermined, develop understanding based on empirical observations and testing (20). //Example:// pluralism, corporatism, neo-institutionalism, statist theories (20). 
+==== Public Choice Theory ====
+  * Public Choice theory - tries to explain virtually all aspects of human behaviour; the individual and the primary motivation is self-interest, as defined by the individual (32).
+  * core foundations: firm rationality and draws on the values of neo-classical economics; rational choice framework and sociology (32);
+  * specify assumptions: political actors act rationally, in a calculation to maximize their utility (32); individual political actors are guided by self-interest in choosing a course of action that will be to their best advantage (32);
+  * views and limitations specified: the only political actor that counts is the individual (32); based on oversimplification of human behavior and psychology (34), poor predictive capacity; doesn't represent multi-party environment (35)
+  * concrete application examples: voters are deemed to vote for parties and candidates that will best serve their interest in terms of the rewards they hope to receive from government (33); political parties promote policy packages that will appeal to voters, and thus give political party a power (33).
+  * a way in which approach would account for certain aspect of policy process: public choice theory advocates against government intervention, and promotes market so that economic forces adjust the market, not the government.
+==== Class Analysis ====
+Class Analysis theory covers middle ground between individuals and the governments that shape policy (35).
+
+  * core foundations: collective entities that have shared interests and associations, which seek to influence policy agenda; groups actors according to certain observable characteristics of individuals, regardless of individuals' view on themselves (35).
+  * specify assumptions;
+  * specify views, and limitations: heavily emphasizes on institutional factors that shape state activities (35).
+  * provide concrete application examples: capitalists and workers classes pursue different goals, which means they prefer the government to fulfill different policies.
+  * demonstrate a way in which approach would account for certain aspect of policy process;
+==== Pluralism ====
+Pluralism studies the middle ranges of policy-making.
+
+  * outline core foundations: society is nothing other than the complex of the groups that compose it; there is overlapping membership and a lack of representational monopoly; same individual may belong to a number of groups for pursuing own interests; same interest may be represented by more than one group (38).
+  * specify assumptions: interest groups are the political actors that matter most in shaping public policy (38); not all groups are equally influential (38); government is a place where groups work to shape the policy; government is neutral official setting out the rules (39); public officials do not seek to realize own interests (39);
+  * specify views, and limitations: overly simplistic view of how government works.
+  * provide concrete application examples;
+  * demonstrate a way in which approach would account for certain aspect of policy process;
+==== New Institutionalism ====
+
+===== PART 2 =====
+
+==== Carrots and Sticks ====
+by Aleksi
+
+Carrots are a type of policy instrument. According to Vedung, “public policy instruments are the set of techniques by which governmental authorities wield their power in attempting to ensure support and effect or prevent social change.”
+
+According to Vedung, Carrots are incentives and inducements, a policy instrument that involve either the handing out or the taking away of material resources in order to elicit a certain type of behavior. Carrots leave the subjects of governance a certain leeway within which to choose by themselves whether to take an action or not. Carrots therefore involve a medium level of coerciveness
+This type of instrument makes the assumption about human behavior that a certain type of behavior might not emerge without giving individuals a push, an incentive. 
+Carrots involve a medium level of intervention, because states have to take action in terms of creating an incentive. Examples of carrots are tax credits or grants.
+
+
+According to Alan Stone, sticks are state-imposed limitation on the discretion that may be exercised by individuals or organizations, which is supported by the threat of sanction. Sticks involve a strong level of coerciveness, and makes the assumption on human behavior that people can be compelled to act in a certain way with the threat of a sanction in case of negative behavior. The states level of intervention is also high, because the state has to take an authoritative figure.
+
+Examples of sticks are parking tickets. 
+
+It is important to look at these two terms together because they are both policy instruments, but they strongly differ in terms of levels of coerciveness, levels of state intervention, and in terms of assumptions of human behavior. On one hand, carrots involve a medium level of coerciveness, a medium level of state intervention, and assume that individuals will only adopt a certain type of behavior if they are not given an incentive to do so. On the other hand, sticks involve a strong level of coerciveness, a high level of state intervention, and assumes that individuals will act in a certain way if compelled to by the threat of a sanction. 
+==== Sticks and Sermons ====
+by Aleksi
+
+Sticks and Sermons (VEDUNG)
+
+Sticks and sermons are types of policy instruments. According to Vedung, “public policy instruments are the set of techniques by which governmental authorities wield their power in attempting to ensure support and effect or prevent social change.”
+
+According to Alan Stone, sticks are state-imposed limitation on the discretion that may be exercised by individuals or organizations, which is supported by the threat of sanction. Sticks involve a strong level of coerciveness, and makes the assumption on human behavior that people can be compelled to act in a certain way following a logic of consequences, which is the threat of a sanction in case of negative behavior. The states level of intervention is also high, because the state has to take an authoritative figure
+
+Sermons are attempts at influencing people through the transfer of knowledge, the communication of reasoned argument, and persuasion. No more than transfer of knowledge or persuasive reasoning is offered to influence people to do what the government deems desirable. Sermons include recommendations about how citizens should act and behave. 
+No government obligation or coercion is involved. Whether or not to follow the recommendations is entirely up to the citizens. Sermons make the assumption of human behavior that if individuals receive knowledge about something, they will be influenced by it and change their behavior. The level of intervention of the state is low, because all it does is provide information.
+An example that can be used to illustrate what sermons are communication campaigns, such as the mothers against drunk driving campaign.
+
+It is important to look at these two terms together because they are both policy instruments, but they strongly differ in terms of levels of coerciveness, levels of state intervention, and in terms of assumptions of human behavior. On one hand, sticks involve a strong level of coerciveness, a high level of state intervention, and assumes that individuals will act in a certain way if compelled to by the threat of a sanction. On the other hand, Sermons involve no coerciveness at all, a low level of state intervention, and assumes that individuals will change their behavior when they are given information.
+==== Federalism and Social Policy ====
+
+=== Federalism ===
+Federalism - division of powers between two or more autonomous levels or orders of government within a country. The orders of government are not bound together in an orderly relationship, but enjoy discretion in matters under their jurisdiction and guaranteed by the constitution (59).
+
+=== Social Policy ===
+According to Banting, social policies refer to policies such as education, hospitals, and related charitable institutions, but also unemployment, pensions.
+
+=== Importance ===
+
+Policies with different subjects may fall under jurisdiction/responsibility of different orders of government (i.e. education, health care, financial securities, etc). Consequently, due to division of powers and responsibilities, one order of the government may end up being responsible for the policy thet the level of the government doesn't have the adequate funds for.
+==== Parliamentary Systems and Presidential Systems ====
+Significance of parliamentary political system with respect to public policy is the fusion of powers of two autonomous levels of government within a country.
+
+=== Presidential System ===
+In __presidential system__ the executive is separated from the legislature; executive is elected directly by the voters, and doesn't need to have majority support from the legislature (60).
+
+=== Parliamentary System ===
+In __parliamentary system__ the executive is chosen by the legislature from among its members and remain in office until it enjoys majority support from legislators.
+
+In __parliamentary system__ the executive can take legislative support for granted as a result of the strict party discipline enforced on individual members of the parliament (61). There is a little chance of changing a bill once its has been introduced in parliament (under majority of government). 
+
+Policy-making in parliamentary system is centralized in the executive, which enables to take action if it chooses so (61).
+
+=== Importance ===
+The separation between the executive and legislative branches, or their fusion has impact on the policy process (60).
+
+The division of powers in the presidential system creates difficulties for policy-makers. What matters is if president forms affiliation in legislature. However, the local concerns can motivate legislators to override partisan loyalties. To ensure majority, president has to bargain with the members of the legislature, offering administrative and budgetary benefits.
+There are multiple points of conflicts between executive and legislature during policy making. There is also greater opportunity for voters to influence the policy process.
+
+Using analogy, talk about how parliamentary system shapes the policy-making process.
+
+
+==== Globalization and Internationalization ====
+Globalization is a phenomenon that has economic, political and cultural strands. Cerny posits that globalization as “a political phenomenon basically means that the shaping of the playing field of politics is increasingly determined not within insulated units, i.e. relatively autonomous and hierarchically organized structures called states; rather, it derives from a complex congeries of multilevel games played on multilayered institutional playing fields, above and across, as well as within, state boundaries.” However, globalization also refers to increased interconnectivity due to technological innovations, improvements in communication and transportation methods. Globalization has many consequences, including a tendency for isomorphism in terms of policies, an increased migration of people & goods, and increased interconnectivity of societies in economic, social, and cultural spheres. 
+
+Example of globalization: emergence of global brands, standards that are accepted across the globe.
+
+According to Bernstein & Cashore, Internationalization refers to the phenomenon “when policies within domestic jurisdiction face increased scrutiny, participation, or influence from transnational actors and international institutions, and the rules and norms they embody”. An example of internationalization is the increased influence of the OECD in shaping domestic education policy in Canada.
+
+It is important to look at these two terms together because XYZ
+
+XYZ = 
+  * both are sources of influence on domestic policies;
+  * promote certain options, but limit others;
+  * policy on domestic subsidies may be affected by formal international trade constraints (76).
+  * policy spillovers;
+  * discrete sectors became singular ones;
+  * allows to learn from policy experiences of other countries;
+  * new patterns -> domestic policies can be transferred to international arena; 
+  * EU, WTO, NAFTA -> new channels for domestic policy actors to pursue their interests (78);
+  * WTO -> forces to lower trade barriers -> shapes domestic policies of participating countries;
+  * OPEC -> determines the amounts of oil supply;
+  * International trade -> flexible currency regime -> domestic national banks policies are affected as a result; they react more in response to the external factors.
+
+===== PART 3 =====
+ Identify and discuss the ways in which:
+  - federalism -> division of powers; federal and provincial governments have different jurisdictions; one have $$$ others have responsibilities. 
+  - political structures (parliamentary democracy) -> parliamentary system - PM takes for granted power to pass legislation given party discipline; 
+  - international community -> EU, WTO, NAFTA -> affect domestic policies -> constraints; policies can be developed outside of gov't
+
+shape policy development in Canada. 
+
+Are all 3 factors equally significant in every __stage__ of policy development, or do they vary in their respective influence?
+
+  * each factor is significant in its own way to one stage of policy development or another;
+  * agenda setting -> parliamentary system has most affect on agenda setting; PM can bring own policy by-passing all channels that actors would have to pass (i.e. media coverage, opportunity window, etc); 
+  * instrument choice -> depends on the scope of the policy, but really can be affected by international community. ex.: Bank of Canada policies are constrained by WTO (i.e. flexible exchange rate, % of borrowed $$ to GPA, etc.);
+  * decision making -> federalism has affect to the extent that each province has unique issues which makes it hard to arrive to unified solution and thus form decision.
+
+__Defend your position using examples, readings, and lectures.__
+

@@ -1,0 +1,7 @@
+====== INTRODUCTION TO METHODOLOGY ======
+
+===== Exam Review =====
+[[SCS2150:Exam Review|Review Notes]]
+
+<sub>create new lectures using format SCS2150:lectures:lecture</sub>
+

@@ -1,0 +1,124 @@
+//Wed, Oct 21//
+
+
+====== PRESENTATION ======
+====== Ethics, Public Service and Politics ======
+
+__Readings__
+
+  * Kernaghan & Lanford, ch. 4; :ok:
+  * [[pap4355:benoit|Benoit, pp. 213 - 240;]]
+  * [[note|1-page reflection;]]
+  * come up with 3 questions to ask the class (i.e. examples);
+  * meeting Wednesday @ 6 p.m.;
+  * play Case 4.1. to demonstrate the ethical issue situation 8-)
+
+__On-going Questions__
+  * define public neutrality;
+  * how would you define duty of loyalty?
+  * any problem with the idealistic model of neutrality?
+
+===== Chapter 4. The Politically Neutral Public Servant =====
+
+//Political neutrality is like Quantum Mechanics: we know it in theory, but can't observe in reality. What defines a duty of political neutrality? Judges, legislators, journalists and academics are uncertain.//
+
+Duty of public servants to be politically neutral creates two questions:
+  - What relationships between elected officials and public servants are appropriate at workplace?
+  - To what extent should public servant engage in politics away from workplace?
+
+__Political neutrality__ is a constitutional convention by which public servants should avoid activities that are likely to affect their or public service political impartiality (p.101). Political neutrality has been a central feature of the constitution since Confederation. Mix of constitutional and ethical considerations.
+
+Political neutrality is set out in a variety of official documents:
+  * Guide //"Accountable Government: A Guide for Ministers and Ministers of State"// \\ "... ministers have a responsibility for maintaining the tradition of the political neutrality of the public service..." (Canada, Privy Council Office 2011, p. 44)
+  * //Public Service Employment Act (2003)// \\ "... the right of employees to engage in political activities while maintaining the principle of political impartiality in the public service."
+
+==== Idealistic Model of Neutrality ====
+  - Politics and policy are separate from administration -> politicians make decisions; public servants execute decisions.
+  - Appointments and promotion are merit-based (i.e. have to have nothing to do with affiliation or contribution).
+  - Public servants provide objective advice to political executives, and political executives protect the anonymity of public servants.
+  - Public servants are loyal to the policy decisions and bias-free of their own opinions.
+  - Public servants do not engage in partisan political activities.
+  - Public servants do not express publicly their personal views on government policies or administration. 
+
+== Notes ==
+  * #1 to #4 relate to political neutrality;
+  * # 5 to #6 relate to workplace;
+  * proposed political neutrality has __never__ existed in any government;
+  * model provides analysis framework of the relationships between politicians and public servants;
+  * duty to be politically neutral can be broken down into several sub-duties;
+  * revision of model components can allow to adapt it to non-partisan local governments (Siegel 1994, p. 13);
+    * no cabinet
+    * no anonymity
+    * greater degree of interaction with public;
+  * variation differs from one government to another, one department to another;
+
+==== Arguments For and Against Political Neutrality ====
+__Forth__  
+  * it is important to ensure that public servants are appointed and promoted according to merit, foresting fair and impartial service to the public;
+
+__Against__
+  * traditional rules of political neutrality are too restrictive;
+  * interpretations of political neutrality are outdated and unrealistic;
+
+==== Political Neutrality & Merit ====
+Public service staffing should avoid non-qualified hiring that jeopardizes: the integrity of a professional public service, principle of good government, and independence from governing party.
+
+The duty to be politically neutral requires that public servants make appointments and promotions on the basis of merit rather than party affiliation or contribution.
+
+==== Ministerial Responsibility & Public Service Anonymity ====
+Two schools of thought:
+  - Commentators - myth doctrine.
+  - Constitutionalists - key doctrine of cabinet-parliamentary form of government.
+
+== Traditional Model of Political Neutrality ==
+Responsible minister is expected to take public credit and public blame for departmental actions in order to protect the anonymity of their officials. In turn, public servants are expected to protect their anonymity by providing frank advice to minister in confidence, and refrain from political involvement.
+
+Anonymity is vanished since the policy influence of public servants is often evident during consultations and negotiations.
+
+Freedom of information legislation is reducing public service anonymity as more documents become available to public (p. 107).
+
+==== Political Neutrality & Political Rights Balance ====
+
+Consequentialists: assess the outcomes as a result of restricting the political rights of public servants. Ex.: increasing public trust in government; reducing the freedom of expression.
+
+Duty theorists: compare the importance of political rights with political neutrality.
+
+Virtue ethics: look to public servants who understand the need to balance political neutrality with political rights.
+
+==== Loyalty ====
+Traditionally, public servants are expected to serve loyally and impartially whatever political party is in power (p. 109). The federal code of values and ethics requires public servants to show respect for the Canadian parliamentary system and loyally carry out the __lawful__ decisions of their leaders and support ministers. (at what point lawful qualification is determined :?:) In return, public servants have assured of security of tenure during satisfactory performance. What does duty of loyalty requires? Loyalty means neutrality of public servants regardless of the government. Is loyalty to government same as loyalty to the government of the day? Supreme Court of Canada declared that "... public servant should be loyal to their employer; the loyalty is owned to the Government of Canada, not the political party in power" (p. 109).
+
+However, some public servants believe that their ultimate loyalty is to the public interest (p. 110). Three situations when public servants may make exceptions to the duty of loyalty:
+  - illegal acts of the Government.
+  - policies negatively affect life, health or safety.
+  - the public servant's criticism has no impact on his or her ability to perform the duties of a public servant in efficient manner.
+
+==== Political Staff ====
+Public servants have to consider the loyalty issues raised by the role of political appointees, who are exempts from staffing and other controls that apply to apply to public servants. This role is intended. It provides political executives with partisan advise that cannot be provided by politically neutral public servants. As a result, political staff is influential. In consequence, there is tension between public servants and political staff; Political staff do not have formal authority over public servants, but can informally interact with public servants and influence administrative actions (Benoit 2006).
+
+Problematic relationships between public servants and political staff provoked creation of rules of conduct in this sphere. Federal government responded: exempt staff have no role in departmental operations (can't exercise the delegated authority of ministers; not permitted to give orders to departmental publis servants).
+==== Political Rights (away from the workplace) ====
+//to what extent can public servants exercise political rights? What is the optimal balance between enjoyment of political rights and the need for political neutrality?//
+
+  * Argument: public servants should enjoy same freedoms of speech and association as other citizens.
+  * Contra-argument: public servants must remain neutral both in fact and in appearance.
+  * Argument: skilled and talented public servants will be unwilling to accept employment if their political rights are restricted.
+
+__Issue__ If public servants are given too much freedom, then ministers will start to question loyalty of public servants and will prefer to appoint own supporters.
+
+__Solution__ accommodate conflicting viewpoints. Supreme Court of Canada: \\ //freedom of expression is a deep-rooted value in our democratic system of government... all important values must be qualified, and balanced against other important values."//
+
+__Question__ To what extent the limits should expand? Assess the appropriate balance between political neutrality & political partisanship and between political neutrality & public comment.
+
+
+
+==== Non-Partisan Public Servant ====
+//... public servants do not engage in partisan political activities or any type of electoral politics at the local level, and avoid involvement as the federal or provincial levels as well"// (Siegel 1994, p.21).
+
+Can employees engage in activities such as posting lawn signs? Wearing campaign button?
+
+Municipal employees are typically required to obtain a leave of absence to stand for election to federal or provincial office. If they seek municipal office-> resign their government post.
+==== The Discreet Public Servant ====
+//... public servants do not engage publicly in critical comment on government policies and programs// (p.121). Supreme Court of Canada: //"... freedom to criticize the Government is not an absolute freedom..."// (p.122).
+
+Ex.: refrain from recommending reforms in government machinery or speculating in public on future government policy. participation in these activities have a potential to diminish the anonymity or neutrality of the public service or damage reputation.

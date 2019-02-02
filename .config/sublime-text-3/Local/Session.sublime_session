@@ -1,0 +1,1289 @@
+{
+	"folder_history":
+	[
+		"/home/e403sa/.config/nano",
+		"/home/e403sa/.config/polybar",
+		"/home/e403sa/.config/conky",
+		"/home/e403sa/.config/i3"
+	],
+	"last_version": 3176,
+	"last_window_id": 39,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 1037.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"font",
+						"font-weight"
+					],
+					[
+						"entry",
+						"entry-header"
+					],
+					[
+						"l",
+						"upper-latin"
+					],
+					[
+						"u",
+						"upper-roman"
+					],
+					[
+						"lo",
+						"lower-roman"
+					],
+					[
+						"upper",
+						"upper-latin"
+					],
+					[
+						"background",
+						"background-color"
+					],
+					[
+						"acct",
+						"acct_num"
+					],
+					[
+						"sort",
+						"sortList"
+					],
+					[
+						"a",
+						"account"
+					],
+					[
+						"acc",
+						"acct_number"
+					],
+					[
+						"dr",
+						"dr_acct"
+					],
+					[
+						"Je",
+						"JournalEntry"
+					],
+					[
+						"cr",
+						"cr_ttl"
+					],
+					[
+						"print",
+						"printEntries"
+					],
+					[
+						"read",
+						"readEntry"
+					],
+					[
+						"addChart",
+						"addChartAccount2"
+					],
+					[
+						"dr_",
+						"dr_acct"
+					],
+					[
+						"file",
+						"file_name"
+					],
+					[
+						"inc",
+						"include"
+					],
+					[
+						"def",
+						"define"
+					],
+					[
+						"am",
+						"amount"
+					],
+					[
+						"entry_",
+						"entry_date"
+					],
+					[
+						"entr",
+						"entry_date"
+					],
+					[
+						"date",
+						"entry_date"
+					],
+					[
+						"cr_a",
+						"cr_acct_number"
+					],
+					[
+						"dr_acct",
+						"dr_acct_number"
+					],
+					[
+						"Journal",
+						"JournalEntry"
+					],
+					[
+						"xmlTex",
+						"xmlTextWriterPtr"
+					],
+					[
+						"nu",
+						"num_of_accounts"
+					],
+					[
+						"num",
+						"num_of_accounts"
+					],
+					[
+						"trial",
+						"trial_balance"
+					],
+					[
+						"A",
+						"Account"
+					],
+					[
+						"binding",
+						"binding_mode_indicator"
+					],
+					[
+						"bind",
+						"bindcode"
+					],
+					[
+						"focused",
+						"focused_workspace"
+					],
+					[
+						"no",
+						"no-startup-id"
+					],
+					[
+						"wall",
+						"wallpaper_101"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 227.0,
+				"last_filter": "vm",
+				"selected_items":
+				[
+					[
+						"vm",
+						"View: Toggle Menu"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"re",
+						"Package Control: Remove Package"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"rmeo",
+						"Package Control: Remove Package"
+					],
+					[
+						"uninstall",
+						"Colorsublime: Uninstall Theme"
+					],
+					[
+						"unin",
+						"Colorsublime: Uninstall Theme"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"Inst",
+						"Package Control: Install Package"
+					],
+					[
+						"Install",
+						"Package Control: Install Package"
+					],
+					[
+						"Insta",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Preferences: Browse Packages"
+					],
+					[
+						"pa",
+						"Package Control: Install Package"
+					],
+					[
+						"Snippet: ",
+						"Snippet: XML Data"
+					],
+					[
+						"",
+						"Build: Build"
+					]
+				],
+				"width": 479.0
+			},
+			"console":
+			{
+				"height": 320.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": false,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/e403sa/Public/admin/conf/scheme.conf",
+				"/home/e403sa/Public/admin/conf/wordblock.conf",
+				"/home/e403sa/Public/admin/conf/mime.conf",
+				"/home/e403sa/Public/wiki/conf/scheme.conf",
+				"/home/e403sa/Public/wiki/conf/entities.conf",
+				"/home/e403sa/Public/admin/conf/acronyms.conf",
+				"/home/e403sa/Public/wiki/conf/interwiki.conf",
+				"/home/e403sa/Public/wiki/conf/acronyms.conf",
+				"/home/e403sa/Public/wiki/conf/smileys.conf",
+				"/home/e403sa/Downloads/BIOS_ACER_3310_Windows_AOA110 & AOA150/Dos_Flash/readme.txt",
+				"/home/e403sa/.gitconfig",
+				"/home/e403sa/Software/git/.git/config",
+				"/home/e403sa/.config/sublime-text-3/Packages/User/ColorHighlighter.sublime-settings",
+				"/home/e403sa/e403sa_config.sublime-project",
+				"/home/e403sa/.config/compton/compton.conf",
+				"/home/e403sa/terminal.sh",
+				"/home/e403sa/.git/config",
+				"/tmp/fz3temp-2/style.css",
+				"/home/e403sa/.config/conky/conky.conf",
+				"/home/e403sa/.config/nano/conf.nanorc",
+				"/home/e403sa/.config/i3/config",
+				"/home/e403sa/.config/conky/.conky_cal",
+				"/home/e403sa/.config/i3/config.bak",
+				"/home/e403sa/.config/sublime-text-3/Packages/Colorsublime - Themes/cache/Colorsublime-Themes-master/themes/e403sa Vivobook Solarized (dark).tmTheme",
+				"/home/e403sa/.config/rofi/config.rasi",
+				"/home/e403sa/.config/Trolltech.conf",
+				"/home/e403sa/.nanorc",
+				"/home/e403sa/.zshrc",
+				"/home/e403sa/.taskrc",
+				"/home/e403sa/.config/polybar/config",
+				"/home/e403sa/.config/conky/conky_date.conf",
+				"/home/e403sa/.config/conky/conky_bar.conf",
+				"/home/e403sa/.config/conky/conky_bar_bottom.conf",
+				"/home/e403sa/.config/rofi/rofi-example.config",
+				"/home/e403sa/.config/nano/master.nanorc",
+				"/home/e403sa/.bashrc",
+				"/home/e403sa/wifi.sh",
+				"/home/e403sa/.config/sublime-text-3/Packages/User/Colorsublime.sublime-settings",
+				"/home/e403sa/.config/sublime-text-3/Packages/Colorsublime/Colorsublime.sublime-settings",
+				"/home/e403sa/.config/sublime-text-3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+				"/home/e403sa/.config/sublime-text-3/Packages/User/ToggleMinimapOnScroll.sublime-settings",
+				"/home/e403sa/.config/sublime-text-3/Packages/ToggleMinimapOnScroll/ToggleMinimapOnScroll.sublime-settings",
+				"/home/e403sa/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+				"/home/e403sa/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+				"/home/e403sa/Software/c/acct_proj/acct_1003.c",
+				"/home/e403sa/Public/bei/css/skeleton.css",
+				"/tmp/xa-4AOC9Y/README.md",
+				"/home/e403sa/.config/polybar/polybar.sh",
+				"/home/e403sa/.config/watson/frames",
+				"/home/e403sa/Downloads/Liste des comptes de GL (Ma vue).xls",
+				"/run/media/e403sa/backup/exec/backup.sh",
+				"/home/e403sa/Downloads/receipts-2017-09-01-2017-09-30.csv",
+				"/home/e403sa/.config/watson/state",
+				"/home/e403sa/Downloads/payment-type-sales-2017-08-31-2017-09-24.csv",
+				"/home/e403sa/.config/conky/conky_bar2.conf",
+				"/home/e403sa/Downloads/cibc (1).csv",
+				"/home/e403sa/Downloads/cibc.aso",
+				"/home/e403sa/.config/conky/shortcuts_top.conf",
+				"/home/e403sa/.config/compton/compton.conf.labs",
+				"/home/e403sa/Downloads/listen.m3u",
+				"/home/e403sa/Dropbox/Practice/rc59-fill-08-17e.pdf",
+				"/home/e403sa/.config/conky/conky_cal",
+				"/home/e403sa/.config/compton/compton.conf.bak",
+				"/home/e403sa/.config/sublime-text-2/Packages/User/ColorHighlighter.sublime-settings",
+				"/home/e403sa/.config/conky/weather.conkyrc",
+				"/home/e403sa/.config/conky/vision/Z333-vision.conkyrc",
+				"/tmp/fz3temp-2/footer.php",
+				"/tmp/fz3temp-2/header.php",
+				"/tmp/fz3temp-2/functions.php",
+				"/home/e403sa/.config/conky/get_weather_icon.sh",
+				"/home/e403sa/.config/conky/AP-Weather-White.conkyrc",
+				"/home/e403sa/.config/conky/text.txt",
+				"/home/e403sa/.config/conky/shortcuts.conf",
+				"/home/e403sa/.config/openbox/README.md",
+				"/home/e403sa/.config/conky/vision/README.md",
+				"/home/e403sa/.config/conky/AP-Weather-Blue.conkyrc",
+				"/home/e403sa/.config/openbox/menu.xml",
+				"/home/e403sa/.config/openbox/menu.xml.bak2",
+				"/home/e403sa/Downloads/cb=gapi.loaded_2",
+				"/home/e403sa/Public/ip/vendor/codeigniter/framework/system/database/drivers/mysqli/mysqli_driver.php",
+				"/home/e403sa/Public/ip/index.php",
+				"/home/e403sa/Public/ip/ipconfig.php",
+				"/home/e403sa/.config/vis/config",
+				"/home/e403sa/.config/vis/colors/rainbow",
+				"/home/e403sa/.config/vis/colors/blue",
+				"/home/e403sa/Public/ip/htaccess",
+				"/home/e403sa/Dropbox/kijiji_ads/fences.txt",
+				"/home/e403sa/.config/i3status/i3status.conf",
+				"/home/e403sa/.config/taskwarrior/operations.TAX.rc",
+				"/home/e403sa/.config/taskwarrior/holidays.en-CA.rc",
+				"/run/media/e403sa/549dafd1-f66f-4f1d-bb58-0f1263716063/etc/i3/config",
+				"/run/media/e403sa/549dafd1-f66f-4f1d-bb58-0f1263716063/usr/share/conky/conky_solarized",
+				"/home/e403sa/.config/conky/conky_shortcuts_live_solarized",
+				"/run/media/e403sa/549dafd1-f66f-4f1d-bb58-0f1263716063/home/e403sa/.config/i3/config",
+				"/run/media/e403sa/549dafd1-f66f-4f1d-bb58-0f1263716063/usr/share/conky/conky_shortcuts_live_green",
+				"/home/e403sa/Dropbox/keymap",
+				"/home/e403sa/.config/i3/keymap",
+				"/home/e403sa/dead.letter",
+				"/run/media/e403sa/ALEX/i3/config",
+				"/home/e403sa/Software/c/acct_proj/journal.xml.bak",
+				"/home/e403sa/Software/c/acct_proj/acct_1002.pdf",
+				"/home/e403sa/Software/c/acct_proj/acct_1001.c",
+				"/home/e403sa/Software/c/acct_009.c",
+				"/home/e403sa/Software/c/acct_009",
+				"/home/e403sa/Software/c/acct_proj/accounting.sublime-project",
+				"/home/e403sa/Software/c/acct_proj/gui.h",
+				"/home/e403sa/Software/c/accounting.sublime-project",
+				"/home/e403sa/Software/c/acct_005.c",
+				"/home/e403sa/Software/c/xml_nav_tree.c",
+				"/home/e403sa/Software/c/xml_create_tree.c",
+				"/home/e403sa/.config/sublime-text-2/Packages/User/xml.sublime-snippet",
+				"/home/e403sa/.config/sublime-text-2/Packages/XML/cdata.sublime-snippet",
+				"/home/e403sa/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+				"/home/e403sa/.config/sublime-text-2/Packages/User/mxl.sublime-snippet",
+				"/home/e403sa/.config/sublime-text-2/Packages/User/main().sublime-snippet",
+				"/home/e403sa/.config/sublime-text-2/Packages/User/C xml.sublime-build",
+				"/home/e403sa/.config/sublime-text-2/Packages/User/#include.sublime-snippet",
+				"/home/e403sa/Software/c/basic.c",
+				"/home/e403sa/.config/sublime-text-2/Packages/User/main.sublime-snippet",
+				"/home/e403sa/.config/sublime-text-2/Packages/C++/if-..-(if).sublime-snippet",
+				"/home/e403sa/.config/sublime-text-2/Packages/User/C.sublime-build",
+				"/home/e403sa/.config/sublime-text-2/Packages/C++/C++.sublime-build",
+				"/home/e403sa/.config/sublime-text-2/Packages/User/gcc_xml.sublime-build",
+				"/home/e403sa/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+				"/home/e403sa/Software/c/parse_xml2.c",
+				"/home/e403sa/Software/c/journal_xml.c",
+				"/home/e403sa/Software/c/journal.xml",
+				"/home/e403sa/Software/c/welcome.xml"
+			],
+			"find":
+			{
+				"height": 22.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"xrandr",
+					"stack",
+					"%i",
+					"1000",
+					"9999",
+					"061",
+					"double",
+					"float",
+					"chart",
+					" {",
+					"mem",
+					"lo",
+					"2016",
+					"2015",
+					"mod+Shift",
+					"#dokuwiki__site",
+					"#dokuwiki_site",
+					"max-width",
+					"seed",
+					"i3lock"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 21.0
+			},
+			"input":
+			{
+				"height": 37.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 122.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 40.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"/home/e403sa/Software/c/accounting.sublime-project"
+					]
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 251.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 944.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"font",
+						"font-weight"
+					],
+					[
+						"entry",
+						"entry-header"
+					],
+					[
+						"l",
+						"upper-latin"
+					],
+					[
+						"u",
+						"upper-roman"
+					],
+					[
+						"lo",
+						"lower-roman"
+					],
+					[
+						"upper",
+						"upper-latin"
+					],
+					[
+						"background",
+						"background-color"
+					],
+					[
+						"acct",
+						"acct_num"
+					],
+					[
+						"sort",
+						"sortList"
+					],
+					[
+						"a",
+						"account"
+					],
+					[
+						"acc",
+						"acct_number"
+					],
+					[
+						"dr",
+						"dr_acct"
+					],
+					[
+						"Je",
+						"JournalEntry"
+					],
+					[
+						"cr",
+						"cr_ttl"
+					],
+					[
+						"print",
+						"printEntries"
+					],
+					[
+						"read",
+						"readEntry"
+					],
+					[
+						"addChart",
+						"addChartAccount2"
+					],
+					[
+						"dr_",
+						"dr_acct"
+					],
+					[
+						"file",
+						"file_name"
+					],
+					[
+						"inc",
+						"include"
+					],
+					[
+						"def",
+						"define"
+					],
+					[
+						"am",
+						"amount"
+					],
+					[
+						"entry_",
+						"entry_date"
+					],
+					[
+						"entr",
+						"entry_date"
+					],
+					[
+						"date",
+						"entry_date"
+					],
+					[
+						"cr_a",
+						"cr_acct_number"
+					],
+					[
+						"dr_acct",
+						"dr_acct_number"
+					],
+					[
+						"Journal",
+						"JournalEntry"
+					],
+					[
+						"xmlTex",
+						"xmlTextWriterPtr"
+					],
+					[
+						"nu",
+						"num_of_accounts"
+					],
+					[
+						"num",
+						"num_of_accounts"
+					],
+					[
+						"trial",
+						"trial_balance"
+					],
+					[
+						"A",
+						"Account"
+					],
+					[
+						"binding",
+						"binding_mode_indicator"
+					],
+					[
+						"bind",
+						"bindcode"
+					],
+					[
+						"focused",
+						"focused_workspace"
+					],
+					[
+						"no",
+						"no-startup-id"
+					],
+					[
+						"wall",
+						"wallpaper_101"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "git/dotfiles_e403sa/user_home/i3/config",
+					"settings":
+					{
+						"buffer_size": 14739,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": ".config/compton/compton.conf",
+					"settings":
+					{
+						"buffer_size": 8154,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": ".config/i3/config",
+					"settings":
+					{
+						"buffer_size": 16042,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": ".thunderbird/profiles.ini",
+					"settings":
+					{
+						"buffer_size": 104,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/run/media/e403sa/4c85d8b8-6b78-4010-ba98-df237b2d67a6/etc/fstab",
+					"settings":
+					{
+						"buffer_size": 1451,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "Packages/User/C xml.sublime-build",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 227.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"vm",
+						"View: Toggle Menu"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"re",
+						"Package Control: Remove Package"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"rmeo",
+						"Package Control: Remove Package"
+					],
+					[
+						"uninstall",
+						"Colorsublime: Uninstall Theme"
+					],
+					[
+						"unin",
+						"Colorsublime: Uninstall Theme"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"Inst",
+						"Package Control: Install Package"
+					],
+					[
+						"Install",
+						"Package Control: Install Package"
+					],
+					[
+						"Insta",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Preferences: Browse Packages"
+					],
+					[
+						"pa",
+						"Package Control: Install Package"
+					],
+					[
+						"Snippet: ",
+						"Snippet: XML Data"
+					],
+					[
+						"",
+						"Build: Build"
+					]
+				],
+				"width": 479.0
+			},
+			"console":
+			{
+				"height": 320.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": false,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/e403sa/.config",
+				"/home/e403sa/.config/compton",
+				"/home/e403sa/.config/i3",
+				"/home/e403sa/.config/nano",
+				"/home/e403sa/.config/polybar",
+				"/home/e403sa/.config/i3",
+				"/home/e403sa/.config/polybar"
+			],
+			"file_history":
+			[
+				"/run/user/1000/gvfs/smb-share:server=192.168.20.105,share=user_files/homes/e403sa/DELUXE_MUSIC_RADIO.m3u",
+				"/home/e403sa/Public/admin/conf/smileys.conf",
+				"/home/e403sa/.config/conky/conky_date.conf",
+				"/home/e403sa/.config/neofetch/config",
+				"/home/e403sa/.config/compton/compton.conf",
+				"/home/e403sa/.config/polybar/config",
+				"/home/e403sa/.config/i3/config",
+				"/run/media/e403sa/9636-54BC/cmdline.txt",
+				"/run/media/e403sa/9636-54BC/config.txt",
+				"/run/media/e403sa/483ee37b-90c1-457f-ba90-b74185c195eb/etc/netctl/BELL766",
+				"/home/e403sa/.config/polybar/polybar.sh",
+				"/home/e403sa/Downloads/hitfm_ru.m3u",
+				"/home/e403sa/Music/SmoothJazzFavorites002.xspf",
+				"/home/e403sa/Music/SmoothJazzFavorites.xspf",
+				"/home/e403sa/Downloads/ru_russkoeradio.m3u",
+				"/home/e403sa/Downloads/russkoefm_192_mp3.m3u",
+				"/run/media/e403sa/4c85d8b8-6b78-4010-ba98-df237b2d67a6/etc/netctl/BELL766",
+				"/run/media/e403sa/4c85d8b8-6b78-4010-ba98-df237b2d67a6/etc/netctl/AlexG6",
+				"/run/media/e403sa/4c85d8b8-6b78-4010-ba98-df237b2d67a6/etc/fstab",
+				"/run/media/e403sa/4c85d8b8-6b78-4010-ba98-df237b2d67a6/etc/wpa_supplicant/home_wifi",
+				"/run/user/1000/gvfs/smb-share:server=192.168.2.22,share=users/e403sa/SmoothJazzFavorites.xspf",
+				"/run/media/e403sa/boot/wpa_supplicant.conf",
+				"/run/media/e403sa/boot/issue.txt",
+				"/run/media/e403sa/boot/config.txt",
+				"/run/media/e403sa/boot/wpa_supplicant (copy).conf",
+				"/home/e403sa/Public/admin/conf/scheme.conf",
+				"/home/e403sa/Public/admin/conf/wordblock.conf",
+				"/home/e403sa/Public/admin/conf/mime.conf",
+				"/home/e403sa/Public/wiki/conf/scheme.conf",
+				"/home/e403sa/Public/wiki/conf/entities.conf",
+				"/home/e403sa/Public/admin/conf/acronyms.conf",
+				"/home/e403sa/Public/wiki/conf/interwiki.conf",
+				"/home/e403sa/Public/wiki/conf/acronyms.conf",
+				"/home/e403sa/Public/wiki/conf/smileys.conf",
+				"/home/e403sa/Downloads/BIOS_ACER_3310_Windows_AOA110 & AOA150/Dos_Flash/readme.txt",
+				"/home/e403sa/.gitconfig",
+				"/home/e403sa/Software/git/.git/config",
+				"/home/e403sa/.config/sublime-text-3/Packages/User/ColorHighlighter.sublime-settings",
+				"/home/e403sa/e403sa_config.sublime-project",
+				"/home/e403sa/terminal.sh",
+				"/home/e403sa/.git/config",
+				"/tmp/fz3temp-2/style.css",
+				"/home/e403sa/.config/conky/conky.conf",
+				"/home/e403sa/.config/nano/conf.nanorc",
+				"/home/e403sa/.config/conky/.conky_cal",
+				"/home/e403sa/.config/i3/config.bak",
+				"/home/e403sa/.config/sublime-text-3/Packages/Colorsublime - Themes/cache/Colorsublime-Themes-master/themes/e403sa Vivobook Solarized (dark).tmTheme",
+				"/home/e403sa/.config/rofi/config.rasi",
+				"/home/e403sa/.config/Trolltech.conf",
+				"/home/e403sa/.nanorc",
+				"/home/e403sa/.zshrc",
+				"/home/e403sa/.taskrc",
+				"/home/e403sa/.config/conky/conky_bar.conf",
+				"/home/e403sa/.config/conky/conky_bar_bottom.conf",
+				"/home/e403sa/.config/rofi/rofi-example.config",
+				"/home/e403sa/.config/nano/master.nanorc",
+				"/home/e403sa/.bashrc",
+				"/home/e403sa/wifi.sh",
+				"/home/e403sa/.config/sublime-text-3/Packages/User/Colorsublime.sublime-settings",
+				"/home/e403sa/.config/sublime-text-3/Packages/Colorsublime/Colorsublime.sublime-settings",
+				"/home/e403sa/.config/sublime-text-3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+				"/home/e403sa/.config/sublime-text-3/Packages/User/ToggleMinimapOnScroll.sublime-settings",
+				"/home/e403sa/.config/sublime-text-3/Packages/ToggleMinimapOnScroll/ToggleMinimapOnScroll.sublime-settings",
+				"/home/e403sa/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+				"/home/e403sa/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+				"/home/e403sa/Software/c/acct_proj/acct_1003.c",
+				"/home/e403sa/Public/bei/css/skeleton.css",
+				"/tmp/xa-4AOC9Y/README.md",
+				"/home/e403sa/.config/watson/frames",
+				"/home/e403sa/Downloads/Liste des comptes de GL (Ma vue).xls",
+				"/run/media/e403sa/backup/exec/backup.sh",
+				"/home/e403sa/Downloads/receipts-2017-09-01-2017-09-30.csv",
+				"/home/e403sa/.config/watson/state",
+				"/home/e403sa/Downloads/payment-type-sales-2017-08-31-2017-09-24.csv",
+				"/home/e403sa/.config/conky/conky_bar2.conf",
+				"/home/e403sa/Downloads/cibc (1).csv",
+				"/home/e403sa/Downloads/cibc.aso",
+				"/home/e403sa/.config/conky/shortcuts_top.conf",
+				"/home/e403sa/.config/compton/compton.conf.labs",
+				"/home/e403sa/Downloads/listen.m3u",
+				"/home/e403sa/Dropbox/Practice/rc59-fill-08-17e.pdf",
+				"/home/e403sa/.config/conky/conky_cal",
+				"/home/e403sa/.config/compton/compton.conf.bak",
+				"/home/e403sa/.config/sublime-text-2/Packages/User/ColorHighlighter.sublime-settings",
+				"/home/e403sa/.config/conky/weather.conkyrc",
+				"/home/e403sa/.config/conky/vision/Z333-vision.conkyrc",
+				"/tmp/fz3temp-2/footer.php",
+				"/tmp/fz3temp-2/header.php",
+				"/tmp/fz3temp-2/functions.php",
+				"/home/e403sa/.config/conky/get_weather_icon.sh",
+				"/home/e403sa/.config/conky/AP-Weather-White.conkyrc",
+				"/home/e403sa/.config/conky/text.txt",
+				"/home/e403sa/.config/conky/shortcuts.conf",
+				"/home/e403sa/.config/openbox/README.md",
+				"/home/e403sa/.config/conky/vision/README.md",
+				"/home/e403sa/.config/conky/AP-Weather-Blue.conkyrc",
+				"/home/e403sa/.config/openbox/menu.xml",
+				"/home/e403sa/.config/openbox/menu.xml.bak2",
+				"/home/e403sa/Downloads/cb=gapi.loaded_2",
+				"/home/e403sa/Public/ip/vendor/codeigniter/framework/system/database/drivers/mysqli/mysqli_driver.php",
+				"/home/e403sa/Public/ip/index.php",
+				"/home/e403sa/Public/ip/ipconfig.php",
+				"/home/e403sa/.config/vis/config",
+				"/home/e403sa/.config/vis/colors/rainbow",
+				"/home/e403sa/.config/vis/colors/blue",
+				"/home/e403sa/Public/ip/htaccess",
+				"/home/e403sa/Dropbox/kijiji_ads/fences.txt",
+				"/home/e403sa/.config/i3status/i3status.conf",
+				"/home/e403sa/.config/taskwarrior/operations.TAX.rc",
+				"/home/e403sa/.config/taskwarrior/holidays.en-CA.rc",
+				"/run/media/e403sa/549dafd1-f66f-4f1d-bb58-0f1263716063/etc/i3/config",
+				"/run/media/e403sa/549dafd1-f66f-4f1d-bb58-0f1263716063/usr/share/conky/conky_solarized",
+				"/home/e403sa/.config/conky/conky_shortcuts_live_solarized",
+				"/run/media/e403sa/549dafd1-f66f-4f1d-bb58-0f1263716063/home/e403sa/.config/i3/config",
+				"/run/media/e403sa/549dafd1-f66f-4f1d-bb58-0f1263716063/usr/share/conky/conky_shortcuts_live_green",
+				"/home/e403sa/Dropbox/keymap",
+				"/home/e403sa/.config/i3/keymap",
+				"/home/e403sa/dead.letter",
+				"/run/media/e403sa/ALEX/i3/config",
+				"/home/e403sa/Software/c/acct_proj/journal.xml.bak",
+				"/home/e403sa/Software/c/acct_proj/acct_1002.pdf",
+				"/home/e403sa/Software/c/acct_proj/acct_1001.c",
+				"/home/e403sa/Software/c/acct_009.c",
+				"/home/e403sa/Software/c/acct_009",
+				"/home/e403sa/Software/c/acct_proj/accounting.sublime-project",
+				"/home/e403sa/Software/c/acct_proj/gui.h",
+				"/home/e403sa/Software/c/accounting.sublime-project",
+				"/home/e403sa/Software/c/acct_005.c"
+			],
+			"find":
+			{
+				"height": 23.9282153539
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"xrandr",
+					"stack",
+					"%i",
+					"1000",
+					"9999",
+					"061",
+					"double",
+					"float",
+					"chart",
+					" {",
+					"mem",
+					"lo",
+					"2016",
+					"2015",
+					"mod+Shift",
+					"#dokuwiki__site",
+					"#dokuwiki_site",
+					"max-width",
+					"seed",
+					"i3lock"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 4,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "git/dotfiles_e403sa/user_home/i3/config",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 14739,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										5865,
+										5865
+									]
+								],
+								"settings":
+								{
+									"color_scheme": "Packages/User/Color Highlighter/themes/Boxy Ocean.tmTheme",
+									"syntax": "Packages/Generic Config/GenericConfig.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": ".config/compton/compton.conf",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 8154,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3648,
+										3648
+									]
+								],
+								"settings":
+								{
+									"color_scheme": "Packages/User/Color Highlighter/themes/Boxy Ocean.tmTheme",
+									"syntax": "Packages/Generic Config/GenericConfig.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 422.731804586,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": ".config/i3/config",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 16042,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										13324,
+										13324
+									]
+								],
+								"settings":
+								{
+									"color_scheme": "Packages/User/Color Highlighter/themes/Boxy Ocean.tmTheme",
+									"syntax": "Packages/Generic Config/GenericConfig.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 6677.96610169,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": ".thunderbird/profiles.ini",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 104,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										76,
+										76
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Generic Config/GenericConfig.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/run/media/e403sa/4c85d8b8-6b78-4010-ba98-df237b2d67a6/etc/fstab",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1451,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"color_scheme": "Packages/User/Color Highlighter/themes/Boxy Ocean.tmTheme",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 23.9282153539
+			},
+			"input":
+			{
+				"height": 37.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": false,
+			"output.exec":
+			{
+				"height": 122.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,0,0,0,967,19,1895,1025,1920,1080",
+			"project": "e403sa_config.sublime-project",
+			"replace":
+			{
+				"height": 43.8683948156
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"/home/e403sa/Software/c/accounting.sublime-project"
+					]
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 251.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 35,
+			"workspace_name": "/home/e403sa/e403sa_config.sublime-workspace"
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/home/e403sa/e403sa_config.sublime-workspace",
+			"/home/e403sa/Public/estate/estate.sublime-workspace",
+			"/home/e403sa/Public/web001/css/web001.sublime-workspace",
+			"/home/e403sa/Public/web001/web001.sublime-workspace",
+			"/home/e403sa/Software/c/acct_proj/accounting.sublime-workspace",
+			"/home/e403sa/Software/c/accounting.sublime-workspace",
+			"/home/e403sa/untitled.sublime-workspace"
+		]
+	}
+}

@@ -1,0 +1,19 @@
+~~NOTOC~~
+{{ :wallpaper_006.jpg?nolink&1100x350 |}}
+====== HOME ======
+E=IQ^2
+----
+===== References =====
+  * [[https://www.dokuwiki.org/config|Config]]
+  * [[https://www.dokuwiki.org/namespace_templates|Templates]]
+  * [[wiki:syntax|syntax page]]
+  * [[wiki:dokuwiki|DokuWiki]]
+
+[[Linux Customization]] \\
+[[archlinux:archlinux|Arch Linux]]\\
+[[Shell Commands]] \\
+[[DokuWikiCustomization]]
+
+----
+[[sidebar|click here to edit sidebar]]
+----

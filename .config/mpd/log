@@ -1,0 +1,95 @@
+Jan 21 23:20 : exception: Failed to open /home/e403sa/.config/mpd/state: No such file or directory
+Jan 21 23:20 : exception: Failed to access /home/e403sa/Music: No such file or directory
+Jan 21 23:20 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 21 23:21 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 21 23:22 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 21 23:22 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 21 23:55 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 21 23:55 : exception: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jan 21 23:56 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 21 23:56 : exception: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jan 22 00:02 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 22 00:02 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Jan 22 00:04 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 22 00:07 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 22 00:11 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 22 00:11 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Jan 22 00:13 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 22 00:13 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Jan 22 00:21 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 22 00:21 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: Digital
+Jan 22 00:22 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 22 00:24 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 22 00:27 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 22 00:28 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 22 00:32 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 22 00:34 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 22 00:36 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 22 00:55 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 22 00:57 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 22 01:01 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 22 01:01 : player: played "Ellie Goulding   Love Me Like You Do Cosmic Dawn Remix.mp3"
+Jan 22 01:06 : player: played "Ellie Goulding   Love Me Like You Do Cosmic Dawn Remix.mp3"
+Jan 22 01:08 : update: added /Дмитрий Хворостовский - Песни и романсы-DT9LHPahM9A.mp3
+Jan 22 01:08 : update: added /Dmitri Hvorostovsky - Kak molody my byli (Как Молоды мы Были)-GU1jUiXOJpo.mp3
+Jan 22 01:08 : update: added /Boccherini- (Master and Commander)-7p94DFyBBwc.mp3
+Jan 22 01:08 : update: added /Georgy Sviridov - Waltz 'Snowstorm'-xm8kpZoX32k.mp3
+Jan 22 01:08 : update: removing Boccherini- (Master and Commander)-7p94DFyBBwc.mp3
+Jan 22 01:08 : update: added /Boccherini - (Master and Commander).mp3
+Jan 22 01:08 : update: removing Dmitri Hvorostovsky - Kak molody my byli (Как Молоды мы Были)-GU1jUiXOJpo.mp3
+Jan 22 01:08 : update: added /Dmitri Hvorostovsky - Kak molody my byli (Как Молоды мы Были).mp3
+Jan 22 01:08 : update: removing Georgy Sviridov - Waltz 'Snowstorm'-xm8kpZoX32k.mp3
+Jan 22 01:08 : update: added /Georgy Sviridov - Waltz 'Snowstorm'.mp3
+Jan 22 01:08 : update: removing Дмитрий Хворостовский - Песни и романсы-DT9LHPahM9A.mp3
+Jan 22 01:08 : update: added /Дмитрий Хворостовский - Песни и романсы.mp3
+Jan 22 01:12 : exception: Failed to open audio output
+Jan 22 01:12 : player: played "Dmitri Hvorostovsky - Kak molody my byli (Как Молоды мы Были).mp3"
+Jan 22 01:18 : player: played "Dmitri Hvorostovsky - Kak molody my byli (Как Молоды мы Были).mp3"
+Jan 22 08:59 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 22 09:04 : player: played "Ellie Goulding   Love Me Like You Do Cosmic Dawn Remix.mp3"
+Jan 22 09:14 : player: played "Boccherini - (Master and Commander).mp3"
+Jan 22 09:20 : player: played "Dmitri Hvorostovsky - Kak molody my byli (Как Молоды мы Были).mp3"
+Jan 22 09:38 : player: played "Ellie Goulding   Love Me Like You Do Cosmic Dawn Remix.mp3"
+Jan 22 09:38 : exception: "My Pulse Audio" [pulse] failed to play: disconnected
+Jan 22 09:38 : exception: Failed to open audio output
+Jan 22 09:38 : player: played "Boccherini - (Master and Commander).mp3"
+Jan 22 12:16 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 22 12:28 : player: played "Ellie Goulding   Love Me Like You Do Cosmic Dawn Remix.mp3"
+Jan 22 12:29 : exception: "My Pulse Audio" [pulse] failed to play: disconnected
+Jan 22 12:29 : exception: Failed to open audio output
+Jan 22 12:29 : player: played "Boccherini - (Master and Commander).mp3"
+Jan 22 12:31 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 22 12:36 : player: played "Ellie Goulding   Love Me Like You Do Cosmic Dawn Remix.mp3"
+Jan 22 12:38 : player: played "Ellie Goulding   Love Me Like You Do Cosmic Dawn Remix.mp3"
+Jan 22 12:38 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 22 12:38 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 22 12:40 : player: played "Ellie Goulding   Love Me Like You Do Cosmic Dawn Remix.mp3"
+Jan 22 12:44 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 22 12:44 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 22 12:44 : exception: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Jan 22 12:44 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 22 12:50 : httpd_output: malformed request line from client
+Jan 22 12:50 : httpd_output: malformed request line from client
+Jan 22 12:50 : httpd_output: malformed request line from client
+Jan 22 12:50 : httpd_output: malformed request line from client
+Jan 22 12:50 : httpd_output: malformed request line from client
+Jan 22 12:51 : httpd_output: malformed request line from client
+Jan 22 12:55 : exception: "My Pulse Audio" [pulse] failed to play: disconnected
+Jan 22 12:55 : player: played "Ellie Goulding   Love Me Like You Do Cosmic Dawn Remix.mp3"
+Jan 23 12:26 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 23 12:26 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 23 12:26 : exception: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Jan 23 13:26 : player: played "Ellie Goulding   Love Me Like You Do Cosmic Dawn Remix.mp3"
+Jan 23 17:58 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 23 17:58 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 23 17:58 : exception: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Jan 23 17:59 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 23 18:04 : player: played "Ellie Goulding   Love Me Like You Do Cosmic Dawn Remix.mp3"
+Jan 23 18:05 : player: played "Dmitri Hvorostovsky - Kak molody my byli (Как Молоды мы Были).mp3"
+Jan 23 18:06 : update: added /Очень Красивая Мощная Музыка для души Это невероятно.mp3
+Jan 23 18:06 : update: added /Z-Star Slow Dancin'.mp3
+Jan 23 18:06 : update: added /Ray Charles & Diana Krall - You don't know me.mp3
+Jan 23 18:06 : update: added /Марш  День Победы-March Day of a Victory.mp3
+Jan 23 18:07 : exception: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Jan 23 18:11 : player: played "Z-Star Slow Dancin'.mp3"
+Jan 23 18:16 : player: played "Марш  День Победы-March Day of a Victory.mp3"

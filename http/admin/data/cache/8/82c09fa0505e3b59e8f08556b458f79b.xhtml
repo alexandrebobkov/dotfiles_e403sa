@@ -1,0 +1,241 @@
+
+<p>
+Monday  April 20, 2015. 14:31
+</p>
+
+<h1 class="sectionedit1" id="linux_customization">LINUX CUSTOMIZATION</h1>
+<div class="level1">
+
+</div>
+
+<h4 id="typical_linux_mint_configurations">Typical Linux Mint Configurations</h4>
+<div class="level4">
+
+<p>
+Desktop: Cinnamon, XFE, MATE <br/>
+
+WM: i3wm
+</p>
+
+</div>
+
+<h5 id="partitioning">Partitioning:</h5>
+<div class="level5">
+<div class="table sectionedit2"><table class="inline">
+	<thead>
+	<tr class="row0">
+		<th class="col0 centeralign">  partition  </th><th class="col1 centeralign">  size  </th>
+	</tr>
+	</thead>
+	<tr class="row1">
+		<td class="col0"> root </td><td class="col1"> 20 - 40 <abbr title="Gigabyte">GB</abbr></td>
+	</tr>
+	<tr class="row2">
+		<td class="col0"> home </td><td class="col1"> 60 - 100 <abbr title="Gigabyte">GB</abbr></td>
+	</tr>
+</table></div>
+<!-- EDIT2 TABLE [174-241] -->
+</div>
+
+<h5 id="software">Software</h5>
+<div class="level5">
+<ol>
+<li class="level1"><div class="li"> Clementine - music player and internet radio.</div>
+</li>
+<li class="level1"><div class="li"> Chromium</div>
+</li>
+<li class="level1"><div class="li"> Yandex web browser</div>
+</li>
+<li class="level1"><div class="li"> Dropbox</div>
+</li>
+<li class="level1"><div class="li"> Guake Terminal</div>
+</li>
+<li class="level1"><div class="li"> Conky</div>
+</li>
+<li class="level1"><div class="li"> WPS Suite (Word, Excel, PowerPoint)</div>
+</li>
+<li class="level1"><div class="li"> Shutter</div>
+</li>
+</ol>
+
+</div>
+
+<h5 id="utilities">Utilities</h5>
+<div class="level5">
+<ol>
+<li class="level1"><div class="li"> gparted</div>
+</li>
+<li class="level1"><div class="li"> htop</div>
+</li>
+<li class="level1"><div class="li"> powertop</div>
+</li>
+<li class="level1"><div class="li"> testdisk <img src="/wiki/lib/images/smileys/icon_exclaim.gif" class="icon" alt=":!:" /> <strong> storage recovery utility</strong></div>
+</li>
+<li class="level1"><div class="li"> cmatrix -b -u 10 -S blue -s “screen saver” terminal app</div>
+</li>
+</ol>
+
+</div>
+
+<h5 id="web_applications">Web Applications</h5>
+<div class="level5">
+<ol>
+<li class="level1"><div class="li"> DokuWiki</div>
+</li>
+<li class="level1"><div class="li"> OwnCloud</div>
+</li>
+</ol>
+
+</div>
+
+<h5 id="fonts">Fonts</h5>
+<div class="level5">
+<ol>
+<li class="level1"><div class="li"> Mint Spirit</div>
+</li>
+<li class="level1"><div class="li"> Noto Sans</div>
+</li>
+</ol>
+
+</div>
+
+<h5 id="desktop_resolution">Desktop Resolution</h5>
+<div class="level5">
+
+<p>
+<em class="u"> Laptop </em>
+</p>
+<ul>
+<li class="level1"><div class="li"> xrandr -q → lists resolutions per video port</div>
+</li>
+<li class="level1"><div class="li"> xrandr - -output VGA1 - -mode 1440&times;900 → sets resolution of external monitor to 1440&times;900 pixels</div>
+</li>
+<li class="level1"><div class="li"> xrandr - -output LVDS1 - -mode 1280&times;768 → sets resolution of laptop panel to 1280&times;768 pixels</div>
+</li>
+</ul>
+
+<p>
+Conky configuration file for HP dv1680ca laptop; Linux Mint Cinnamon 17.1
+</p>
+
+</div>
+
+<h5 id="weather_conky">Weather Conky</h5>
+<div class="level5">
+<pre class="code"># By Jesse_Avalos , See me on Eye Candy Linux_  on Google +
+background no
+use_xft yes
+#xftfont Roboto:size=9
+xftfont Droid Sans Mono:size=10
+xftalpha 0.8
+update_interval 1
+total_run_times 0
+
+## cairo-compmgr
+own_window yes
+#own_window_type normal
+#own_window_type override
+
+# &#039;desktop&#039; for Cinnamon
+own_window_type desktop
+
+
+#own_window_class conky
+own_window_transparent yes
+own_window_hints undecorated,sticky,skip_taskbar,skip_pager,below
+
+
+#own_window_argb_visual no
+##############################################
+#own_window_hints undecorated,below,sticky,skip_taskbar,skip_pager
+double_buffer yes
+draw_shades no
+draw_outline no
+draw_borders no
+draw_graph_borders no
+stippled_borders 0
+border_margin 5
+border_width 1
+default_color white
+default_shade_color 000000
+default_outline_color 000000
+alignment top_right
+minimum_size 450 300
+maximum_width 450
+gap_x 30
+gap_y 50
+alignment top_right
+no_buffers yes
+uppercase no
+cpu_avg_samples 2
+net_avg_samples 2
+short_units yes
+text_buffer_size 2048
+use_spacer left
+pad_percents 2
+override_utf8_locale yes
+color1 212021
+color2 E8E1E6
+color3 E82A2A
+#own_window_argb_value 150
+#own_window_colour 000040
+
+TEXT
+# --- Weather --- #
+###################
+# --- WOEID (Location id) --- #
+${execi 15 curl -s &quot;http://weather.yahooapis.com/forecastrss?w=29375164&amp;u=c&quot; -o ~/.cache/weather.xml}\
+\
+# --- Weather icon --- #
+########################
+${execi 300 cp -f ~/.conky/Flair_Weather/outlineW/$(grep &quot;yweather:condition&quot; ~/.cache/weather.xml | grep -o &quot;code=\&quot;[^\&quot;]*\&quot;&quot; | grep -o &quot;\&quot;[^\&quot;]*\&quot;&quot; | grep -o &quot;[^\&quot;]*&quot;).png ~/.cache/weather-1.png}${image ~/.cache/weather-1.png -p 70,0 -s 180x180}
+\
+# --- Temperature --- #
+#######################
+\
+${alignr 150}${font FFF Tusj :size=60}${execi 300 grep &quot;yweather:condition&quot; ~/.cache/weather.xml | grep -o &quot;temp=\&quot;[^\&quot;]*\&quot;&quot; | grep -o &quot;\&quot;[^\&quot;]*\&quot;&quot; | grep -o &quot;[^\&quot;]*&quot;}°${font}
+
+
+${goto 260}${font PizzaDude Bullets :size=22}N ${font Archistico :size=22}${color white}${execi 300 grep &quot;yweather:forecast&quot; ~/.cache/weather.xml | grep -o &quot;high=\&quot;[^\&quot;]*\&quot;&quot; | grep -o &quot;\&quot;[^\&quot;]*\&quot;&quot; | grep -o &quot;[^\&quot;]*&quot; | awk &#039;NR==1&#039;}${color white}${alignr 20}${font PizzaDude Bullets :size=22}T ${font Archistico :size=22}${color white}${execi 300 grep &quot;yweather:forecast&quot; ~/.cache/weather.xml | grep -o &quot;low=\&quot;[^\&quot;]*\&quot;&quot; | grep -o &quot;\&quot;[^\&quot;]*\&quot;&quot; | grep -o &quot;[^\&quot;]*&quot; | awk &#039;NR==1&#039;}${color}
+\
+# --- Textual condition (e.g. Partly cloudy) --- #
+##################################################
+\
+${alignc -120}${font Calligraffiti :size=24}${execi 300 grep &quot;yweather:condition&quot; ~/.cache/weather.xml | grep -o &quot;text=\&quot;[^\&quot;]*\&quot;&quot; | grep -o &quot;\&quot;[^\&quot;]*\&quot;&quot; | grep -o &quot;[^\&quot;]*&quot;}${font}
+\
+# --- Location name (city and country) --- #
+############################################
+\
+
+${alignc 50}${font Sosa :size=35}n ${font Streetwise buddy :size=18}${execi 300 grep &quot;yweather:location&quot; ~/.cache/weather.xml | grep -o &quot;city=\&quot;[^\&quot;]*\&quot;&quot; | grep -o &quot;\&quot;[^\&quot;]*\&quot;&quot; | grep -o &quot;[^\&quot;]*&quot;}, ${execi 300 grep &quot;yweather:location&quot; ~/.cache/weather.xml | grep -o &quot;country=\&quot;[^\&quot;]*\&quot;&quot; | grep -o &quot;\&quot;[^\&quot;]*\&quot;&quot; | grep -o &quot;[^\&quot;]*&quot;}
+
+${font Mint Spirit :size=20:bold}${time %A}, ${time %B} ${time %e} ${time %Y}
+# --- Icon - high temperature --- #
+###################################
+\
+#${image ~/.conky/Flair_Weather/arrow-up.png -p 295,130 -s 16x16}
+\
+# --- Icon - low temperature icon --- #
+#######################################
+\
+#${image ~/.conky/Flair_Weather/arrow-down.png -p 365,130 -s 16x16}
+\
+# --- High temperature --- #
+############################
+\
+#${voffset -130}${goto 330}${font Major Snafu :bold:size=20}${execi 300 grep #&quot;yweather:forecast&quot; ~/.cache/weather.xml | grep -o &quot;high=\&quot;[^\&quot;]*\&quot;&quot; | grep -o &quot;\&quot;[^\&quot;]*\&quot;&quot; | grep #-o &quot;[^\&quot;]*&quot; | awk &#039;NR==1&#039;}${font}°${color}
+\
+
+# --- Low temperature --- #
+###########################
+#${voffset -45}${goto 400}${font Major Snafu :bold:size=20}${color red}${execi 300 grep #&quot;yweather:forecast&quot; ~/.cache/weather.xml | grep -o &quot;low=\&quot;[^\&quot;]*\&quot;&quot; | grep -o &quot;\&quot;[^\&quot;]*\&quot;&quot; | grep -#o &quot;[^\&quot;]*&quot; | awk &#039;NR==1&#039;}${font}°${color}
+\
+# --- Icon - map marker --- #
+#############################
+\
+#${image ~/.conky/Flair_Weather/map-marker.png -p 15,215 -s 30x25}
+\
+</pre>
+
+</div>
+<!-- EDIT1 SECTION "LINUX CUSTOMIZATION" [32-] -->

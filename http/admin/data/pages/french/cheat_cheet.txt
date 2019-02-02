@@ -1,0 +1,110 @@
+====== CHEAT SHEET ======
+[[french:Jan 24]] \\
+[[french:phrases]]
+===== LES DETERMINANTS POSSESSIFS =====
+^  masculin\\ singulier  ^  feminim\\ singulier  ^  masculin et feminin\\ pluriel  ^
+|  mon  |  ma  |  mes  |
+|  ton  |  ta  |  tes  |
+|  son  |  sa  |  ses  |
+|  notre  |  notre  |  nos  |
+|  votre  |  votre  |  vos  |
+|  leur  |  leur  |  leurs  |
+
+===== LES PRONOMS PERSONNELS ACCENTUES (to me) =====
+^  masculin\\ singulier  ^  masculin\\ pluriel  ^  feminin\\ singulier  ^  feminin\\ pluriel  ^
+|  moi  |  nous  |  moi  |  nous  |
+|  toi  |  vous  |  toi  |  vous  |
+|  soi  |  eux  |  soi  |  elles  |
+
+===== LES PRONOMS PERSONNELS REFLECHIS =====
+^  singulier\\ masculin et feminin  ^  pluriel\\ masculin et feminin  ^
+|  je  + me  |  nous + nous  |
+|  tu + te  |  vous + vous  |
+|  il/elle/on + se  |  ils/elles + se  |
+
+----
+
+===== LES TEMPS =====
+
+===== AVOIR =====
+^  ^  Passe  ^  Present  ^  Futur  ^
+|  |  **Passe compose**  |  **Present**  |  **Futur proche** |
+|  je  |  ai  |  ai  |  vais  |  
+|  tu  |  as  |  as  |  vas  |
+|  il/elle/on  |  va  |  a  |  va  |
+|  nous  |  avons  |  avons  |  allons  |
+|  vous  |  avez  |  avez  |  allez  |
+|  ils/elles  |  ont  |  ont  |  vont  |
+
+----
+
+
+
+===== ETRE (to be) =====
+|  je  |  suis  |
+|  tu  |  es  |
+|  il/elle  |  est  |
+|  nous  |  sommes  |
+|  vous  |  etes  |
+|  ils/elles  |  sont  |
+
+----
+===== FAIRE (to do) =====
+^  ^ Passe  ^ Present  ^  Futur  ^
+|  |  **Passe compose**  |  **Present**  |  **Futur proche** |
+|  je  |  ai fait  |  fais  |  vais faire  |  
+|  tu  |  as fait  |  fais  |  vas faire  |
+|  il/elle/on  |  a fait  |  on fait  |  va faire  |
+|  nous  |  avons fait  |  faisons  |  allons faire  |
+|  vous  |  avez fait  |  faites  |  allez faire  |
+|  ils/elles  |  ont fait  |  font  |  vont faire  |
+
+===== NAGER (to swim) =====
+^  ^ Passe  ^ Present  ^  Futur  ^
+|  |  **Passe compose**  |  **Present**  |  **Futur proche** |
+|  je  |  ai nage   |  nage  |  vais nager  |  
+|  tu  |  as nage  |  nages  |  vas nager  |
+|  il/elle/on  |  a nage  |  nage  |  va nager  |
+|  nous  |  avons nage   |  nageons  |  allons nager  |
+|  vous  |  avez nage  |  nagez  |  allez nager  |
+|  ils/elles  |  ont nage  |  nagent  |  vont nager  |
+
+===== BOIRE (to drink) =====
+Qu'est que tu veux boire?
+  * Je veux boire: du the; du cafe; du lait; du jus; du l'eau.
+
+^  ^ Passe  ^ Present  ^  Futur  ^
+|  |  **Passe compose**  |  **Present**  |  **Futur proche** |
+|  je  |  ai bu  |  bois  |  vais boire  |  
+|  tu  |  as bu  |  bois  |  vas boire  |
+|  il/elle/on  |  a bu  |  on boit  |  va boire  |
+|  nous  |  avons bu  |  buvons  |  allons boire  |
+|  vous  |  avez bu  |  buvez  |  allez boire  |
+|  ils/elles  |  ont bu  |  boivent  |  vont boire  |
+
+----
+===== NUMERAUX =====
+| 0 - zero  | | | |  
+| 1 - un  | 11 - onze  | 21 - vingt et un  | 71 - soixante et onze  |
+| 2 - deux  | 12 - douze   | 22 - vingt-deux   | 72 - soixante-douze  |
+| 3 - trois  | 13 - treize   | 23 - vingt-trois     | 73 - soixante-treize  |
+| 4 - quatre  | 14 - quatorze   | 24 - vingt-quatre   | 74 - soixante-quatorze  |
+| 5 - cinq  | 15 - quinze   | 25 - vingt-cinq   | 75 - soixante-quinze  |
+| 6 - six  | 16 - seize   | 26 - vingt-six   | 76 - soixante-seize  |
+| 7 - sept  | 17 - dix-sept  | 27 - vingt-sept   | 77 - soixante-dix-sept  |
+| 8 - huit  | 18 - dix-huit   | 28 - vingt-huit   | 78 - soixante-dix-huit  |
+| 9 - neuf  | 19 - dix-neuf   | 29 - vingt-neuf  | 79 - soixante-dix-neuf  |
+| 10 - dix  | 20 - vingt  | 30 - trente   |     |
+|  |  | 40 - quarante  |
+|  |  | 50 - cinquante  |
+|  |  | 60 - soixante  |
+|  |  | 70 - soixante-dix  |
+|  |  | 80 - quatre-vingt  |
+|  |  | 90 - quatre-vingt-dix  |
+|  |  | 100 - cent  |
+
+
+
+
+
+Created on: 2016/01/23 22:19

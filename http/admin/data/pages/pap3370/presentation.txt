@@ -1,0 +1,78 @@
+//Wed, Oct 21//
+
+====== PRESENTATION ======
+===== Ethics, Public Service and Politics =====
+
+__Readings__
+
+  * Kernaghan & Lanford, ch. 4;
+  * Benoit, pp. 213 - 240;
+  * come up with 3 questions to ask the class (i.e. examples);
+  * meeting Wednesday @ 6 p.m.;
+
+==== Chapter 4. The Politically Neutral Public Servant ====
+
+//Political neutrality is like Quantum Mechanics: we know it in theory, but can't observe in reality. What defines a duty of political neutrality? Judges, legislators, journalists and academics are uncertain.//
+
+Duty of public servants to be politically neutral creates two questions:
+  - What relationships between elected officials and public servants are appropriate at workplace?
+  - To what extent should public servant engage in politics away from workplace?
+
+__Political neutrality__ is a constitutional convention by which public servants should avoid activities that are likely to affect their or public service political impartiality (p.101). Political neutrality has been a central feature of the constitution since Confederation. Mix of constitutional and ethical considerations.
+
+Political neutrality is set out in a variety of official documents:
+  * Guide //"Accountable Government: A Guide for Ministers and Ministers of State"// \\ "... ministers have a responsibility for maintaining the tradition of the political neutrality of the public service..." (Canada, Privy Council Office 2011, p. 44)
+  * //Public Service Employment Act (2003)// \\ "... the right of employees to engage in political activities while maintaining the principle of political impartiality in the public service."
+
+=== Idealistic Model of Neutrality ===
+  - Politics and policy are separate from administration -> politicians make decisions; public servants execute decisions.
+  - Appointments and promotion are merit-based (i.e. have to have nothing to do with affiliation or contribution).
+  - Public servants provide objective advice to political executives, and political executives protect the anonymity of public servants.
+  - Public servants are loyal to the policy decisions and bias-free of their own opinions.
+  - Public servants do not engage in partisan political activities.
+  - Public servants do not express publicly their personal views on government policies or administration. 
+
+== Notes ==
+  * #1 to #4 relate to political neutrality;
+  * # 5 to #6 relate to workplace;
+  * proposed political neutrality has __never__ existed in any government;
+  * model provides analysis framework of the relationships between politicians and public servants;
+  * duty to be politically neutral can be broken down into several sub-duties;
+  * revision of model components can allow to adapt it to non-partisan local governments (Siegel 1994, p. 13);
+    * no cabinet
+    * no anonymity
+    * greater degree of interaction with public;
+  * variation differs from one government to another, one department to another;
+
+=== Arguments For and Against Political Neutrality ===
+__Forth__  
+  * it is important to ensure that public servants are appointed and promoted according to merit, foresting fair and impartial service to the public;
+
+__Against__
+  * traditional rules of political neutrality are too restrictive;
+  * interpretations of political neutrality are outdated and unrealistic;
+
+=== Political Neutrality & Merit ===
+Public service staffing should avoid non-qualified hiring that jeopardizes: the integrity of a professional public service, principle of good government, and independence from governing party.
+
+The duty to be politically neutral requires that public servants make appointments and promotions on the basis of merit rather than party affiliation or contribution.
+
+=== Ministerial Responsibility & Public Service Anonymity ===
+Two schools of thought:
+  - Commentators - myth doctrine.
+  - Constitutionalists - key doctrine of cabinet-parliamentary form of government.
+
+== Traditional Model of Political Neutrality ==
+Responsible minister is expected to take public credit and public blame for departmental actions in order to protect the anonymity of their officials. In turn, public servants are expected to protect their anonymity by providing frank advice to minister in confidence, and refrain from political involvement.
+
+Anonymity is vanished since the policy influence of public servants is often evident during consultations and negotiations.
+
+Freedom of information legislation is reducing public service anonymity as more documents become available to public (p. 107).
+
+=== Political Neutrality & Political Rights Balance ===
+
+Consequentialists: assess the outcomes as a result of restricting the political rights of public servants. Ex.: increasing public trust in government; reducing the freedom of expression.
+
+Duty theorists: compare the importance of political rights with political neutrality.
+
+Virtue ethics: look to public servants who understand the need to balance political neutrality with political rights.

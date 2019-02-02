@@ -1,0 +1,153 @@
+PAP3350 Public Policy Development
+
+====== LECTURES ======
+
+===== Jan 14, 2016 Financial Cycle & Speech from the Throne =====
+**Overview of the Financial Cycle** \\
+**The Role of the Speech from the Throne**
+
+__Budget__ - big fiscal plan. Documents relevant to budgeting are aligned along the budget cycle.
+
+  * a parliamentary democracy system; a representative system of government;
+  * bicameral federal system (where money builds (House of Commons ["common people'] ) & ;
+  * Constitution Act 1867 -> Parliament: the Crown, the Senate and the House of Commons;
+  * federal state -> lawmaking shared between orders of the government;
+  * constitutional monarchy -> government os carried out in the name of the crown;
+  * executive function -> Governor in Council (Governor General) acting on behalf of the Prime Minister and Cabinet;
+  * __members of Parliament__ are elected, who then elect the Prime Minister;
+
+==== Financial Procedures ====
+  * the Crown is responsible for managing all the revenue (taxes, etc.); ~$290B/year
+  * all revenues go to the Consolidated Revenue;
+  * the Crown makes financial requirements of the government known to the House of Commons which authorizes the necessary taxes and "supplies" (grants of money);
+  * what are the financial requirements? How do we spend the $$$?
+  * no tax may be imposed, or no money can be spent without consent of Parliament;
+  * __only authorized $$$ can be spent__;
+  * control exercised at 2 levels:
+    * Parliament must assent to all legislative measures. The House of Commons must authorize amounts and purposes of expenditure;
+    * throughout review process and reporting, the House ascertains that no expenditure made that was not authorized;
+<WRAP center round info 60%>
+  * income distribution tables -> based on analysis;
+  * purchasing power of social classes -> money flow to the upper class;
+</WRAP>
+==== The Budget and Financial Management Process ====
+  * Speech from the Throne (priorities & policy direction) -> Budget (fiscal plan) -> Estimates [Ways & Means] (allocation & review) -> Public Accounts (reporting & review);
+  * speech from the throne -> aka framing the budget;
+  * Budget -> high level fiscal plan & high level financial requirements
+  * Appropriation stream -> Estimates system -> how much each sector needs? what are their requirements? 
+  * Taxation stream -> changing the Income Tax Act in order to alter tax revenues; change in tax goes through legislation change since ITA is a law;
+  * Public Accounts -> says how to spend the money -> can be used to assess how $$ were spent;
+
+<WRAP center round info 60%>
+  * Privy Office -> AMAZING PLACE TO WORK -> decide on career
+</WRAP>
+
+<WRAP center round important 60%>
+  * Oil prices have the effect on the Budget;
+  * Main Estimates -> big chunk of authorized spending, which then specified in more detail;
+  * Forced supply period -> fiscal accountability period (can be more than 2 years!);
+</WRAP>
+
+==== Policy (Speech from the Throne) ====
+  * the gov't sets forth its view on the state of the country and the legislation it intends to bring forward;
+  * read by the Governor General in the Senate with the House in attendance;
+  * 2015 SFT indicated the commitment to growth (middle class), open & transparent gov't, environment, diversity, and opportunity;
+  * SFT is mainly //drafted by the Prime Minister's// office with help from the public service;
+  * politicians have to be pushed to bring the change;
+
+==== Estimates (Supply Process) ====
+  * planned government spending for coming fiscal year;
+
+<WRAP center round info 60%>
+Contains 4 parts
+</WRAP>
+
+==== Accounts of Canada ====
+  * Treasury of Canada;
+  * under FAA __Receiver General__ is responsible for ensuring the accounts for each department and agency of the Government of Canada;
+  * annual report tabled in the House of Commons by the President of the treasury Board ~ Dec 31 following the end of fiscal year;
+  * Public Accounts -> to provide information to Parliament and public on financial position of Government;
+  * Audit General examines the govenrments financial statements to ensure information is fairly presented;
+  * examined by the Standing Committee of the Public Accounts;
+
+==== Security & Opportunity - Analysis ====
+  * specific initiatives _ defence procurement, legislation;
+  * commitments -> development assistance for poor, trade agreements, protection of rights and freedoms, etc.
+    * clarity?
+    * direction?
+    * strategy?
+    * mood of the country?
+
+===== Jan 18, 2016 Key Public Service Players =====
+
+<WRAP center round info 60%>
+The Speech of the Throne is the very first step of initiating the government after elections.
+
+  * maany job are situated around financial cycle of the budget.
+  * perfect time to join public sector as a graduate.
+</WRAP>
+
+<WRAP center round tip 90%>
+  * refer to the political parties to get an idea about goals that they pursue -> can be adopted to draft SFT;
+  * draft SFT based on own interests/perceptions;
+  * short SFT is good -> easier for ppl to memorize it;
+  * be long-term looking & risk taking;
+  * frame around political parties -> to gain support;
+  * avoid strong political branding -> can leave some parties left away -> reduce support;
+  * make commitment to pursuing the goals;
+  * be specific;
+  * 
+</WRAP>
+
+
+<WRAP group>
+<WRAP half column>
+__EXECUTIVE__
+
+  * Privy Council Office 
+    * adviser to Prime Minister & secretary of Cabinet (head of public servants); 
+    * policies traffic control :!:
+  * Finance 
+    * drafts the budget, tax policy, debt management;
+    * big department with interesting jobs (economists, projectionists, expenditure estimators) :!:
+    * tax analysis :!:
+    * overlooking budgets of departments;
+  * Treasury - oversight on financial management
+  * Receiver General
+    * issuing & accepting payments, Public Accounts, Chart of Accounts
+    * monthly balances;
+    * financial oversight for the executives;
+    * key jobs, great jobs for financial people :!:
+  * Comptroller General
+    * functional direction & assurance in financial management;
+    * lots of jobs over here :!:
+  * Canada Revenue Agency 
+    * administer & benefit programs;
+    * administer collected taxes;
+</WRAP>
+
+<WRAP half column>
+__PARLIAMENT__
+
+  * Auditor General - audits departments, agencies and crowns
+  * Parliamentary Budget Office - legislative budget office
+</WRAP>
+</WRAP>
+
+**Speech from the Throne**
+__What?__ - sets out broad goals and directions of the government & what initiatives the government will take to accomplish those goals;
+__When?__  - with every new session
+__Where?__ - read by the Queen's representative - the Governor General in the Senate.
+
+  * overall theme - //"making real change happen"//
+  * 5 policy components
+    - Growth for the Middle Class
+    - Open & Transparent Government
+    - Clean Environment and a strong economy (i.e. renewable energy)
+    - Diversity is Canada's strength
+    - Security & Opportunity 
+  * __INTRODUCTION__ 
+    * sets the tone;
+    * sets vision and direction;
+  * __CONCLUSION__
+    * by focusing on items 1 - 5 the Government will make real change happen

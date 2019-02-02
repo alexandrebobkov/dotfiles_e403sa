@@ -1,0 +1,280 @@
+PAP3350 - Public Policy Development
+
+Thursday  October 15, 2015. 21:20
+
+====== TEST 1 ======
+
+===== PART A =====
+
+  - [[#Political Executive & The public]]
+  - [[#Parliamentary & Republic (FORMS OF GOVERNMENT)]]
+  - [[#Natural monopolies & Destructive Competition]]
+  - [[#Public Goods & Common Pool Resources ]]
+  - [[#Externalities & Imperfect Information]]
+  - [[#Positivism & Post-Positivism]]
+  - [[#Class Analysis & Pluralism]]
+  - [[#Public Choice & New Institutionalism]]
+  - [[#Policy Community & Policy Network]]
+  - [[#Paradigm & Frames]]
+  - [[#Programmatic Ideas & Norms]]
+  - [[#Focusing Events & Three Streams Theory]]
+  - [[#Viability & Three-Streams Theory]]
+
+==== 1. Political Executive & The Public ====
+According to Howlett, //Political executive// refers to the cabinet, or government, that is a key player in the policy making process. Its role originates from constitutional authority to govern the country. It is important to note that the ultimate authority to implement policy rests with the political executive.
+
+According to Howlett, the //public// plays a small direct role in the public policy process. Public provides backdrop of norms, attitudes, and values against the policy process. Since members of the public are able to vote (i.e. citizens), they express own choice of the government, which in turn affects the types of policies that will be implemented.
+
+Both concepts show how the impact of public opinion can affect the policy process. Several studies revealed that there is a direct relationship between public opinion and public policy (i.e. Luttbeg, 1981). In short, the public sentiments are processes into public policy decisions and implementation strategies (Howlett).
+
+p.61
+
+==== 2. Parliamentary & Republic (FORMS OF GOVERNMENT) ====
+
+In //parliamentary systems// the executive is chosen by the legislature from among its members and remains in office only as long as it enjoys majority support from legislators.
+
+In //presidential systems// the executive is separate from the legislature, elected directly by voters, and need not enjoy majority support in the legislature (Stewart, 1974).
+
+The United States is the architecture of the presidential system, whereas Canada is parliamentary system. The forms of government affect public policy process. 
+
+In presidential systems, the division of powers creates difficulties for policy-makers. For instance, local concerns can motivate legislators. So, the president must have bargain power with legislatures; support proposed policies in return for power support. The active involvement of the members of the legislature in promoting policies creates conflict with the executive.
+
+In parliamentary systems, the executive takes support of legislature for granted as a result of strict party discipline enforced on individual members of the parliament. As a consequence, there is a little chance of changing the policy once it has introduced by the parliament (under majority government). Generally speaking, policy-making in parliamentary systems is centralized in the executive, which enables the government to chose actions (Savoie, 1999).
+
+pp.60-61
+
+==== 3. Natural Monopolies & Destructive Competition ====
+According to Howlett, //Natural monopoly// refers to the situation in industries with large capital requirements and disproportional returns to scale which tends to promote a single firm over its competitors. For example, industries such as telecommunication, electricity or railways. Once first company establishes the necessary infrastructure, it will enjoy cost advantages that will make it hard for other companies to compete against it. Once the lack of competition occurs, society losses economic welfare if monopoly charges very high prices. Governments can correct this problem by imposing regulations.
+
+Natural monopolies are a type of market failure that refer to situations in certain industries with large capital requirements and disproportionate returns to scale that tend to promote a single firm over its competitors. Examples of industries where natural monopolies occur are the telecommunications, utilities, electricity, and railways sectors. Usually, the first company to establish the necessary infrastructure, if unregulated, enjoys cost advantages that make it difficult for other firms to compete using the same technology. The lack of competition, when it occurs, can lead to a loss of the society’s economic welfare if monopoly prices are charged for these goods or services. Governments can correct this problem by regulating prices and other aspects of the good or service provided in order to prevent the exercise of monopoly market power by early-entrant firms.
+
+According to Utton, //destructive competition// is a market failure that exists when firms compete aggressively so that there is a negative effect on society. For example, excessive competition can lead to the negative impact on workplace safety.
+
+Destructive competition is a type of market failure that refers to situations where aggressive competition between firms causes negative side effects on workers and society. Excessive competition can drive down profit margins and lead to the unnecessary reduction of safety and working conditions, adversely affecting overall social welfare. An example of an industry where destructive competition occurs is the taxicab industry: this market is easily accessible, so suppliers enter the market until a point is reached when there are too many taxis and fare crash, negatively affecting all producers and consumers. Governments can correct this problem by regulating market entry in order to prevent over-competition.  
+
+What these two terms have in common is that they are both types of market failures. Also, they can, in some sense, be considered as opposites since on the one hand, natural monopolies reflect a problem caused by the monopolisation of a market by one (or few) firms, leading to potential price gouging, whereas on the other hand, destructive competition is a problem caused by the exact opposite phenomenon, which is over-competition, causing a potential crash in prices. 
+
+==== 4. Public Goods & Common Pool Resources ====
+Public goods are a type of market failure that deals with goods that cannot be parceled out and are consumed by numerous users without diminishing the sum of the good available. Public goods are non-excludable and in principle cannot be exhausted. Examples of public goods are fireworks and street lighting. The issue with these goods is that they do not generate profits for suppliers. Therefore, these goods must be supplied by non-market actors, such as the government, who can fund their supply through the tax-system. 
+
+Common pool resources are resources of which the usage cannot be directly charged to individuals, but whose quantity is reduced by consumption. The issue with this type of resources is that their supply must be rationed by a non-market organization, like a government, or individuals would otherwise quickly exhaust these resources. 
+ 
+Public goods and common pool resources are both types of market failures. What they have in common is that resources in both categories are in principle non excludable. However, they differ in terms of their exhaustiveness: public goods can be exploited by numerous users without diminishing the sum of the good available, therefore they do not need to be rationed by a non-market organization, whereas common pool resources must be rationed, or else these resources would quickly be exhausted. 
+
+==== 5. Externalities & Imperfect Information ====
+//Externalities// refer to the situation when market failure is passed to outside. For example, the company in pursuit of maximizing the profits pollutes the environment, which by doing so affects the society.
+
+According to Howlett, //Imperfect Information// refers to the situation when there is a lack of necessary information in order to make rational decision. For example, unregulated pharmaceutical firms have no incentive to reveal adverse side effects of their products.
+
+==== 6. Positivism & Post-Positivism ====
+
+The two are the analytical styles that fall focus on quantification of economic costs & benefits (//positivist//), and social construction of policy problems (//post-positivist//).
+
+Both styles co-exist, but each provide distinct tasks, classification, and design. 
+
+pp. 20 - 30; 30-31.
+==== 7. Class Analysis & Pluralism ====
+
+//Class analysis//
+
+  * modes and means of production;
+  * virtue of membership of individual to particular class;
+  * different class pursues different interests, prefers certain policies;
+
+pp. 31; 35-37.
+
+//Pluralism// is the approach to studying the middle ranges of policy making. It is based on the assumption that interest groups and the political actors that matter most in shaping public policy. Groups are characterized by overlapping membership of individuals. Politics is the process by which various competing interests and groups are reconciled. Public policies are thus a result of competition and collaboration among groups working to further their members' collective interests (Self, 1985).
+
+Pluralists do not believe that all groups are equally influential or have same access to government. Groups vary in terms of financial or organizational resources they possess and their access to government.
+
+p.37
+==== 8. Public Choice & New Institutionalism ====
+
+According to Howlett, Public Choice Theory, focuses on the micro-level behaviour of individuals. The main assumption in this perspective is that political actors, act “rationally” to maximize their “utility” or “satisfaction” for minimum effort. The only primary actor that counts is the individual and the primary motivation is self-interest, as defined by the individual. 
+
+As James Buchanan, one of the founders of public choice theory put it: ‘In one sense, all public choice or the economic theory of politics may be summarized as the “discovering” or “rediscovering “ that people should be treated as rational utility maximizer, in all of their behavioural  capacities.’ It is assumed that individual political actors are guided by self-interest in choosing a course of action that will be their best advantage. For example, voters are deemed to vote for parties and candidates that will best serve their interest in terms of the rewards they hope to receive from governments.
+ 
+Public policy theorist view the policy process as one in which a variety of political actors engage in competitive rent-seeking behaviour. Each actor attempts to use the state to capture some portion of the social surplus that accumulates from productive social labour and through taxation. Each actor would prefer, to free ride to obtain a share in the surplus resulting from the action of other parties at no cost to themselves. Public policy-making in this view leads to an endless expansion of the state's provision of goods and services. So institutions must be developed to curb destructive utility-maximizing behaviour that serves the interests of particular individuals while adversely affecting the society as a whole. 
+
+According to Howlett, New Institutionalism looks to the structure of political and economic arrangements from the ways in which finance and industry operate to the respective roles of bureaucracy, legislatures, and courts in the policy process. New Institutionalism avoids the limitations of most earlier theories informing policy studies by explaining why political, economic and social institutions exist and what impact these macro-level structures have in fashioning constraints and providing opportunities for policy-makers.
+Transaction cost analysis is an example of a new institutionalist approach to policy studies that expands the concerns of welfare economics about how government and markets can fall short of optimal outcomes. This approach suggests that institutions constitute an essential element of political life, because they can overcome burdens caused by information asymmetries to ‘perfect’ exchange in society.
+ 
+According to Hall, New Institutionalism seeks to overcome the limits of individual and group and class-based theories to explain the full range of social behaviour and organizational activity behind policy-making. It does not constitute a unified body of thought. Instead, it has three different analytical approaches, each which are ‘new institutionalism’. These approaches are historical institutionalism, rational choice institutionalism and sociological institutionalism.
+
+=== Historical Institutionalism ===
+Historical institutionalists tend to conceptualize the relationship between institutions and individual behavior in relatively broad terms. They emphasize the asymmetries of power associated with the operation and development of institutions. All institutional studies have a direct bearing on power relations.
+They tend to have a view of institutional development that emphasizes path dependence and unintended consequences.
+Path Dependence = outcomes at a ‘critical juncture’ trigger feedback mechanisms that reinforce the recurrence of a particular pattern into the future.
+Historical Institutionalists are especially concerned to integrate institutional analysis with the contribution that other kinds of factors, such as ideas, can make to political outcomes.
+
+=== Rational Choice Institutionalism ===
+The concepts of rational choice institutionalism explains the rise or fall of international regimes, the kind of responsibilities that states delegate to international organizations, and the shape of such organizations.
+Rule-based constraints employ a characteristic set of behavioral assumptions.
+They tend to see politics as a series of collective action dilemmas. 
+Institutions created lower transaction costs
+One of the great contributions of rational choice institutionalism has been to emphasize the role of strategic interaction in the determination of political outcomes. 
+
+=== Sociological Institutionalism ===
+In the end of the 1970s, some sociologists began to challenge the distinction traditionally drawn between those parts of the social world said to reflect a formal means-ends ‘rationality’ and associated with modern forms of organization and bureaucracy.Those parts of the social world are said to display a diverse set of practices associated with ‘culture.’ 
+
+Institutions have become similar across organizations showing isomorphism, even though they develop in different ways . Isomorphism is a "constraining process that forces one unit in a population to resemble other units that face the same set of environmental conditions". 
+
+Sociological institutionalists argue that organizations often adopt a new institutional practice, not because it advances the means-ends efficiency of the organization but because it enhances the social legitimacy of the organization or its participants. Campbell captures this perspective nicely by describing it as a ‘logic of social appropriateness’ in contrast to a ‘logic of instrumentality’.
+
+Individuals simultaneously constitute themselves as social actors, in the sense of engaging in socially meaningful acts, and reinforce the convention to which they are adhering. The sociological institutionalists insist that, when faced with a situation, and the individual must find a way of recognizing it as well as of responding to it. The relationship between the individual and the institution, then, is built on a kind of ‘practical reasoning’ whereby the individual works with and reworks the available institutional templates to devise a course of action.
+
+Public Choice theories are examples of deductive theories where groups like New institutionalism are examples of inductive theories. Deductive method in which understanding is developed largely on the basis of applying general presuppositions, concept, or principles to specific phenomena. Inductive methods develop generalizations only on the basis of careful observation of empirical phenomena and subsequent testing of these generalizations against other cases. 
+==== 9. Policy Community & Policy Network ====
+According to British scholars, Coleman and Skogstad, the term Policy Community refers to the set of actors, public and private, that integrate around an issue area and share a common interest in shaping its development. Policy community is subdivided into two parts:`the attentive public’, less powerful groups and bureaucracies who maintains a watching brief on developments as well as interested media and academics,and `the sub-government’, those actively engaged in policy design or implementation and are important members of the policy community.
+
+According to Coleman and Skogstad, the concept of Policy Network captures the structural or power relationship between the actors in the sub-government of this policy community.
+Sabatier and Jenkin’s -Smith’s advocacy coalition framework refers to a subset of actors in the policy subsystem. They argue that advocacy coalitions include both state and societal actors at all levels of government. Their scheme combined the role of knowledge and interest in the policy process, as policy actors are seen to come together for reasons of common belief. For example, the group of government regulators and decision-makers who make government policy, constitute the policy network. Public networks vary according to their level of integration, which was a function of stability of membership, restrictiveness of membership, and degree of insulation from other networks and the public. 
+
+==== 10. Paradigm & Frames ====
+Paradigms are descriptions; interpretations, frameworks and approaches taken for granted that define the cause and effect relation of a phenomenon. Paradigms frame the way we think hence, they influence our cognitive side and the way we understand the world and the consequences of such understanding. Moreover, taken for granted paradigms constrain the range of policy options that policy makers are willing to consider (Campbell). The term paradigm was inspired in Thomas Kuhn and his scientific paradigms revolution. \\
+//Example:// In the analysis of what drives economic growth (phenomenon), Keynesians argue that in recession the State should act as welfare state by direct investment stimulating the economy. On the contrary, the neo-liberal approach to the same phenomenon argues that the market itself is the responsible for economic growth and the State has a lesser intervention.
+
+
+Frames are the scheme of reference, what we refer to. They are the strategic crafting of an initiative. They function as “political weapons”, allowing actors to challenge existing institutional arraignments (existing public order). By frames, actors shape and convey their claims and proposals (Davies). Frames are discourse hence, it depends on the image that actors project a policy (or the way they present it to the public) or claim that makes it attractive and accepted or not. Finally, framing and re-framing exist at the foreground of a debate or public discourse (Campbell)
+
+
+//Example:// The Unemployment Insurance in Canada since 1940 refers to the government benefit payments during a period of unemployment. In 1990 the federal government eliminated its own customary financial responsibilities, making the program completely self-financing. In 1996, it was renamed as Employment Insurance. This frame was intended to reflect the program’s primary objective of promoting employment in the modern economy and labor force, and to move away from the image of supporting unemployment as a consequence of the Great Depression and other economic crisis.
+
+
+According to Campbell, paradigms and frames are correlated and form part of the realm of ideas that influence policy making. Therefore it is important to analyze under which paradigms and frames actors working, in order to understand the development and results of certain policies. Whereas a Keynesian position (paradigm) assumed that the State intervention (cause) in the 40s would stimulate the economy (effect) with the creation of the Unemployment Insurance policy. Frame analysis explains the implementation of the self-financed Employment Insurance policy in the 90s, as justification of the promotion of employment (discourse) that fitted in the parameters of the existing paradigm, which was the development of modern economy.
+
+==== 11. Programmatic Ideas & Norms ====
+Programmatic ideas are precise guidelines and solutions about how institutions and instruments should be used in specific situations. If an existing guideline solved a determined problem, it is most likely to be used again to solve another problem, therefore these ideas facilitate policy making (Campbell). These ideas are also Interest-based battles that shape the character of programs. Therefore, they are relevant focal points for coalition building.  
+
+
+//Example:// Programs of Universal Child Care in Canada (UCCB) were introduced in 2006 as a taxable benefit designed to help Canadian families through the direct finance of their child care choices through direct financial support. Such programs have been successful in other countries before Canada adopted it.
+
+
+Normative ideas are taken for granted assumptions about values, attitudes, identities and other ‘collectively shared expectations (Campbell). Hence, actors work under what is appropriate, legitimate and accepted (logic of moral and social appropriateness) and not so much under the consequences that they can carry (logic of consequence). As a result, these ideas constrain actions in the grounds of what is the norm but not on the grounds of utility (maximizing the profit). Normative ideas are also in the background of debates, although they are not explicit.
+Example: The UCCB programs have been the influence of ideas about equality and an increased welfare state that Canada pursues in its policy making. 
+
+
+According to Campbell both terms are also part of the realm of ideas that influence policymaking. However, they could be considered terms in opposition. Meanwhile normative ideas are immersed in our moral side (emotional); programmatic ideas are used in the logic of consequences. If a certain solution did not resolve a certain problem, it is not likely to be used again (rational choice).
+
+
+
+==== 12. Focusing Events & Three Streams Theory ====
+==== 13. Viability & Three-Streams Theory ====
+
+According to Hall, //Viability// explains why particular policy decisions take place at a specific point in time, and not other. Hall divided viability into three categories: 1) problem viability; 2) administrative viability, and; 3) political viability. 
+
+Problem viability requires the event to fall withing definition of the problem. Administrative viability refers to the logistics of implementing the policy (i.e. associated costs, labour, requirements for training). Political viability refers to the ways policy resonates with society.
+
+Viability and three-streams theory are important to the extent that together they explain why particular event is recognized as an emerging problem and why one given decision is chosen from the mix of available solutions.
+
+===== PART B =====
+==== Canada's Elementary & Secondary Education ====
+
+  - What are the components of Canada’s elementary and secondary education policy context and the dominant educational paradigm at work in the country?
+    * the components of Canada;s elementary and secondary education policy context are: .
+    * the paradigm is: .
+    * the dominant educational paradigm at work in the country is: .
+  - Who are the most salient actors in the policy universe and the policy subsystem?
+    * the most salient actors in the policy universe and subsystem are: . 
+  - How does this policy universe shape and influence the configuration of elementary and secondary education in the country and what opportunities and constraints do they present?
+  * the policy universe shapes and influences the configuration of elementary and secondary education in the country to the extent: .
+  * the opportunities and constraints that policies present are: .
+--------------------------------------------------------------------------
+==== Compare/Contrast analytical approaches of Public Choice Theory, Pluralism & Neo-Institutionalism ====
+
+  - Compare and contrast public choice theory, pluralism and neo-institutionalism as analytical approaches to the study of public policy.
+  - How are these theories differentiated?
+  - What are the respective strengths and weaknesses of each approach in terms of its ability to help understand policy-making and explain the nature of policy outcomes?
+
+=== 1. Compare/Contrast ===
+__Public Choice Theory__
+
+//Individuals are self-interested who seek the ways to benefit themselves; thus, act by logic of consequences.//
+
+According to Howlett, //Public Choice Theory// focuses on the micro-level behaviour of individuals. It assumes that political actors act “rationally” to maximize their “utility” or “satisfaction” at a minimum effort. The only primary actor that counts is the individual, who is self-motivated based on own interests.
+
+According to James Buchanan, public choice theory treats individuals as rational utility maximizer in all of their behavioural capacities. It is assumed that individual political actors are guided by self-interest in choosing a course of action that will be their best advantage. For example, voters are deemed to vote for parties and candidates that will best serve their interest in terms of the rewards they hope to receive from governments.
+
+Public policy theorist view the policy process as one in which a variety of political actors engage in competitive rent-seeking behaviour. Each actor attempts to use the state to capture some portion of the social surplus that accumulates from productive social labour and through taxation. Each actor would prefer, to free ride to obtain a share in the surplus resulting from the action of other parties at no cost to themselves. Public policy-making in this view leads to an endless expansion of the state's provision of goods and services. So institutions must be developed to curb destructive utility-maximizing behaviour that serves the interests of particular individuals while adversely affecting the society as a whole.
+
+__Pluralism__
+
+According to Howlett, //pluralism// is the approach to studying the middle ranges of policy making. It is based on the assumption that interest groups and the political actors that matter most in shaping public policy. Groups are characterized by overlapping membership of individuals. Politics is the process by which various competing interests and groups are reconciled. Public policies are thus a result of competition and collaboration among groups working to further their members' collective interests (Self, 1985).
+
+Pluralists do not believe that all groups are equally influential or have same access to government. Groups vary in terms of financial or organizational resources they possess and their access to government.
+
+__Neo-Institutionalism__
+
+According to Howlett, New Institutionalism looks to the structure of political and economic arrangements from the ways in which finance and industry operate to the respective roles of bureaucracy, legislatures, and courts in the policy process. New Institutionalism avoids the limitations of most earlier theories informing policy studies by explaining why political, economic and social institutions exist and what impact these macro-level structures have in fashioning constraints and providing opportunities for policy-makers. Transaction cost analysis is an example of a new institutionalist approach to policy studies that expands the concerns of welfare economics about how government and markets can fall short of optimal outcomes. This approach suggests that institutions constitute an essential element of political life, because they can overcome burdens caused by information asymmetries to ‘perfect’ exchange in society.
+
+According to Hall, New Institutionalism seeks to overcome the limits of individual and group and class-based theories to explain the full range of social behaviour and organizational activity behind policy-making. It does not constitute a unified body of thought. Instead, it has three different analytical approaches, each which are ‘new institutionalism’. These approaches are historical institutionalism, rational choice institutionalism and sociological institutionalism.
+
+=== 2. Differentiation of Theories ===
+__ Public Choice __
+  * unit of analysis: individuals;
+  * rational decisions;
+  * rational pursuit of self-interest;
+__ Neo-Institutionalism __
+  * unit of analysis: organizations, states. Ex.: universities, United Nation, Parliament of Canada.
+  * explains why institutions exist and how they influence political behaviour;
+  * uncovers formal and informal rules;
+=== 3. Strengths and Weaknesses of each Approach in Terms of its Ability to Help Understand Policy-making and Explain the Nature of Policy Outcomes? ===
+  * how unit of analysis limits the ability to help understand the phenomenon;
+  * Pluralism doesn't reflect Parliamentary system;
+  * micro- vs macro- levels of analysis;
+    * __micro-__
+      * individuals in their social setting;
+    * __macro-__ trace outcome and interactions on national and global scales;
+      * language and religion differences start to affect policy-makings on macro-levels;
+      * countries adopt policies in their flavour, although globally it might be triggered by the same phenomenon.
+
+---------------------------------------------------------------------------------------------------------
+==== Recognition of Public Problems ====
+
+//Public policy//: course of action government decided to take or not to take in response to the issue.
+
+//Theories help to organize the world in a certain way. Theories provide road map to help to understand, describe, predict the phenomenon.//
+
+  * not all issues get addressed;
+  * mechanism by which issues are recognized are complex;
+  * agenda-setting is the first and most critical stage of the policy cycle;
+  * the manner in which problems are recognized vary depending on the analytical approach;
+  * //resource-dependency model//: industrialization creates a need for programs such as social security;
+
+=== 1. How do conditions get recognized as public problems and make it onto the official policy agenda? ===
+  * window of opportunity;
+  * different theories suggest different factors that influence acceptance of problem into the agenda;
+  * multi-variable models of agenda-setting;
+    * Richard Simeon (1967): variables -> social, institutional, ideational, political and economic; all of them are important; factors are nested with variables;
+
+  * John Kingdon: 3 sets of variables - streams - problems, policies, and politics.
+    * problem: perception of problems as public issues requiring government action;
+    * policy: experts proposing solutions to problems;
+    * political: swing of national mood, administrative turnover and interest group pressure.
+  * .
+
+=== 2.What factors would the different analytical approaches highlight as influencing the agenda-setting stage of the policy cycle? ===
+  * Public Choice: least possible effort for most benefit is chosen.
+  * Pluralism: group of people with same interest can push government to change its policies.
+
+  * objective factors: social structure and conditions, socio-economic conditions.
+    * issues that originate at similar levels of government will be similar to some extent;
+    * resource-dependency model;
+  * subjective factors: factors are detached from economic conditions or macro-social processes.
+    * ideologies identify general policy problems;
+    * policy-making agenda is created out of the history, traditions, attitudes and beliefs constructed by social and political actors;
+=== 3. Why and how is access to the policy agenda denied to certain problems? ===
+  * certain problems may be denied due to the conflict of interests between individuals and groups;
+  * certain subsystems may gain ability to control the interpretation of problem and thus how it is conceived and discussed (Jones);
+  * 
+  * Jone's view: some groups may have power inside existing subsystems seeking influence over another subsystems;
+  *  policy monopolies may deny agenda -> construct hegemonic image of public problems that allow to deny the agenda. Opposed members may seek alternation policy image through number of tactics to alter venue of policy debate, discourse or affect stability of existing policy subsystem (Sheingate, 2000).
+  * 2 strategies: 1) publicize problem in order to alter its venue through mobilizing public demand for government to resolve it; 2) seek to alter the institutional agreements within which policy subsystems operate in order to expand or contract its membership.
+
+=== 4. What are the implications when certain problems are prevented from making it onto the policy agenda? ===
+  * policy monopoly may transform into a more competitive subsystem and enter into policy debates;
+  * example: transformation of smoking from personal consumption to the issue of social welfare (as a result of work of policy entrepreneurs);
+  * affect on subsequent implementations of policies, new restrictions that were unthinkable before change.
+  * no stable policy subsystem -> no mechanism for agenda-setting and control.
+
+

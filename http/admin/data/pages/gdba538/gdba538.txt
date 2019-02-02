@@ -1,0 +1,45 @@
+====== GDBA538 - Strategic Management ======
+
+CASE ANALYSIS TEMPLATE
+  - Introduction
+    - Context
+    - Current Strategy
+      - Corporate level
+      - Business level
+    - Problem Statement
+  - External Analysis
+    - Financial Analysis
+    - Industry Analysis (pick 2)
+      - Porter's 5 forces
+      - PESTEL
+      - Trends
+      - KSFs
+    - Competitive Analysis
+    - Opportunities and Threats
+  - Internal Analysis
+    - Financial
+    - Operational
+    - Marketing
+    - Vale chain (1)
+    - VRIN (2)
+    - Competitive Advantage (3), pick 2 from 3
+  - Issues
+    - Justify most important issue
+    - Consequences of setting aside others
+    - Opportunities and Threats to deal with
+  - Recommendation
+    - Evaluation of alternatives
+    - Supported recommendation (specify decision criteria used)
+    - Implementation
+
+[[gdba538:Lectures|Lectures]] \\
+[[gdba538:Readings|Readings]] \\
+[[gdba538:Review|Review]] \\
+[[gdba538:Cases|Cases]] \\
+
+
+
+
+
+
+Created on: 2017/01/14 14:19

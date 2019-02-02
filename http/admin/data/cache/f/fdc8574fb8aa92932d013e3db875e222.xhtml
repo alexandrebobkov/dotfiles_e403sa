@@ -1,0 +1,823 @@
+
+<h1 class="sectionedit1" id="arch_linux_customization">ARCH LINUX CUSTOMIZATION</h1>
+<div class="level1">
+
+<p>
+<a href="/admin/lib/exe/fetch.php?media=arch_linux:screenshot_2017-feb-04_19_11_49.png" class="media" title="arch_linux:screenshot_2017-feb-04_19_11_49.png"><img src="/admin/lib/exe/fetch.php?w=450&amp;tok=3d8d75&amp;media=arch_linux:screenshot_2017-feb-04_19_11_49.png" class="mediacenter" alt="" width="450" /></a> <br/>
+
+</p>
+
+</div>
+
+<h4 id="commands">Commands</h4>
+<div class="level4">
+
+<p>
+<em>To remove orphaned packages</em> <br/>
+
+# pacman -Rns $(pacman -Qtdq)
+</p>
+
+</div>
+<!-- EDIT1 SECTION "ARCH LINUX CUSTOMIZATION" [1-190] -->
+<h2 class="sectionedit2" id="i3wm">i3wm</h2>
+<div class="level2">
+<pre class="code file i3wm.config"># Author: Alexandre Bobkov
+# Custom configuration file for i3wm
+&nbsp;
+# Use WIN key
+set $mod Mod4
+&nbsp;
+#set smart_gaps on
+#set smart_borders on
+&nbsp;
+#set gaps inner all set 20
+set gaps inner all set 20
+#set gaps outer 20
+set new_window pixel 10
+&nbsp;
+&nbsp;
+# Set the font.
+font pango:monospace 10
+&nbsp;
+# Use Mouse+$mod to drag floating windows to their wanted position
+floating_modifier $mod
+&nbsp;
+&nbsp;
+## Typical launchers ##########################
+###############################################
+## Start a terminal
+bindsym $mod+Return exec xfce4-terminal --hide-scrollbar
+## Start Midnight Commander
+bindsym $mod+Ctrl+Return exec xfce4-terminal --hide-scrollbar --command mc
+&nbsp;
+# kill focused window
+bindsym $mod+q kill
+&nbsp;
+&nbsp;
+# start dmenu (a program launcher)
+bindsym $mod+d exec dmenu_run
+bindsym $mod+shift+d exec --no-startup-id i3-dmenu-desktop
+&nbsp;
+# change focus
+bindsym $mod+j focus left
+bindsym $mod+k focus down
+bindsym $mod+l focus up
+bindsym $mod+semicolon focus right
+&nbsp;
+# alternatively, you can use the cursor keys:
+bindsym $mod+Left focus left
+bindsym $mod+Down focus down
+bindsym $mod+Up focus up
+bindsym $mod+Right focus right
+&nbsp;
+# move focused window
+bindsym $mod+Shift+j move left
+bindsym $mod+Shift+k move down
+bindsym $mod+Shift+l move up
+bindsym $mod+Shift+semicolon move right
+&nbsp;
+# alternatively, you can use the cursor keys:
+bindsym $mod+Shift+Left move left
+bindsym $mod+Shift+Down move down
+bindsym $mod+Shift+Up move up
+bindsym $mod+Shift+Right move right
+&nbsp;
+# split in horizontal orientation
+bindsym $mod+h split v
+&nbsp;
+# split in vertical orientation
+bindsym $mod+v split h
+&nbsp;
+# enter fullscreen mode for the focused container
+bindsym $mod+f fullscreen toggle
+&nbsp;
+# change container layout (stacked, tabbed, toggle split)
+bindsym $mod+s layout stacking
+bindsym $mod+w layout tabbed
+bindsym $mod+e layout toggle split
+&nbsp;
+# toggle tiling / floating
+bindsym $mod+Shift+space floating toggle
+&nbsp;
+# change focus between tiling / floating windows
+bindsym $mod+space focus mode_toggle
+&nbsp;
+# focus the parent container
+bindsym $mod+a focus parent
+&nbsp;
+## Workspaces #################################
+###############################################
+&nbsp;
+set $workspace1 &quot;1:Terminals &quot;
+## Filebrowser
+#set $workspace2 &quot;2:&amp;#xf114;&quot;
+set $workspace2 &quot;2:&amp;#xf07b;&quot;
+## Internet browser
+#set $workspace3 &quot;3:&amp;#xf269;&quot;
+set $workspace3 &quot;3:&amp;#xf268;&quot;
+## Excel &amp;#xf0ce;
+set $workspace4 &quot;4:1 &amp;#xf0ce;&quot;
+set $workspace5 &quot;5:2 &amp;#xf0ce;&quot;
+## Word
+set $workspace6 &quot;6:&amp;#xf1c2;&quot;
+set $workspace7 &quot;7:&amp;#xf02d;&quot;
+## E-mail
+##set $workspace8 &quot;8:&amp;#xf2b7;&quot;
+set $workspace8 &quot;8:&amp;#xf0e0;&quot;
+## Leisure
+set $workspace9 &quot;9:&amp;#xf0f4;&quot;
+## Media 
+set $workspace10 &quot;10:&amp;#xf001;&quot;
+&nbsp;
+# switch to workspace and switch wallpaper
+##set $feh exec --no-startup-id feh --bg-scale 
+bindsym $mod+1 workspace $workspace1
+##; $feh $HOME/Pictures/Wallpapers/wallpaper_101.png
+bindsym $mod+2 workspace $workspace2
+##; $feh $HOME/Pictures/Wallpapers/wallpaper_014.jpg
+bindsym $mod+3 workspace $workspace3
+##; $feh $HOME/Pictures/Wallpapers/wallpaper_010.jpg
+bindsym $mod+4 workspace $workspace4
+##; $feh $HOME/Pictures/Wallpapers/wallpaper_014.jpg
+bindsym $mod+5 workspace $workspace5
+bindsym $mod+6 workspace $workspace6
+bindsym $mod+7 workspace $workspace7
+bindsym $mod+8 workspace $workspace8
+bindsym $mod+9 workspace $workspace9
+bindsym $mod+0 workspace $workspace10
+&nbsp;
+# move focused container to workspace
+bindsym $mod+Shift+1 move container to workspace $workspace1
+bindsym $mod+Shift+2 move container to workspace $workspace2
+bindsym $mod+Shift+3 move container to workspace $workspace3
+bindsym $mod+Shift+4 move container to workspace $workspace4
+bindsym $mod+Shift+5 move container to workspace $workspace5
+bindsym $mod+Shift+6 move container to workspace $workspace6
+bindsym $mod+Shift+7 move container to workspace $workspace7
+bindsym $mod+Shift+8 move container to workspace $workspace8
+bindsym $mod+Shift+9 move container to workspace $workspace9
+bindsym $mod+Shift+0 move container to workspace $workspace10
+&nbsp;
+# reload the configuration file
+bindsym $mod+Shift+c reload
+# restart i3 inplace (preserves your layout/session, can be used to upgrade i3)
+bindsym $mod+Shift+r restart
+# exit i3 (logs you out of your X session)
+bindsym $mod+Shift+e exec &quot;i3-nagbar -t warning -m 'You pressed the exit shortcut. Do you really want to exit i3? This will end your X session.' -b 'Yes, exit i3' 'i3-msg exit'&quot;
+&nbsp;
+# resize window (you can also use the mouse for that)
+mode &quot;resize&quot; {
+        # These bindings trigger as soon as you enter the resize mode
+&nbsp;
+        # Pressing left will shrink the window’s width.
+        # Pressing right will grow the window’s width.
+        # Pressing up will shrink the window’s height.
+        # Pressing down will grow the window’s height.
+        bindsym j resize shrink width 10 px or 10 ppt
+        bindsym k resize grow height 10 px or 10 ppt
+        bindsym l resize shrink height 10 px or 10 ppt
+        bindsym semicolon resize grow width 10 px or 10 ppt
+&nbsp;
+        # same bindings, but for the arrow keys
+        bindsym Left resize shrink width 10 px or 10 ppt
+        bindsym Down resize grow height 10 px or 10 ppt
+        bindsym Up resize shrink height 10 px or 10 ppt
+        bindsym Right resize grow width 10 px or 10 ppt
+&nbsp;
+        # back to normal: Enter or Escape
+        bindsym Return mode &quot;default&quot;
+        bindsym Escape mode &quot;default&quot;
+}
+&nbsp;
+bindsym $mod+r mode &quot;resize&quot;
+&nbsp;
+# Colors Palette
+set $base0 		#839496
+set $base1 		#93A1A1
+set $base2 		#EEE8D5
+set $base3 		#FDF6E3
+set $base03		#002B36
+set $base00		#657B83
+set $base01 	        #586E75
+set $base02		#073642
+&nbsp;
+set $blue		#268BD2
+set $black 		#252936
+set $cyan		#2AA198
+set $green 		#859900
+set $green2		#073642
+set $red 		#DC322F
+set $magenta 	        #D33682
+set $orange		#CB4B16
+set $violet		#6C71C4
+set $yellow		#B58900
+set $white 		#FFFFFF
+set $white1		#EEE8D5
+set $white2		#F1F2F6
+&nbsp;
+set $color_wondow_focused 	#002B36
+set $color_window_nofocus 	#252936
+#                         border 				background 				text    	indicator
+client.focused            $color_wondow_focused	$color_wondow_focused	$white2		$white2
+client.unfocused          $color_window_nofocus	$color_window_nofocus	$base00		$base0F
+client.urgent             $base02	$base08		$base00		$base0F
+new_window normal 6
+&nbsp;
+client.background #eee8d5
+# Make title bold
+for_window [class=&quot;.*&quot;] title_format &quot;&lt;b&gt;&lt;i&gt;%title&lt;/i&gt;&lt;/b&gt;&quot;
+&nbsp;
+## Top bar
+###############################################
+#bar {
+#	id bar-1
+#    mode dock
+#	position top
+#	workspace_buttons no
+#    font pango:FontAwesome 10
+#    colors {
+#        background  $white2
+#        statusline  $green2
+#    }
+#	status_command conky -c $HOME/.config/conky/conky_bar.conf
+#}
+## Bottom bar
+###############################################
+#bar {
+#	id bar-2
+#    position bottom
+#	font pango:FontAwesome 10
+#	strip_workspace_numbers yes
+#	separator_symbol &quot;:|:&quot;
+#    colors {
+#        background  $white2
+#        statusline  $green2
+#		#					border 		background	text
+#        focused_workspace  $green2     $green2     $white2
+#        inactive_workspace	$white2		$white2 	$green2
+#        urgent_workspace	$red		$red 		$white2
+#    }
+#	binding_mode_indicator yes
+#	status_command conky -c $HOME/.config/conky/conky_bar_bottom.conf
+#
+#}
+&nbsp;
+bar {
+    id bar-3
+    mode dock
+    position bottom
+    workspace_buttons yes
+    strip_workspace_numbers yes
+    binding_mode_indicator yes
+    font pango:FontAwesome 10
+    colors {
+        background  $white2
+        statusline  $green2
+    }
+    colors {
+        background  $white2
+        statusline  $green2
+       #                   border      background  text
+        focused_workspace  $green2     $green2     $white2
+        inactive_workspace $white2     $white2     $green2
+        urgent_workspace   $red        $red        $white2
+    }
+   binding_mode_indicator yes
+   status_command conky -c $HOME/.config/conky/conky_bar2.conf
+}
+&nbsp;
+##################################################################################
+##########                  CUSTOM SETTINGS
+#############################################@####################################
+# Use xmodmap -pke command to identify key opcodes
+# or showkey --keycodes
+## Custom Wallpaper 014
+exec_always --no-startup-id feh --bg-scale $HOME/Pictures/Wallpapers/wallpaper_021.jpg
+#archlinux-simplyblack.png
+bindsym $mod+ctrl+w exec --no-startup-id feh --randomize --bg-scale $HOME/Pictures/Wallpapers/*
+# run conky showing date and time.
+exec --no-startup-id conky -c /home/e403sa/.config/conky/conky_date.conf
+# enable click on tap
+exec_always --no-startup-id synclient VertEdgeScroll=1 TapButton1=1 TapButton2=1 TapButton3=1
+# Lock the screen
+#bindsym $mod+shift+x exec xscreensaver gleidescope -root -duration 148
+# wallpaper 101 - Arch logo onblack background
+bindsym $mod+shift+x exec i3lock -e -I 5 -i $HOME/Pictures/Wallpapers/wallpaper_094.png
+#bindsym $mod+shift+x exec i3lock
+#bindsym $mod+shift+x exec i3lock -i /$HOME/Pictures/Wallpapers/wallpaper_008.jpg
+#; exec xbacklight -set 10
+&nbsp;
+# Media keys
+#bindsym XF86MonBrightnessUp exec &quot;xbacklight -dec 5&quot;
+#bindsym XF86MonBrightnessDown exec xbacklight -dec 20
+bindsym $mod+ctrl+o exec &quot;xbacklight -dec 5&quot;
+bindsym $mod+ctrl+p exec &quot;xbacklight -inc 10&quot;
+&nbsp;
+## Touchpad controls
+# Volume up
+bindcode 123 exec amixer -q sset Master Playback Volume 2%+
+# Volume down
+bindcode 122 exec amixer -q sset Master Playback Volume 2%-
+# Volume Mute
+bindcode 121 exec amixer -q sset Master Playback Volume toggle
+&nbsp;
+# PLAY/PAUSE
+#bindcode 164
+# NEXT
+#bindcode 163
+# PREV
+#bindcode 165
+# STOP
+#bindcode 166
+&nbsp;
+# Z-z-z
+#bindcode 240
+# Plane mode
+#bindcode 247
+# Fn + F3
+#bindcode 215
+# Fn + F4
+#bindcode 150
+&nbsp;
+## Take Screenshot
+#bindcode 107 exec &quot;i3-nagbar -t warning -m 'Screenshot'&quot;
+bindcode 107 exec scrot 'Screenshot_%Y-%h-%d_%H:%M:%S.png' -e 'mv $f ~/Pictures/screenshots/'
+## Capture Camera
+bindcode Shift+107 exec fswebcam -c ~/.config/fswebcam/fswebcam.conf
+&nbsp;
+## Launch file browser
+bindsym $mod+ctrl+f exec thunar
+## Launch Chrome browser
+bindsym $mod+ctrl+b exec chromium
+## Launch Sublime text editor
+bindsym $mod+ctrl+t exec $HOME/Software/sublime-text/sublime-text.sh
+## Launch chrome calculator
+bindsym $mod+ctrl+c exec xcalc
+## Launch calendar
+bindsym $mod+ctrl+d exec orage
+## Dropbox
+exec --no-startup-id dropbox 
+#exec conky -c $HOME/.config/conky/conky_cal
+## Blank screen after 5 minutes
+exec --no-startup-id xset s 400 600
+exec --no-startup-id xfce4-power-manager
+&nbsp;
+# Complex key binds - press mod+o, then selection followed by Enter key.
+set $mode_launcher Launch: Chrome Thunderbird Excel Word Music
+mode &quot;$mode_launcher&quot; {
+	bindsym c exec chromium
+	bindsym t exec thunderbird
+    bindsym e exec et
+    bindsym w exec wps
+    bindsym m exec clementine
+    bindsym q mode &quot;default&quot;
+	bindsym Escape mode &quot;default&quot;
+	bindsym Return mode &quot;default&quot;
+}
+bindsym $mod+o mode &quot;$mode_launcher&quot;
+# pacman -Rns $(pacman -Qtdq)
+&lt;/code&gt;
+&nbsp;
+==== i3wm Bar ====
+&lt;code&gt;
+## Author: Alexandre Bobkov
+&nbsp;
+out_to_x no
+out_to_console yes
+cpu_avg_samples 2
+net_avg_samples 2
+update_interval 1
+format_human_readable yes
+short_units yes
+times_in_seconds no
+if_up_strictness address
+no_buffers yes
+&nbsp;
+top_cpu_separate false
+console_graph_ticks ▁,▂,▃,▄,▅,▆,▇
+#,▁,▂,▃,▄,▅,▆,▇,█
+#console_bar_ticks |
+&nbsp;
+use_spacer left
+pad_percents 6
+&nbsp;
+#${scroll 20 $wireless_essid wlp2s0}
+#$moc_state = stop, play, etc.
+#${downspeedgraph wlp2s0 5,1}
+##  [${moc_totaltime} / ${moc_curtime}] | \
+&nbsp;
+TEXT
+[ ${if_up wlp2s0}\
+${wireless_link_qual_perc wlp2s0}% [ ${upspeedgraph wlp2s0 5,1} ${totalup wlp2s0}  ${downspeedgraph wlp2s0 5,1} ${totaldown wlp2s0}${else}   ${endif} ]\
+|  ${fs_size /}  ${fs_free /} |   ${memgraph 5,1}${memperc}% |  ${cpugraph cpu0, 5, 1} ${freq_g}GHz |  ${acpitemp}℃ | \
+${if_match $battery_percent &lt; 10}${endif}\
+${if_match $battery_percent &gt;= 15}${if_match $battery_percent &lt; 25}${endif}${endif}\
+${if_match $battery_percent &gt;= 25}${if_match $battery_percent &lt; 50}${endif}${endif}\
+${if_match $battery_percent &gt;= 50}${if_match $battery_percent &lt; 85}${endif}${endif}\
+${if_match $battery_percent &gt;= 85}${if_match $battery_percent &lt;= 100}${endif}${endif} \
+${battery_short} | \
+ ${if_match ${exec xbacklight} &gt;= 0}${if_match ${exec xbacklight} &lt; 5}0${endif}${endif}\
+${if_match ${exec xbacklight} &gt;= 5}${if_match ${exec xbacklight} &lt; 10}5${endif}${endif}\
+${if_match ${exec xbacklight} &gt;= 10}${if_match ${exec xbacklight} &lt; 15}10${endif}${endif}\
+${if_match ${exec xbacklight} &gt;= 15}${if_match ${exec xbacklight} &lt; 20}15${endif}${endif}\
+${if_match ${exec xbacklight} &gt;= 20}${if_match ${exec xbacklight} &lt; 25}20${endif}${endif}\
+${if_match ${exec xbacklight} &gt;= 25}${if_match ${exec xbacklight} &lt; 30}25${endif}${endif}\
+${if_match ${exec xbacklight} &gt;= 30}${if_match ${exec xbacklight} &lt; 35}30${endif}${endif}\
+${if_match ${exec xbacklight} &gt;= 35}${if_match ${exec xbacklight} &lt; 40}35${endif}${endif}\
+${if_match ${exec xbacklight} &gt;= 40}${if_match ${exec xbacklight} &lt; 45}40${endif}${endif}\
+${if_match ${exec xbacklight} &gt;= 45}${if_match ${exec xbacklight} &lt; 50}45${endif}${endif}\
+${if_match ${exec xbacklight} &gt;= 50}${if_match ${exec xbacklight} &lt; 55}50${endif}${endif}\
+${if_match ${exec xbacklight} &gt;= 55}${if_match ${exec xbacklight} &lt; 60}55${endif}${endif}\
+${if_match ${exec xbacklight} &gt;= 60}${if_match ${exec xbacklight} &lt; 65}60${endif}${endif}\
+${if_match ${exec xbacklight} &gt;= 65}${if_match ${exec xbacklight} &lt; 70}65${endif}${endif}\
+${if_match ${exec xbacklight} &gt;= 70}${if_match ${exec xbacklight} &lt; 75}70${endif}${endif}\
+${if_match ${exec xbacklight} &gt;= 75}${if_match ${exec xbacklight} &lt; 80}75${endif}${endif}\
+${if_match ${exec xbacklight} &gt;= 80}${if_match ${exec xbacklight} &lt; 85}80${endif}${endif}\
+${if_match ${exec xbacklight} &gt;= 85}${if_match ${exec xbacklight} &lt; 90}85${endif}${endif}\
+${if_match ${exec xbacklight} &gt;= 90}${if_match ${exec xbacklight} &lt; 95}90${endif}${endif}\
+${if_match ${exec xbacklight} &gt;= 95}${if_match ${exec xbacklight} &lt; 100}95${endif}${endif}\
+${if_match ${exec xbacklight} &gt;= 100}100${endif}%\
+ || ${if_match $pa_sink_volume &gt;= 50}${endif} \
+${if_match $pa_sink_volume &lt; 50}${endif} \
+${pa_sink_volume}% | \
+${exec uname -n} ~ ${kernel} |  \
+  ${time %A, %B %e} |   ${time %H:%M:%S} || </pre>
+
+</div>
+<!-- EDIT2 SECTION "i3wm" [191-14416] -->
+<h2 class="sectionedit3" id="conky">conky</h2>
+<div class="level2">
+
+</div>
+<!-- EDIT3 SECTION "conky" [14417-14434] -->
+<h3 class="sectionedit4" id="desktop_date_widget">Desktop Date Widget</h3>
+<div class="level3">
+<pre class="code"># Author: Alexandre Bobkov
+# Displays the date
+
+#background yes
+update_interval 5
+
+cpu_avg_samples 2
+net_avg_samples 2
+temperature_unit celsius
+
+double_buffer yes
+text_buffer_size 2048
+
+gap_x 0
+gap_y 100
+#minimum_size 100 100
+#maximum_width 100
+
+own_window no
+own_window_type normal
+own_window_transparent yes
+own_window_hints undecorate,sticky,skip_taskbar,skip_pages,below
+alignment tm
+
+draw_shades no
+draw_outline no
+draw_borders no
+draw_graph_borders no
+show_graph_range no
+
+use_xft yes
+use_spacer left
+pad_percents 2
+
+#xftfont Vera Sans Mono:size=9
+xftfont Mint Spirit:size=9
+xftalpha 0.5
+uppercase no
+format_human_readable yes
+
+#default values
+#default_color 00204C
+default_color FDF6E3
+default_bar_size 100 15
+color1 DDDDDD
+color2 AAAAAA
+color3 888888
+color4 EF5A29
+color5 00B51E
+
+## Fancy white color
+color9 FDF6E3
+##${font DejaVu Sans Mono :size=20}${font FFF Tusj :size=30}
+## Color Palette %u
+##${font}
+##${color #EEE8D5}Palette
+##${font Mint Spirit :size=10}
+##day: ${time %u} week ${time %U}
+##${color #002B36}+ ${color #073642}+
+##${color #586E75}+ ${color #657B83}+ ${color #839496}+ ${color #93A1A1}+
+##${color #EEE8D5}+ ${color #FDF6E3}+
+##${color #B58900}+ ${color #CB4B16}+ ${color #DC322F}+ ${color #D33682}+ ${color #6C71C4}+ ${color #268BD2}+ ${color #2AA198}+ ${color #859900}+
+
+#${alignr}${color #93A1A1}${font :size=10}${exec uname -n}
+#${alignr}${kernel}
+#${font :size=10}
+#${color #002B36}002B36 ${color #073642}073642
+#${color #586E75}586E75 ${color #657B83}657B83 ${color #839496}839496 ${color #93A1A1}93A1A1
+#${color #EEE8D5}EEE8D5 ${color #FDF6E3}FDF6E3
+#${color #B58900}B58900 ${color #CB4B16}CB4B16 ${color #DC322F}DC322F ${color #D33682}D33682 ${color #6C71C4}6C71C4 ${color #268BD2}268BD2 ${color #2AA198}2AA198 ${color #859900}859900
+
+#${font :size=10}
+#${color #002B36}002B36 ${color #073642}073642
+#${color #586E75}586E75 ${color #657B83}657B83 ${color #839496}839496 ${color #93A1A1}93A1A1
+#${color #EEE8D5}EEE8D5 ${color #FDF6E3}FDF6E3
+#${color #B58900}B58900 ${color #CB4B16}CB4B16 ${color #DC322F}DC322F ${color #D33682}D33682 ${color #6C71C4}6C71C4 ${color #268BD2}268BD2 ${color #2AA198}2AA198 ${color #859900}859900
+
+TEXT
+${alignc}${font Archistico :size=70}${time %H:%M}
+${font Archistico :size=45}${alignc}${color #FDF6E3}${time %A, %B %e}
+${alignc}${font FontAwesome:size=14}${color #268BD2}\
+${if_match $battery_percent &lt; 10}${color #DC322F}${color #073642}${endif}\
+${if_match $battery_percent &gt;= 15}${if_match $battery_percent &lt; 25}${color #DC322F}${color #073642}${endif}${endif}\
+${if_match $battery_percent &gt;= 25}${if_match $battery_percent &lt; 50}${endif}${endif}\
+${if_match $battery_percent &gt;= 50}${if_match $battery_percent &lt; 85}${endif}${endif}\
+${if_match $battery_percent &gt;= 85}${if_match $battery_percent &lt;= 100}${endif}${endif} \
+${font :size=12}${battery_time} \
+${alignc}${font FontAwesome:size=14}${if_up wlp2s0} ${font :size=12}${wireless_essid wlp2s0}${else}${color #93A1A1}${color}${endif}</pre>
+
+</div>
+<!-- EDIT4 SECTION "Desktop Date Widget" [14435-17455] -->
+<h2 class="sectionedit5" id="nano_editor">NANO Editor</h2>
+<div class="level2">
+
+</div>
+<!-- EDIT5 SECTION "NANO Editor" [17456-17479] -->
+<h3 class="sectionedit6" id="nanorc">.nanorc</h3>
+<div class="level3">
+<pre class="code"># Author: Aleandre Bobkov
+# Customization
+
+set mouse	# enable mouse support
+set linenumbers	# line show line numbers
+set positionlog	# remember cursor previous postion
+set smarthome	# set smart home
+set smooth	# set smooth scrolling
+set titlecolor	brightwhite	# set title line colors (file name and command)
+set statuscolor	white	# set status line colors
+set keycolor	white
+set numbercolor white
+set functioncolor brightwhite
+set matchbrackets &quot;(&lt;[{)&gt;]}&quot;
+set nonewlines
+
+# Syntax Highlights
+include /usr/share/nano/*
+# Custom syntax highlights
+include /home/e403sa/.config/nano/config.nanorc
+include /home/e403sa/.config/nano/conf.nanorc
+</pre>
+
+</div>
+<!-- EDIT6 SECTION ".nanorc" [17480-18151] -->
+<h3 class="sectionedit7" id="syntax_hightlights">Syntax Hightlights</h3>
+<div class="level3">
+
+</div>
+
+<h4 id="confignanorc">config.nanorc</h4>
+<div class="level4">
+<pre class="code"># Author: Alexandre Bobkov
+## Syntax for config files.
+
+syntax &quot;config&quot; &quot;\.?config$&quot;
+comment &quot;#&quot;
+
+# Possible errors and parameters
+icolor brightred &quot;^[[:space:]]*((un)?(bind|set)|include|syntax|header|comment|magic|linter|i?color|extendsyntax).*$&quot;
+
+# Keywords
+icolor brightgreen &quot;^[[:space:]]*(set|unset)[[:space:]]+(allow_insecure_backup|autoindent|backup|backwards|boldtext|casesensitive|constantshow|cut|fill[[:space:]]+[[:digit:]]+|historylog|justifytrim|locking|morespace|mouse|multibuffer|noconvert|nohelp|nonewlines|nowrap|positionlog|preserve|quickblank|quiet|rebinddelete|rebindkeypad|regexp|showcursor|smarthome|smooth|softwrap|suspend|tabsize[[:space:]]+[[:digit:]]+|tabstospaces|tempfile|unix|view|wordbounds)\&gt;&quot;
+icolor yellow &quot;^[[:space:]]*set[[:space:]]+((function|key|number|status|title)color)[[:space:]]+(bright)?(white|black|red|blue|green|yellow|magenta|cyan)?(,(white|black|red|blue|green|yellow|magenta|cyan))?\&gt;&quot; &quot;[[:space:]]+[[:digit:]]+$&quot;
+icolor brightgreen &quot;^[[:space:]]*set[[:space:]]+(backupdir|brackets|functioncolor|keycolor|matchbrackets|numbercolor|operatingdir|punct|quotestr|speller|statuscolor|titlecolor|whitespace|wordchars)[[:space:]]+&quot;
+icolor brightgreen &quot;^[[:space:]]*bind[[:space:]]+((\^([[:alpha:]]|[]0-9\^_]|Space)|M-([[:alpha:]]|[]!&quot;#$%&amp;&#039;()*+,./0-9:;&lt;=&gt;?@\^_`{|}~-]|Space))|F([1-9]|1[0-6])|Ins|Del)[[:space:]]+[[:alpha:]]+[[:space:]]+(all|main|search|replace(with)?|gotoline|writeout|insert|ext(ernal)?cmd|help|spell|linter|browser|whereisfile|gotodir)([[:space:]]+#|[[:space:]]*$)&quot;
+icolor brightgreen &quot;^[[:space:]]*unbind[[:space:]]+((\^([[:alpha:]]|[]0-9\^_]|Space)|M-([[:alpha:]]|[]!&quot;#$%&amp;&#039;()*+,./0-9:;&lt;=&gt;?@\^_`{|}~-]|Space))|F([1-9]|1[0-6])|Ins|Del)[[:space:]]+(all|main|search|replace(with)?|gotoline|writeout|insert|ext(ernal)?cmd|help|spell|linter|browser|whereisfile|gotodir)([[:space:]]+#|[[:space:]]*$)&quot;
+icolor brightgreen &quot;^[[:space:]]*extendsyntax[[:space:]]+[[:alpha:]]+[[:space:]]+(i?color|header|magic|comment|linter|formatter)[[:space:]]+.*$&quot;
+icolor green &quot;^[[:space:]]*((un)?(bind|set)|include|syntax|header|magic|comment|linter|formatter|extendsyntax)\&gt;&quot;
+
+# Colors
+icolor yellow &quot;^[[:space:]]*i?color[[:space:]]*(bright)?(white|black|red|blue|green|yellow|magenta|cyan)?(,(white|black|red|blue|green|yellow|magenta|cyan))?\&gt;&quot;
+icolor magenta &quot;^[[:space:]]*i?color\&gt;&quot; &quot;\&lt;(start|end)=&quot;
+
+# Strings
+color brightmagenta &quot;&quot;(\\.|[^&quot;])*&quot;&quot;
+# Comments
+color brightblue &quot;(^|[[:space:]]+)#.*$&quot;
+color cyan &quot;^[[:space:]]*##.*$&quot;
+
+# Trailing whitespace
+color ,green &quot;[[:space:]]+$&quot;</pre>
+
+</div>
+
+<h4 id="confnanorc">conf.nanorc</h4>
+<div class="level4">
+<pre class="code"># Author: Alexandre Bobkov
+## Syntax for config files.
+
+syntax &quot;conf&quot; &quot;\.?conf$&quot;
+comment &quot;#&quot;
+
+# Possible errors and parameters
+icolor brightred &quot;^[[:space:]]*((un)?(bind|set)|include|syntax|header|comment|magic|linter|i?color|extendsyntax).*$&quot;
+
+# Keywords
+icolor brightgreen &quot;^[[:space:]]*(set|unset)[[:space:]]+(allow_insecure_backup|autoindent|backup|backwards|boldtext|casesensitive|constantshow|cut|fill[[:space:]]+[[:digit:]]+|historylog|justifytrim|locking|morespace|mouse|multibuffer|noconvert|nohelp|nonewlines|nowrap|positionlog|preserve|quickblank|quiet|rebinddelete|rebindkeypad|regexp|showcursor|smarthome|smooth|softwrap|suspend|tabsize[[:space:]]+[[:digit:]]+|tabstospaces|tempfile|unix|view|wordbounds)\&gt;&quot;
+icolor yellow &quot;^[[:space:]]*set[[:space:]]+((function|key|number|status|title)color)[[:space:]]+(bright)?(white|black|red|blue|green|yellow|magenta|cyan)?(,(white|black|red|blue|green|yellow|magenta|cyan))?\&gt;&quot; &quot;[[:space:]]+[[:digit:]]+$&quot;
+icolor brightgreen &quot;^[[:space:]]*set[[:space:]]+(backupdir|brackets|functioncolor|keycolor|matchbrackets|numbercolor|operatingdir|punct|quotestr|speller|statuscolor|titlecolor|whitespace|wordchars)[[:space:]]+&quot;
+icolor brightgreen &quot;^[[:space:]]*bind[[:space:]]+((\^([[:alpha:]]|[]0-9\^_]|Space)|M-([[:alpha:]]|[]!&quot;#$%&amp;&#039;()*+,./0-9:;&lt;=&gt;?@\^_`{|}~-]|Space))|F([1-9]|1[0-6])|Ins|Del)[[:space:]]+[[:alpha:]]+[[:space:]]+(all|main|search|replace(with)?|gotoline|writeout|insert|ext(ernal)?cmd|help|spell|linter|browser|whereisfile|gotodir)([[:space:]]+#|[[:space:]]*$)&quot;
+icolor brightgreen &quot;^[[:space:]]*unbind[[:space:]]+((\^([[:alpha:]]|[]0-9\^_]|Space)|M-([[:alpha:]]|[]!&quot;#$%&amp;&#039;()*+,./0-9:;&lt;=&gt;?@\^_`{|}~-]|Space))|F([1-9]|1[0-6])|Ins|Del)[[:space:]]+(all|main|search|replace(with)?|gotoline|writeout|insert|ext(ernal)?cmd|help|spell|linter|browser|whereisfile|gotodir)([[:space:]]+#|[[:space:]]*$)&quot;
+icolor brightgreen &quot;^[[:space:]]*extendsyntax[[:space:]]+[[:alpha:]]+[[:space:]]+(i?color|header|magic|comment|linter|formatter)[[:space:]]+.*$&quot;
+icolor green &quot;^[[:space:]]*((un)?(bind|set)|include|syntax|header|magic|comment|linter|formatter|extendsyntax)\&gt;&quot;
+
+# Colors
+icolor yellow &quot;^[[:space:]]*i?color[[:space:]]*(bright)?(white|black|red|blue|green|yellow|magenta|cyan)?(,(white|black|red|blue|green|yellow|magenta|cyan))?\&gt;&quot;
+icolor magenta &quot;^[[:space:]]*i?color\&gt;&quot; &quot;\&lt;(start|end)=&quot;
+
+# Strings
+color brightmagenta &quot;&quot;(\\.|[^&quot;])*&quot;&quot;
+# Comments
+color brightblue &quot;(^|[[:space:]]+)#.*$&quot;
+color cyan &quot;^[[:space:]]*##.*$&quot;
+
+# Trailing whitespace
+color ,green &quot;[[:space:]]+$&quot;</pre>
+
+</div>
+<!-- EDIT7 SECTION "Syntax Hightlights" [18152-23300] -->
+<h3 class="sectionedit8" id="hardware_tunning">Hardware Tunning</h3>
+<div class="level3">
+
+<p>
+To view/set mousepad values: <br/>
+
+</p>
+<pre class="code">$ synclient VertScrollDelta=-75</pre>
+
+<p>
+ <br/>
+
+MaxSpeed : (2.2) allows quickly moving cursos from edge to edge <br/>
+
+MinSpeed : (1) normal speed <br/>
+
+HorizTwoFingerScroll : (1) allow scroll using two fingers <br/>
+
+VertScrollDelta: (-75) scroll direction <br/>
+
+Disable Touchpad while typing: syndaemon -i 0.5 -d <br/>
+
+</p>
+<pre class="code">Parameter settings:
+    LeftEdge                = 123
+    RightEdge               = 2974
+    TopEdge                 = 114
+    BottomEdge              = 2005
+    FingerLow               = 25
+    FingerHigh              = 30
+    MaxTapTime              = 180
+    MaxTapMove              = 165
+    MaxDoubleTapTime        = 180
+    SingleTapTimeout        = 180
+    ClickTime               = 100
+    EmulateMidButtonTime    = 0
+    EmulateTwoFingerMinZ    = 282
+    EmulateTwoFingerMinW    = 7
+    VertScrollDelta         = -75
+    HorizScrollDelta        = 75
+    VertEdgeScroll          = 1
+    HorizEdgeScroll         = 0
+    CornerCoasting          = 0
+    VertTwoFingerScroll     = 1
+    HorizTwoFingerScroll    = 0
+    MinSpeed                = 1
+    MaxSpeed                = 4
+    AccelFactor             = 0.085
+    TouchpadOff             = 0
+    LockedDrags             = 0
+    LockedDragTimeout       = 5000
+    RTCornerButton          = 0
+    RBCornerButton          = 0
+    LTCornerButton          = 0
+    LBCornerButton          = 0
+    TapButton1              = 1
+    TapButton2              = 1
+    TapButton3              = 1
+    ClickFinger1            = 1
+    ClickFinger2            = 3
+    ClickFinger3            = 2
+    CircularScrolling       = 0
+    CircScrollDelta         = 0.1
+    CircScrollTrigger       = 0
+    CircularPad             = 0
+    PalmDetect              = 0
+    PalmMinWidth            = 10
+    PalmMinZ                = 200
+    CoastingSpeed           = 20
+    CoastingFriction        = 50
+    PressureMotionMinZ      = 30
+    PressureMotionMaxZ      = 160
+    PressureMotionMinFactor = 1
+    PressureMotionMaxFactor = 1
+    GrabEventDevice         = 0
+    TapAndDragGesture       = 1
+    AreaLeftEdge            = 0
+    AreaRightEdge           = 0
+    AreaTopEdge             = 0
+    AreaBottomEdge          = 0
+    HorizHysteresis         = 18
+    VertHysteresis          = 18
+    ClickPad                = 1
+    RightButtonAreaLeft     = 1548
+    RightButtonAreaRight    = 0
+    RightButtonAreaTop      = 1737
+    RightButtonAreaBottom   = 0
+    MiddleButtonAreaLeft    = 0
+    MiddleButtonAreaRight   = 0
+    MiddleButtonAreaTop     = 0
+    MiddleButtonAreaBottom  = 0</pre>
+
+<p>
+<em class="u">FACTORY VALUES</em>
+</p>
+<pre class="code">Parameter settings:
+    LeftEdge                = 123
+    RightEdge               = 2974
+    TopEdge                 = 114
+    BottomEdge              = 2005
+    FingerLow               = 25
+    FingerHigh              = 35
+    MaxTapTime              = 180
+    MaxTapMove              = 165
+    MaxDoubleTapTime        = 180
+    SingleTapTimeout        = 180
+    ClickTime               = 100
+    EmulateMidButtonTime    = 0
+    EmulateTwoFingerMinZ    = 282
+    EmulateTwoFingerMinW    = 7
+    VertScrollDelta         = -75
+    HorizScrollDelta        = 75
+    VertEdgeScroll          = 1
+    HorizEdgeScroll         = 0
+    CornerCoasting          = 0
+    VertTwoFingerScroll     = 1
+    HorizTwoFingerScroll    = 0
+    MinSpeed                = 1
+    MaxSpeed                = 2.2
+    AccelFactor             = 0.0533049
+    TouchpadOff             = 0
+    LockedDrags             = 0
+    LockedDragTimeout       = 5000
+    RTCornerButton          = 0
+    RBCornerButton          = 0
+    LTCornerButton          = 0
+    LBCornerButton          = 0
+    TapButton1              = 1
+    TapButton2              = 1
+    TapButton3              = 1
+    ClickFinger1            = 1
+    ClickFinger2            = 3
+    ClickFinger3            = 2
+    CircularScrolling       = 0
+    CircScrollDelta         = 0.1
+    CircScrollTrigger       = 0
+    CircularPad             = 0
+    PalmDetect              = 0
+    PalmMinWidth            = 10
+    PalmMinZ                = 200
+    CoastingSpeed           = 20
+    CoastingFriction        = 50
+    PressureMotionMinZ      = 30
+    PressureMotionMaxZ      = 160
+    PressureMotionMinFactor = 1
+    PressureMotionMaxFactor = 1
+    GrabEventDevice         = 0
+    TapAndDragGesture       = 1
+    AreaLeftEdge            = 0
+    AreaRightEdge           = 0
+    AreaTopEdge             = 0
+    AreaBottomEdge          = 0
+    HorizHysteresis         = 18
+    VertHysteresis          = 18
+    ClickPad                = 1
+    RightButtonAreaLeft     = 1548
+    RightButtonAreaRight    = 0
+    RightButtonAreaTop      = 1737
+    RightButtonAreaBottom   = 0
+    MiddleButtonAreaLeft    = 0
+    MiddleButtonAreaRight   = 0
+    MiddleButtonAreaTop     = 0
+    MiddleButtonAreaBottom  = 0</pre>
+
+<p>
+Created on: 2017/02/09 00:53
+</p>
+
+</div>
+<!-- EDIT8 SECTION "Hardware Tunning" [23301-] -->

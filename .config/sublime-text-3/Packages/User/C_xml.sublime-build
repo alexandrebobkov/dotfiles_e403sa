@@ -1,0 +1,28 @@
+//  *gcc `xml2-config --cflags --libs` -o xmlexample libxml2-example.c
+//	"cmd": ["g++", "${file}", "-o", "${file_path}/${file_base_name}"],
+
+{
+//"cmd" : ["gcc", "$file_name", "-o", "${file_base_name}", "-I/usr/include/libxml2 -lxml2"],
+"cmd" : ["gcc", "${file_path}/${file_name}", "-o", "$file_path/$file_base_name", "-I/usr/include/libxml2", "-lxml2"],
+"selector" : "source.c",
+"shell":false,
+"working_dir" : "$file_path"
+}
+
+/*
+{
+	"cmd": ["gcc", "-I/usr/include/libxml2 -lxml2", "-o", "${file_path}/${file_base_name}", "${file}"],
+	"file_regex": "^(..[^:]*):([0-9]+):?([0-9]+)?:? (.*)$",
+	"working_dir": "${file_p/th}",
+	"selector": "source.c, source.c++",
+
+	"variants":
+	[
+		{
+			"name": "Run",
+//			"cmd": ["bash", "-c", "g++ '${file}' -o '${file_path}/${file_base_name}' && '${file_path}/${file_base_name}'"]
+			"cmd": ["bash", "-c", "gcc -Iusr/include/libxml2 -lxml2 '${file}' -o '${file_path}/${file_base_name}' && '${file_path}/${file_base_name}'"]
+		}
+	]
+}
+*/

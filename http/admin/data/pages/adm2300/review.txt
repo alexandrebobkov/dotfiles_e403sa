@@ -1,0 +1,481 @@
+====== REVIEW ======
+Tue, Dec  8
+
+===== Public Administration (10) =====
+
+This chapter assesses the future of public sector management, particularly with respect to the characteristics of both effective and failed leadership. It looks at the various ways in which leadership can go wrong, when leaders:
+  * waste resources
+  * cling to outworn traditions
+  * think narrowly
+  * underestimate problems and overestimate solutions
+  * believe in simple solutions to complex problems
+  * persist despite evidence
+  * discourage critical thinking
+  * suppress or distort bad news
+  * alternate between indecision and frenzy
+  * look for scapegoats and conspiracies.
+
+
+And it examines the qualities of effective leadership, emphasizing the need for:
+  * a coherent vision to inform all actions
+  * effective use of people, communication, and trust
+  * effective use of a variety of management tools
+  * teamwork
+  * the ability to manage change.
+
+The text defines the three pillars of good leadership in public sector management as aim, character, and execution. The leader who has clear aims, inspires employees but also learns from them, and executes activities and policies using a range of suitable techniques will be highly effective.
+
+Finally, the chapter explores the concept of good followership: leaders are only as good as those they lead. The relationship is symbiotic, and the necessity for a well-informed citizenry is paramount.
+
+=== Identify and discuss 10 key factors of leadership failure. ===
+These concepts are fully explained in the text:
+  * wasting resources
+  * clinging to outworn traditions
+  * thinking narrowly
+  * underestimating problems and overestimating solutions
+  * believing in simple solutions to complex problems
+  * persisting despite evidence
+  * discouraging critical thinking
+  * suppressing or distorting bad news
+  * alternating between indecision and frenzy
+  * looking for scapegoats and conspiracies.
+
+
+When studying a particular example of failed leadership, identify which of these concepts offer worthwhile explanations of how and why failure ensued. You may not draw on all 10, but some will certainly shed light on the issue.
+
+Explain why these factors and not others contributed to the failure. And assess what the failure teaches us about government and political failures in general. As Norman Dixon suggests, every leadership failure provides clues about leadership success.
+
+=== Analyze the key elements of successful political leadership. ===
+The following key elements of successful political leadership are all explained in the text:
+  * forethought
+  * clear vision and the ability to articulate it
+  * ability to engage in complex thought
+  * ability to recognize and reject prejudice and stereotypical thinking
+  * deep interest in problem solving
+  * understanding the positions and strengths of adversaries
+  * intellectual flexibility coupled with the courage to persist with sound plans
+  * concern for human, financial, and material resources
+  * ability to motivate others
+  * wisdom and decisiveness in times of crisis
+  * a strong theoretical and practical foundation on which to base decisions
+  * willingness to
+  * embrace new ideas
+  * be open to self-criticism
+  * engage in critical analysis
+  * learn from others
+  * admit mistakes.
+
+Choose a real-life example of successful leadership in action and assess which of these characteristics apply. You’ll probably find many, though not all, of them. How have they led to the particular success? What do such successes teach us about leadership and how governments can promote better leadership?
+===== The Theories and Logics of Public Administration (5) =====
+
+This chapter discusses the functions of management and the significant difference between the values and operational dynamics of the public and private sectors. It conducts a review of organizational design theories, especially in relation to the public sector, and explores the two dominant conceptual models of organizational structure:
+  * the organic-humanistic model
+  * the structural-mechanistic model.
+
+The chapter provides a short history of interpretations of these models developed over the course of the twentieth century. Each variation purports to describe the ideal flow of bureaucratic influence and power.
+
+The techniques of managerial decision making—how and why governments, management, and bureaucracies act as they do—are also examined in terms of:
+  * incrementalism
+  * rationalism
+  * bounded rationalism
+  * mixed scanning.
+
+These techniques can be applied within either the organic-humanistic or the structural-mechanistic model.
+
+Finally, the chapter explores the motivations behind managerial decision making, specifically as theorized in:
+  * public choice theory
+  * bureaucratic politics theory
+  * policy network theory.
+
+These approaches together offer a picture of bureaucratic motivation under various circumstances.
+
+=== Identify the functions denoted by POSDCORB and give an example of each. ===
+
+Planning:
+Planning the security arrangements for a royal tour
+
+Organizing:
+Organizing new training courses for the Canadian army based on lessons learned in Afghanistan
+
+Staffing:
+Hiring personnel to work in the new prisons required by the government’s tough-on-crime agenda
+
+Directing: 
+Department of Health management directing staff to devote more attention to developing programs that measure wait times for core medical procedures
+
+Coordinating:
+Agriculture and Agri-food officials coordinating their activities with those of provincial departments on agriculture over new measures to address cattle hoof-and-mouth disease.
+ 
+Reporting:
+Justice officials reporting to their deputy minister on Criminal Code amendments to target organized crime
+
+Budgeting:
+National Defence financial management officials developing multiyear budgets to account for the purchase and maintenance of F-35 Stealth fighters for the air force.
+
+=== Explain six major differences between the public and private sectors ===
+
+You could focus on any six of the following differences:
+  * serving citizens or serving customers
+  * providing commercial services or providing public services
+  * narrow economic goals or broad social goals
+  * judging success by profitability or by effective implementation of services
+  * being accountable to owners and shareholders or to elected leaders and citizens
+  * the private marketplace or the governmental-political realm as the operational environment
+  * one-dimensional or multidimensional management focus
+  * business oriented or program and policy oriented management skills
+
+=== Define the organic-humanistic model of organizational theory. ===
+Your response should make the following points:
+  * Organizations are complex, living entities, populated by complex human beings.
+  * Organizations have formal and informal systems of communication.
+  * Organizations possess informal groupings of people.
+  * People in an organization possess complex motivations.
+  * Employees are an organization’s best resource.
+  * Management should structure its actions to maximize the innate potential of its human resources.
+  * Hierarchies within an organization should be as shallow as possible, allowing for ease of communication.
+  * Power and influence within an organization should flow from both the top down and the bottom up.
+  * Participatory management is the ideal form of organizational managerial behaviour.
+
+=== Define the structural-mechanistic model of organizational theory. ===
+Your response should make the following points:
+  * Organizations are best understood in structural terms.
+  * Hierarchy is the best means of organizing a bureaucracy.
+  * The logic of an organization is to achieve ends by the most economical, efficient, and effective means possible.
+  * Institutional rationality is to be understood in instrumental means–ends terms: the use of the necessary means to achieve desired ends.
+  * Management should take a command and control role within the organization.
+  * Power should flow from the top down.
+  * Senior management is the driver of the organization.
+  * Employees are expected to faithfully execute the orders of management.
+
+=== Identify the eight principles of a Weberian bureaucracy ===
+  * Hierarchy
+  * Unity of command
+  * Specialization of labour
+  * Employment and promotion based on merit
+  * Positions based on full-time employment
+  * Decisions founded on impersonal rules
+  * Work recorded and maintained in written files
+  * Clear distinction between bureaucratic work responsibilities and the private interests of employees
+
+=== Compare and contrast the merits of incrementalism and rationalism. ===
+
+__Incrementalism__
+Merits
+  * Decision making is easily understood by management and staff.
+  * Decisions can be made without significant time and resources or new and complex skills because current decisions are rooted in past decisions.
+  * Activities are institutionally viable, meeting defined goals that are simple and easily attainable.
+  * The model describes how organizations actually work.
+
+Demerits
+  * The approach looks backward, privileging past practice.
+  * It lacks systematic planning.
+  * It fails to explain wholly new initiatives.
+  * 
+__Rationalism__
+Merits
+  * All decisions are based on comprehensive planning, analysis, and critical thinking.
+  * Planning is based on clear objectives.
+  * Planning is based on ends–means/cost–benefit analysis.
+  * The system encourages forward thinking and strategic priority setting.
+  * The system requires careful analysis of all organizational activities to determine how well they conform to objectives.
+
+Demerits
+  * Planning is overly complicated and time consuming.
+  * Required priority setting invites organizational conflict.
+  * Ends–means/cost–benefit analysis is easier said than done.
+  * Supposedly objective results of rationalist planning are always open to subjective criticism.
+  * Rational planning is simply too hard to do, does not lead to organizational consensus, and divides and weakens organizations and their management.
+===== The Political Dimensions of Public Administration (2) =====
+
+===== Canadian Administration and Its Socio-political Context (1) =====
+
+===== The Socio-political Context of Public Administration (3, 4) =====
+
+This chapter outlines the purpose, structure, and functions of the institutions that form a government. It describes the distinction between the political executive and the bureaucratic executive and explains how decisions are made and carried out in the government arena.
+
+The pre-eminent decision-making authorities are
+  * the prime minister
+  * the cabinet
+  * government departments
+  * senior management of the public service
+  * cabinet committees
+  * central agencies.
+
+These authorities perform executive tasks:
+  * strategic priority setting
+  * policy and program direction, making, and implementation management
+  * the creation of accountability structures.
+
+The chapter explores power relations within the executive, and the relationship between elected ministers and unelected officials. Close attention is also paid to the roles and responsibilities of the prime minister and of ministers, the way in which a cabinet is formed and how it functions, and the structure and functions of government departments and agencies.
+
+=== What are the key powers and responsibilities of a prime minister? ===
+In answering this question make reference to and explain the following roles and responsibilities, illustrating your responses with both recent and historical examples of a prime minister exercising these powers.
+  * head of government
+  * governing party leader
+  * cabinet leader
+  * chief government policy maker
+  * chief architect of government structure
+  * responsible for appointment of senior executive and judicial officials
+  * special direction and oversight relationship with the clerk of the Privy Council respecting the management of the federal public service
+  * special relationship with the governor general, especially in relationship to calling elections government leader in parliament
+  * chief communicator for the government
+  * chief international representative of the country.
+
+=== What are the key powers and responsibilities of a minister? ===
+Your response should encompass the following approaches.
+  * Explain the role of the minister as the head of a department.
+  * Compare the concepts of individual and collective ministerial responsibility.
+  * Highlight the importance of a minister as a member of caucus and the minister’s enhanced role and importance within the party.
+  * Assess the minister’s continuing responsibilities to his or her constituency and comment on the workload of ministers. 
+
+=== Who sits in a cabinet and what does the cabinet do? ===
+Your answer should address membership, selection, and purpose.
+With respect to membership and selection:
+  * Distinguish between ministers and ministers of state.
+  * Note the importance of ministers being elected members of the House of Commons but note the exceptions to this convention.
+  * Note the various considerations that prime ministers bring to cabinet selection, such as experience; ideology; party politics; regional, linguistic, religious, ethnic, and gender representativeness; and merit.
+
+With respect to purpose:
+  * Highlight the role of cabinet as the central decision-making body in government.
+  * Note the cabinet’s role in policy and program development.
+  * Note the cabinet’s function in supporting prime ministerial leadership.
+  * Devote attention to the changing role of cabinet as prime ministerial power has increased.
+
+=== What is the purpose of a Crown corporation and what does it do? Give an example. ===
+Your response should explain the following:
+  * Crown corporations are relatively independent of government.
+  * They are not headed by a minister but have boards of directors.
+  * They are not subject to departmental systems of accountability, financial management, or personnel administration.
+  * They provide commercial services to Canadians and operate in a corporate fashion.
+  * They promote a public purpose in a given field of commercial activity, such as economic nationalism, cultural promotion, national service delivery, and new economic development.
+  * Examples of federal Crown corporations are the CBC, Canada Post, the Canada Mortgage and Housing Corporation, and VIA Rail.
+
+=== What is the purpose of a regulatory agency and what does it do? Give an example. ===
+Your response should explain the following:
+  * Regulatory agencies are relatively independent of government.
+  * They are not headed by a minister but can have various types of management boards.
+  * They are not subject to departmental systems of accountability, financial management, or personnel administration.
+  * Regulatory agencies develop, implement, and at times adjudicate disputes respecting the application of regulatory policies and programs to given individuals and firms.
+  * Regulatory agencies can be involved in economic, social, or environmental regulation.
+  * Economic regulation deals with such matters as price and tariff setting, product supply management, market entry and conditions of service, and methods of production.
+  * Economic regulatory agencies include Investment Canada, the National Energy Board, and the Canadian Transportation Agency.
+  * Social regulation deals with matters such as labour standards, health and safety provisions, protection of human rights, and support for Canadian culture.
+  * Social regulatory agencies include the Canadian Industrial Relations Board, the Canadian Food Inspection Agency, the Canadian Human Rights Commission, and the CRTC.
+  * Environmental regulation focuses on the establishment and enforcement of rules to protect the environment. The Canadian Environmental Assessment Agency is the prime regulatory agency in this field.
+
+This chapter explores the issues of:
+  * political authority
+  * ministerial responsibility
+  * government accountability
+  * central executive control
+  * and through them reveals the tension between democracy and bureaucracy.
+
+It describes the roles and responsibilities of ministers, who function as political leaders in charting the direction of their departments to keep with the strategy of the government as a whole and act as a liaison between the bureaucracy and the political centre. Because ministers don’t perform the hands-on tasks of their departments, the text analyzes whether they can be expected to bear full responsibility for everything their departments do.
+
+The chapter also delineates the roles and responsibilities of deputy ministers, who are the administrative heads and chief managers of their departments, responsible to the minister and prime minister for:
+  * administration of policies and programs
+  * development and assessment of policy initiatives liaison and communication
+  * attention to routine departmental needs for financial, personnel, and legal administration.
+
+
+Also explained are the purpose and functions of the Prime Minister’s Office, the Privy Council Office, and the clerk of the Privy Council.
+
+The difference between departmentalized and institutionalized cabinet systems is examined through the evolution of these decision-making approaches over the past several decades, and the implications for authority and power relations in both systems are addressed.
+
+Finally, the chapter analyzes the principles and consequences of the current command approach to executive decision making.
+
+=== Describe how deputy ministers are appointed and what their duties are. ===
+Note that deputy ministers are appointed by the prime minister, on the advice of the clerk of the Privy Council, not the department minister. Explain their key duties and responsibilities as follows:
+  * Administrative responsible to the prime minister for the operation of the department administrative head and chief manager of the department in relation to all routine matters financial manager in relation to budget matters overseer of departmental legal obligations.
+  * Policy chief policy advisor to the minister on new initiatives responsible for developing new policies and programs for the department responsible for the implementation of existing departmental policies and programs.
+  * Communication chief communicator for the department in relation to all administrative matters
+liaison with other departments and agencies in relation to policy and program development rapport with clerk of the Privy Council in relation to policy and senior administrative matters.
+  * Personnel provision of leadership, motivation, and strategic direction to departmental staff and management oversight of personnel management, training, and development to department managers and staff
+
+=== What is the difference between a departmentalized and an institutionalized cabinet system? ===
+Discuss the key features of the departmentalized cabinet system by covering the following points:
+  * Analyze departmental autonomy in relation to limited central coordination of government-wide policy.
+  * Explain the limited role of central agencies and the few institutionalized cabinet committees in this system.
+  * Explain the leading role for prime minister in policy direction.
+  * Assess the influence of deputy ministers over departmental work and the possibility of strong ministerial leadership in departments under certain conditions.
+  * Explain the probability of weak ministerial leadership when inexperienced ministers face highly experienced deputy ministers.
+  * Describe the relatively straightforward, department-led process of policy development.
+  * 
+Discuss the key features of the institutionalized cabinet system by covering the following points:
+  * Describe how and why departments are organized into functional cabinet committees.
+  * Explain that department policy and program initiatives must be vetted and approved by relevant cabinet committee.
+  * Explain how and why all committee decisions must be vetted and approved by P&P (Priorities and Planning/Policies and Priorities) committee.
+  * Note that all cabinet committees are supported by specialized central agencies: the PMO, PCO, Finance, and TBS.
+  * Explain the central coordination of government-wide policy in relation to the role of central agencies and cabinet committees.
+  * Comment on the great centralization of power in P&P in relation to the relatively diminished role and power of individual deputy ministers.
+  * Highlight the much more complicated and time-consuming process of policy development and the much greater chance of interdepartmental infighting on priority setting and policy development.
+  * Explain the much greater chance of infighting between central agencies.
+
+=== What is the purpose of a cabinet committee? Briefly trace the cabinet decision-making process in an institutionalized system. ===
+
+The purpose of a cabinet committee is revealed through discussion that encompasses the following:
+  * Assess the role of functional cabinet committees, as distinct from P&P, and how they link ministers of departments with shared policy and program interests.
+  * Describe how committee members make collective decisions about policy and program initiatives advanced by member departments. 
+  * Explain how and why committee recommendations are to conform to and support broad policy initiatives set by P&P.
+  * Assess how P&P vets and approves all policy and program recommendations from the various committees.
+
+The decision-making process takes the following path:
+  * A department initiates a policy or program proposal.
+  * The department produces a Memorandum to Cabinet (MC).
+  * The MC goes to the PCO for assessment and comment.
+  * The MC, with PCO commentary, goes to the relevant cabinet committee.
+  * The committee assesses the MC.
+  * PMO, PCO, TBS, and Finance assess the MC.
+  * The committee receives the assessments and makes a decision.
+  * If the MC is rejected it reverts to the department.
+  * If the MC is accepted it moves to P&P.
+  * P&P addresses the MC and all relevant central agency reports and makes a decision.
+  * If the MC is rejected, it reverts to the relevant cabinet committee.
+  * If the MC is accepted it is ratified by the full cabinet and becomes official policy.
+  * The relevant department is given authority to implement the policy of program.
+
+=== Identify the primary areas of responsibility for the department of Finance. ===
+Your response should include:
+  * financial management in relation to general departmental activities
+  * development of annual budget for the government
+  * budget coordination with departments on routine management
+  * advice to the prime minister and cabinet about
+  * national economic policy
+  * national tax policy
+  * international trade
+  * NAFTA, in relation to the United States and Mexico
+  * deficit management
+  * national debt repayment.
+===== Public Administration and Budgets (6) =====
+
+The elements involved in macro-financial management and public sector budgeting, first describing the two halves of the traditional financial management system: revenue and expenditure. It explores various approaches to expenditure budgeting:
+  * budgetary incrementalism
+  * performance budgeting
+  * budgetary rationalism
+  * describing the pros and cons of each and some of the many variations on budgetary rationalism that have been practiced by the past several governments. In that context, the chapter includes an analysis of the politics and administration of fiscal restraint in a climate of budget deficits and public indebtedness.
+
+The chapter also appraises budget-making tactics, breaking them down into concise descriptions of the strategies employed by spenders and guardians of public sector finance.
+
+Finally, it explains how auditing functions in the public sector with respect to:
+  * departmental audits
+  * the Office of the Auditor General
+  * the Public Accounts Committee.
+
+=== Explain the difference between a revenue and an expenditure budget ===
+A revenue budget highlights money brought into government coffers. It covers such items as:
+  * individual and corporate taxation
+  * service charges
+  * fees and duties
+  * borrowing.
+
+The revenue budget gets the most media attention due to its taxation provisions.
+
+The expenditure budget highlights how the government is going to spend the money it has raised. Each department and agency prepares its own expenditure budget for approval by the cabinet and ultimately, by parliament. The expenditure budget is contained in the Main Estimates.
+
+For each department and agency, the Main Estimates highlight the programs, levels, purposes, and objectives of public spending to be undertaken. The details provide benchmarks by which departments and agencies can be held accountable for their use of public money.
+
+=== What is budgetary incrementalism? What are its main strengths and weaknesses? ===
+Incrementalism is the most traditional form of government expenditure budget making. It is based on a comparative listing of line items such as salaries, employee benefits, office equipment, rentals, and travel, used by a government department, agency, branch, or unit in the performance of its duties. The figures from the past year, the current year, and the next anticipated year are compared.
+
+The main strengths of budgetary incrementalism are:
+  * organizational stability
+  * a common framework for managers in developing the budget
+  * the absence of any necessity to justify the purpose of every organizational activity with every budget
+  * guaranteed continuing funding for established programs
+  * a relatively easy and not very time-consuming process for budget making.
+
+The main weaknesses of budgetary incrementalism are that it is very rudimentary and of limited use as a planning tool provides little information to senior managers about the quality of work being undertaken
+does not contain data to assess how efficiently resources are being used, or the effectiveness of programs over time is essentially backward looking, basing next year’s budget on last year’s activities.
+
+=== What is performance budgeting? What are its main strengths and weaknesses? ===
+Performance budgeting was designed as an improvement on incremental budgeting. It is based on incremental line-item budgeting but incorporates efficiency measures into the budgetary process. Middle managers must list not only the specific expenditures on various line items but also basic operational activities in relation to money spent.
+
+The benefits of performance budgeting are that it provides information to managers on the activities of a given unit enables managers to assess the efficiency of a given department/agency or office/branch over different years enables managers to compare the efficiency of different bureaucratic units and apportion funding accordingly. 
+
+The main weaknesses of performance budgeting are that efficiency ratings are rudimentary because they measure bureaucratic activity quantitatively rather than qualitatively not all bureaucratic activities are easily quantifiable.
+
+=== What is budgetary rationalism? What are its main strengths and weaknesses? ===
+Budgetary rationalism is the systematic attempt to link budgeting to planning and programming. It requires managers to set and rank priorities, which are then assessed in terms of cost–benefit analysis. Desired priorities are then conceptualized into programs, which are also prioritized and assessed in terms of cost–benefit analysis.
+
+Chosen programs are then given budgetary support and regularly evaluated to see whether they have achieved their desired objectives.
+
+The benefits of budgetary rationalism are that is:
+  * forward-looking 
+  * part of a planning process
+  * rooted in priority setting and rigorous evaluation 
+  * able to provide senior managers with effective tools to set priorities and to assess programs 
+  * able to provide public servants with a rationale for their actions.
+
+The drawbacks of budgetary rationalism are as follows:
+  * Priority setting is difficult and can become very divisive.
+  * Cost–benefit analysis is difficult and time consuming and assumes that qualitative conditions can be subjected to quantitative analysis.
+  * Priorities and programs must be re-evaluated every year, even if this requirement is perfunctory, placing a great burden on organizations.
+  * Budgetary rationalism assumes that bureaucrats are rational and will agree on so-called objective evidence derived through prioritization and cost-benefit analysis, even when their vested interests differ.
+
+=== Briefly compare the budget-making tactics of spenders and guardians. ===
+Spender tactics:
+  * Inflate the budget.
+  * Spend now, save later.
+  * Mobilize interest groups.
+  * Drive the thin edge of the wedge.
+  * Take advantage of crisis.
+  * Attack popular programs.
+  * Make an end run.
+
+Guardian tactics:
+  * Set the rules.
+  * Demand documentation.
+  * Confer and investigate.
+  * Know thy opponent.
+  * Just say no.
+
+===== Human Resource Management (7) =====
+
+=== Describe the role of the Public Service Commission. ===
+Your response should include the following points. The Public Service Commission:
+  * promotes professionalism within the federal public service
+  * upholds the merit principle in all decisions through clear rules and fair procedures on hiring, promotion, demotion, and firing of public servants
+  * insulates the public service from patronage and political manipulation
+  * promotes policy on job classification, human resources planning, and performance evaluation.
+
+=== Explain the origin and purpose of La Relève. ===
+La Relève arose in response to the “quiet crisis” of the mid-1990s. It was a human resource policy initiative of the Privy Council Office designed to:
+  * enhance employee morale
+  * promote program efficiency
+  * improve staff–management relations
+  * develop management leadership capacity.
+
+La Relève had special programs to promote new recruitment and enhance employee training and development. It also witnessed the lifting of wage restraints across the public service and improved remuneration for public servants.
+===== Aboriginals and the Canadian State =====
+
+===== Reforming the Public Sector (8) =====
+
+===== Accountability and Ethics (9) =====
+This chapter explores the related concepts of accountability and public sector ethics. Accountability is the principle that government officials are liable for both the procedural and the substantive merit of their decisions, and it is put into practice through an amalgam of:
+  * ministerial (or political) responsibility
+  * legal responsibility
+  * social responsibility.
+
+The text describes the work of scholars who have analyzed these forms of responsiveness in terms of:
+  * objective versus subjective responsibility
+  * formal versus informal lines of control.
+
+It concludes that these traditional perspectives on accountability are best blended into a synthetic approach and acknowledges the gap between theory and practice, particularly when it comes to:
+  * direct versus indirect ministerial responsibility
+  * ministerial versus administrative responsibility.
+
+How can a minister be directly responsible for every activity carried out in his or her department? What is the difference between the political responsibility of the minister and the administrative responsibility of public sector managers under that minister’s leadership?
+
+The chapter also outlines accountability put into practice through specific mechanisms:
+  * tribunals
+  * public consultation
+  * freedom of information legislation
+  * ombuds offices
+  * special officers.
+
+As well, the chapter analyzes the issue of government ethics, which encompasses three concepts about those in government:
+  * They should not place private interest above public interest.
+  * They should obey the law.
+  * They should support the national political ideals of democracy, equality, liberty, human rights, and collective societal interest.
+
+It looks at how these concepts have been put into practice in Canada through such measures as the Federal Accountability Act, the Conflict of Interest and Ethics Commissioner, and the Values and Ethics Code for the Public Service. The text concludes with real-world examples of ethical dilemmas and conflict-of-interest enforcement.

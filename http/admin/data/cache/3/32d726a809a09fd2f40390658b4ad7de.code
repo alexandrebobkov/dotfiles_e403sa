@@ -1,0 +1,355 @@
+# Author: Alexandre Bobkov
+# Custom configuration file for i3wm
+&nbsp;
+# Use WIN key
+set $mod Mod4
+&nbsp;
+#set smart_gaps on
+#set smart_borders on
+&nbsp;
+#set gaps inner all set 20
+set gaps inner all set 20
+#set gaps outer 20
+set new_window pixel 10
+&nbsp;
+&nbsp;
+# Set the font.
+font pango:monospace 10
+&nbsp;
+# Use Mouse+$mod to drag floating windows to their wanted position
+floating_modifier $mod
+&nbsp;
+&nbsp;
+## Typical launchers ##########################
+###############################################
+## Start a terminal
+bindsym $mod+Return exec xfce4-terminal --hide-scrollbar
+## Start Midnight Commander
+bindsym $mod+Ctrl+Return exec xfce4-terminal --hide-scrollbar --command mc
+&nbsp;
+# kill focused window
+bindsym $mod+q kill
+&nbsp;
+&nbsp;
+# start dmenu (a program launcher)
+bindsym $mod+d exec dmenu_run
+bindsym $mod+shift+d exec --no-startup-id i3-dmenu-desktop
+&nbsp;
+# change focus
+bindsym $mod+j focus left
+bindsym $mod+k focus down
+bindsym $mod+l focus up
+bindsym $mod+semicolon focus right
+&nbsp;
+# alternatively, you can use the cursor keys:
+bindsym $mod+Left focus left
+bindsym $mod+Down focus down
+bindsym $mod+Up focus up
+bindsym $mod+Right focus right
+&nbsp;
+# move focused window
+bindsym $mod+Shift+j move left
+bindsym $mod+Shift+k move down
+bindsym $mod+Shift+l move up
+bindsym $mod+Shift+semicolon move right
+&nbsp;
+# alternatively, you can use the cursor keys:
+bindsym $mod+Shift+Left move left
+bindsym $mod+Shift+Down move down
+bindsym $mod+Shift+Up move up
+bindsym $mod+Shift+Right move right
+&nbsp;
+# split in horizontal orientation
+bindsym $mod+h split v
+&nbsp;
+# split in vertical orientation
+bindsym $mod+v split h
+&nbsp;
+# enter fullscreen mode for the focused container
+bindsym $mod+f fullscreen toggle
+&nbsp;
+# change container layout (stacked, tabbed, toggle split)
+bindsym $mod+s layout stacking
+bindsym $mod+w layout tabbed
+bindsym $mod+e layout toggle split
+&nbsp;
+# toggle tiling / floating
+bindsym $mod+Shift+space floating toggle
+&nbsp;
+# change focus between tiling / floating windows
+bindsym $mod+space focus mode_toggle
+&nbsp;
+# focus the parent container
+bindsym $mod+a focus parent
+&nbsp;
+## Workspaces #################################
+###############################################
+&nbsp;
+set $workspace1 &quot;1:Terminals &quot;
+## Filebrowser
+#set $workspace2 &quot;2:&amp;#xf114;&quot;
+set $workspace2 &quot;2:&amp;#xf07b;&quot;
+## Internet browser
+#set $workspace3 &quot;3:&amp;#xf269;&quot;
+set $workspace3 &quot;3:&amp;#xf268;&quot;
+## Excel &amp;#xf0ce;
+set $workspace4 &quot;4:1 &amp;#xf0ce;&quot;
+set $workspace5 &quot;5:2 &amp;#xf0ce;&quot;
+## Word
+set $workspace6 &quot;6:&amp;#xf1c2;&quot;
+set $workspace7 &quot;7:&amp;#xf02d;&quot;
+## E-mail
+##set $workspace8 &quot;8:&amp;#xf2b7;&quot;
+set $workspace8 &quot;8:&amp;#xf0e0;&quot;
+## Leisure
+set $workspace9 &quot;9:&amp;#xf0f4;&quot;
+## Media 
+set $workspace10 &quot;10:&amp;#xf001;&quot;
+&nbsp;
+# switch to workspace and switch wallpaper
+##set $feh exec --no-startup-id feh --bg-scale 
+bindsym $mod+1 workspace $workspace1
+##; $feh $HOME/Pictures/Wallpapers/wallpaper_101.png
+bindsym $mod+2 workspace $workspace2
+##; $feh $HOME/Pictures/Wallpapers/wallpaper_014.jpg
+bindsym $mod+3 workspace $workspace3
+##; $feh $HOME/Pictures/Wallpapers/wallpaper_010.jpg
+bindsym $mod+4 workspace $workspace4
+##; $feh $HOME/Pictures/Wallpapers/wallpaper_014.jpg
+bindsym $mod+5 workspace $workspace5
+bindsym $mod+6 workspace $workspace6
+bindsym $mod+7 workspace $workspace7
+bindsym $mod+8 workspace $workspace8
+bindsym $mod+9 workspace $workspace9
+bindsym $mod+0 workspace $workspace10
+&nbsp;
+# move focused container to workspace
+bindsym $mod+Shift+1 move container to workspace $workspace1
+bindsym $mod+Shift+2 move container to workspace $workspace2
+bindsym $mod+Shift+3 move container to workspace $workspace3
+bindsym $mod+Shift+4 move container to workspace $workspace4
+bindsym $mod+Shift+5 move container to workspace $workspace5
+bindsym $mod+Shift+6 move container to workspace $workspace6
+bindsym $mod+Shift+7 move container to workspace $workspace7
+bindsym $mod+Shift+8 move container to workspace $workspace8
+bindsym $mod+Shift+9 move container to workspace $workspace9
+bindsym $mod+Shift+0 move container to workspace $workspace10
+&nbsp;
+# reload the configuration file
+bindsym $mod+Shift+c reload
+# restart i3 inplace (preserves your layout/session, can be used to upgrade i3)
+bindsym $mod+Shift+r restart
+# exit i3 (logs you out of your X session)
+bindsym $mod+Shift+e exec &quot;i3-nagbar -t warning -m 'You pressed the exit shortcut. Do you really want to exit i3? This will end your X session.' -b 'Yes, exit i3' 'i3-msg exit'&quot;
+&nbsp;
+# resize window (you can also use the mouse for that)
+mode &quot;resize&quot; {
+        # These bindings trigger as soon as you enter the resize mode
+&nbsp;
+        # Pressing left will shrink the window’s width.
+        # Pressing right will grow the window’s width.
+        # Pressing up will shrink the window’s height.
+        # Pressing down will grow the window’s height.
+        bindsym j resize shrink width 10 px or 10 ppt
+        bindsym k resize grow height 10 px or 10 ppt
+        bindsym l resize shrink height 10 px or 10 ppt
+        bindsym semicolon resize grow width 10 px or 10 ppt
+&nbsp;
+        # same bindings, but for the arrow keys
+        bindsym Left resize shrink width 10 px or 10 ppt
+        bindsym Down resize grow height 10 px or 10 ppt
+        bindsym Up resize shrink height 10 px or 10 ppt
+        bindsym Right resize grow width 10 px or 10 ppt
+&nbsp;
+        # back to normal: Enter or Escape
+        bindsym Return mode &quot;default&quot;
+        bindsym Escape mode &quot;default&quot;
+}
+&nbsp;
+bindsym $mod+r mode &quot;resize&quot;
+&nbsp;
+# Colors Palette
+set $base0 		#839496
+set $base1 		#93A1A1
+set $base2 		#EEE8D5
+set $base3 		#FDF6E3
+set $base03		#002B36
+set $base00		#657B83
+set $base01 	        #586E75
+set $base02		#073642
+&nbsp;
+set $blue		#268BD2
+set $black 		#252936
+set $cyan		#2AA198
+set $green 		#859900
+set $green2		#073642
+set $red 		#DC322F
+set $magenta 	        #D33682
+set $orange		#CB4B16
+set $violet		#6C71C4
+set $yellow		#B58900
+set $white 		#FFFFFF
+set $white1		#EEE8D5
+set $white2		#F1F2F6
+&nbsp;
+set $color_wondow_focused 	#002B36
+set $color_window_nofocus 	#252936
+#                         border 				background 				text    	indicator
+client.focused            $color_wondow_focused	$color_wondow_focused	$white2		$white2
+client.unfocused          $color_window_nofocus	$color_window_nofocus	$base00		$base0F
+client.urgent             $base02	$base08		$base00		$base0F
+new_window normal 6
+&nbsp;
+client.background #eee8d5
+# Make title bold
+for_window [class=&quot;.*&quot;] title_format &quot;&lt;b&gt;&lt;i&gt;%title&lt;/i&gt;&lt;/b&gt;&quot;
+&nbsp;
+## Top bar
+###############################################
+#bar {
+#	id bar-1
+#    mode dock
+#	position top
+#	workspace_buttons no
+#    font pango:FontAwesome 10
+#    colors {
+#        background  $white2
+#        statusline  $green2
+#    }
+#	status_command conky -c $HOME/.config/conky/conky_bar.conf
+#}
+## Bottom bar
+###############################################
+#bar {
+#	id bar-2
+#    position bottom
+#	font pango:FontAwesome 10
+#	strip_workspace_numbers yes
+#	separator_symbol &quot;:|:&quot;
+#    colors {
+#        background  $white2
+#        statusline  $green2
+#		#					border 		background	text
+#        focused_workspace  $green2     $green2     $white2
+#        inactive_workspace	$white2		$white2 	$green2
+#        urgent_workspace	$red		$red 		$white2
+#    }
+#	binding_mode_indicator yes
+#	status_command conky -c $HOME/.config/conky/conky_bar_bottom.conf
+#
+#}
+&nbsp;
+bar {
+    id bar-3
+    mode dock
+    position bottom
+    workspace_buttons yes
+    strip_workspace_numbers yes
+    binding_mode_indicator yes
+    font pango:FontAwesome 10
+    colors {
+        background  $white2
+        statusline  $green2
+    }
+    colors {
+        background  $white2
+        statusline  $green2
+       #                   border      background  text
+        focused_workspace  $green2     $green2     $white2
+        inactive_workspace $white2     $white2     $green2
+        urgent_workspace   $red        $red        $white2
+    }
+   binding_mode_indicator yes
+   status_command conky -c $HOME/.config/conky/conky_bar2.conf
+}
+&nbsp;
+##################################################################################
+##########                  CUSTOM SETTINGS
+#############################################@####################################
+# Use xmodmap -pke command to identify key opcodes
+# or showkey --keycodes
+## Custom Wallpaper 014
+exec_always --no-startup-id feh --bg-scale $HOME/Pictures/Wallpapers/wallpaper_021.jpg
+#archlinux-simplyblack.png
+bindsym $mod+ctrl+w exec --no-startup-id feh --randomize --bg-scale $HOME/Pictures/Wallpapers/*
+# run conky showing date and time.
+exec --no-startup-id conky -c /home/e403sa/.config/conky/conky_date.conf
+# enable click on tap
+exec_always --no-startup-id synclient VertEdgeScroll=1 TapButton1=1 TapButton2=1 TapButton3=1
+# Lock the screen
+#bindsym $mod+shift+x exec xscreensaver gleidescope -root -duration 148
+# wallpaper 101 - Arch logo onblack background
+bindsym $mod+shift+x exec i3lock -e -I 5 -i $HOME/Pictures/Wallpapers/wallpaper_094.png
+#bindsym $mod+shift+x exec i3lock
+#bindsym $mod+shift+x exec i3lock -i /$HOME/Pictures/Wallpapers/wallpaper_008.jpg
+#; exec xbacklight -set 10
+&nbsp;
+# Media keys
+#bindsym XF86MonBrightnessUp exec &quot;xbacklight -dec 5&quot;
+#bindsym XF86MonBrightnessDown exec xbacklight -dec 20
+bindsym $mod+ctrl+o exec &quot;xbacklight -dec 5&quot;
+bindsym $mod+ctrl+p exec &quot;xbacklight -inc 10&quot;
+&nbsp;
+## Touchpad controls
+# Volume up
+bindcode 123 exec amixer -q sset Master Playback Volume 2%+
+# Volume down
+bindcode 122 exec amixer -q sset Master Playback Volume 2%-
+# Volume Mute
+bindcode 121 exec amixer -q sset Master Playback Volume toggle
+&nbsp;
+# PLAY/PAUSE
+#bindcode 164
+# NEXT
+#bindcode 163
+# PREV
+#bindcode 165
+# STOP
+#bindcode 166
+&nbsp;
+# Z-z-z
+#bindcode 240
+# Plane mode
+#bindcode 247
+# Fn + F3
+#bindcode 215
+# Fn + F4
+#bindcode 150
+&nbsp;
+## Take Screenshot
+#bindcode 107 exec &quot;i3-nagbar -t warning -m 'Screenshot'&quot;
+bindcode 107 exec scrot 'Screenshot_%Y-%h-%d_%H:%M:%S.png' -e 'mv $f ~/Pictures/screenshots/'
+## Capture Camera
+bindcode Shift+107 exec fswebcam -c ~/.config/fswebcam/fswebcam.conf
+&nbsp;
+## Launch file browser
+bindsym $mod+ctrl+f exec thunar
+## Launch Chrome browser
+bindsym $mod+ctrl+b exec chromium
+## Launch Sublime text editor
+bindsym $mod+ctrl+t exec $HOME/Software/sublime-text/sublime-text.sh
+## Launch chrome calculator
+bindsym $mod+ctrl+c exec xcalc
+## Launch calendar
+bindsym $mod+ctrl+d exec orage
+## Dropbox
+exec --no-startup-id dropbox 
+#exec conky -c $HOME/.config/conky/conky_cal
+## Blank screen after 5 minutes
+exec --no-startup-id xset s 400 600
+exec --no-startup-id xfce4-power-manager
+&nbsp;
+# Complex key binds - press mod+o, then selection followed by Enter key.
+set $mode_launcher Launch: Chrome Thunderbird Excel Word Music
+mode &quot;$mode_launcher&quot; {
+	bindsym c exec chromium
+	bindsym t exec thunderbird
+    bindsym e exec et
+    bindsym w exec wps
+    bindsym m exec clementine
+    bindsym q mode &quot;default&quot;
+	bindsym Escape mode &quot;default&quot;
+	bindsym Return mode &quot;default&quot;
+}
+bindsym $mod+o mode &quot;$mode_launcher&quot;
+# pacman -Rns $(pacman -Qtdq)

@@ -1,0 +1,15 @@
+Monday  April 20, 2015. 18:39
+====== FORMATTING ======
+
+//use descriptive level 1 headline //
+====== LEVEL 1 HEADLINE ======
+===== Level 2 Headline =====
+==== LEVEL 3 HEADLINE ====
+=== Level 4 Headline ===
+== LEVEL 5 HEADLINE ==
+
+exam keys icons
+:examkey: :KEY:
+
+
+

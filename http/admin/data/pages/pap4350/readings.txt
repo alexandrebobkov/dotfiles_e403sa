@@ -1,0 +1,120 @@
+====== READINGS ======
+
+[[#Top Reasons Projects Fail]] \\
+[[#The Manager, the Organization, and the Team]]
+
+
+----
+===== Understanding Project Management =====
+
+**Project** - series of activities and tasks that:
+  * have a specific objective and specifications;
+  * have a defined time span;
+  * have a funding limits;
+  * consume resources;
+  * consist of multi-functional tasks;
+
+==== 5 Stages of Project Management ====
+  - Initiation
+    * selecting the optimal project under given resource limits;
+    * preparation of the documents to start the project;
+    * assigning responsible person.
+  - Planning
+    * defining the work requirements, quality and quantity of work, and required resources;
+    * scheduling activities & evaluating risks. 
+  - Execution
+    * directing and managing the work. 
+  - Monitoring & Control
+    * tracking the progress by comparing actual performance against planned;
+    * analyzing variances and impacts;
+  - Termination
+    * verifying the completion of the work;
+    * closure of associated documents;
+
+**Project Success** - completion of project within:
+  * time, cost, desired performance, prescribed use of resources, acceptance by the client, as well as;
+  * minimum change in scope of work, disturbance, and affect on the organizational culture.
+
+**Project Management** - planning, organizing, directing, and controlling of company resources for an objective that has been established to complete specific goals and objectives.
+
+Project management utilizes vertical and horizontal hierarchy.
+
+==== 5 Functions of Management ====
+  - Planning
+  - Organizing
+  - Staffing
+  - Controlling
+  - Directing
+
+==== 3 Project Constraints ====
+  - time
+  - cost
+  - performance
+
+//Project manager controls resources on a given activity within mentioned project constraints.//
+
+**Project deliverables** are project outcomes that can be measured (possess tangible properties).
+
+==== 6 Categories of Resources ====
+  - Money
+  - People
+  - Equipment
+  - Facilities
+  - Materials
+  - Information Technology
+
+<WRAP center round important 60%>
+Project managers negotiate the use of resources with line managers since later ones have control over them.
+</WRAP>
+
+Project managers work with the functional managers, whose roles are:
+  * define __how__ the task will be done, and __where__;
+  * provide sufficient resources to accomplish project's constraints;
+  * provide deliverables;
+
+In other words, //project managers// __identify the requirements__ for the project, while the //line managers// __identify technicalities__ of the project.
+
+Projects can be classified by the levels of:
+  * skills required;
+  * conflict intensity;
+  * control;
+  * planning.
+
+----
+===== Top Reasons Projects Fail =====
+
+  - Annoying Senior Management
+    * uncertainty about project performance;
+    * possess specific experience; \\ __**-> SOLUTION**__ 
+    * provide reports that contain __information asked by management__;
+    * set up a review schedule;
+    * plan in advance; 
+  - Unrealistic Schedules \\ __**-> SOLUTION**__ 
+    * produce work breakdown structure and network diagramming;
+    * produce impact analysis;
+    * determine critical path or amount of time required for completion; 
+    * crash or fast track tasks -> add resources, multitask, loosen scope of work.
+  - Underestimating the Impact of Changes \\ __**-> SOLUTION**__ 
+    * extension of time, cost or reduction of scope of work compared to one originally required;
+    * know cost-time-scope relationship;
+    * involve all stakeholders in planning the project;
+    * communicate info on changes to all stakeholders; 
+  - Unclear Scope of Work \\ __**-> SOLUTION**__ 
+    * create detailed scope description and have it formally approved;
+    * for long-duration projects -> assess work at each milestone;
+    * ask client their expectations in details; 
+    * require management to sign-off changes in scope;
+    * check customer satisfaction during the project;
+  - Lack of Risk Management \\ __**-> SOLUTION**__ 
+    * make a list of all problems the project team had in the past;
+    * eliminate potential risks before they occur; 
+
+----
+===== The Manager, the Organization, and the Team =====
+
+
+
+
+
+
+Created on: 2016/01/15 19:00

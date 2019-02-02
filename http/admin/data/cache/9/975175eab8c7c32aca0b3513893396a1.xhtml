@@ -1,0 +1,40 @@
+<ul>
+<li class="level1"><div class="li"> to display <abbr title="Operating System">OS</abbr> release version and hostname → uname -a &amp;&amp; lsb_release -a</div>
+</li>
+</ul>
+
+<h5 id="to_obtain_the_information_about_hardware">To obtain the information about hardware</h5>
+<div class="level5">
+<ul>
+<li class="level1"><div class="li"> lscpu</div>
+</li>
+<li class="level1"><div class="li"> sudo lshw -short</div>
+</li>
+<li class="level1"><div class="li"> sudo dmidecode -t processor</div>
+</li>
+<li class="level1"><div class="li"> sudo dmidecode -t memory</div>
+</li>
+<li class="level1"><div class="li"> sudo hdparm -i /dev/sda</div>
+</li>
+<li class="level1"><div class="li"> lspci</div>
+</li>
+<li class="level1"><div class="li"> lsusb</div>
+</li>
+<li class="level1"><div class="li"> lsblk</div>
+</li>
+<li class="level1"><div class="li"> df</div>
+</li>
+<li class="level1"><div class="li"> fdisk </div>
+</li>
+</ul>
+
+</div>
+
+<h5 id="to_remove_orphaned_packages_on_arch">To remove orphaned packages on Arch</h5>
+<div class="level5">
+
+<p>
+sudo pacman -Rns $(pacman -Qtdq)
+</p>
+
+</div>

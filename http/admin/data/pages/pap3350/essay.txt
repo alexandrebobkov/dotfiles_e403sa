@@ -1,0 +1,42 @@
+PAP3350 - Public Policy Development
+
+Tuesday  November 10, 2015. 11:58
+
+====== ESSAY ======
+
+  - kids
+    * narrative dialogues;
+    * demographics
+    * stats and graphs
+  - families
+    * narrative dialogues;
+    * demographics
+    * stats and graphs
+  - parenting
+  - schooling
+
+**//talk about stages of policy cycle and make analogy from the book//**
+
+__Notes:__
+  * analysis used
+  * types of evidence
+
+__Introduction:__ \\
+The book “Our Kids. The American Dream in Crisis” by Robert D. Putnam is important for the context of studying public policy cycles. In particular, this book helps to understand the practical approach to analyzing the social phenomenon at various levels of focus. In his book, Robert D. Putnam touches on the context of theoretical approaches to policy studies. For instance, author implements analysis at a different levels: individual, microcosm and institutional. In addition, author uses both qualitative and quantitative information to conduct the analysis. In general, book can be viewed as a technical guide of applying [Stage 1] stage of policy cycle.
+
+From Putnam book we can refer to such concepts as //public choice// theory, //group and class// theory as well as //pluralism// and //class analysis//. These theories differ in their unit of analysis used. Public choice theory focuses on the micro-level behavior of individuals (p. 31); group and class theory - on collectivity (the interactions between individuals and state); institutionalism - on strictures. Correspondingly, book touches on the approaches of public choice, group analysis, and statism.
+
+Book projects the general methods of approaching the of analysis of social phenomenon. 
+
+__1. Central topic:__ \\
+The author of the book claims that over the last several decades the concept of the American Dream is no longer evident due to the increasing opportunity gap, "growing class gap" (p. 265). Robert Putnam claims that previous generation were able to accomplish more than their parents compared to the present generation. As a result, author claims that this is the result of "diminishing opportunity" that current generation faces. In addition, the book touches on the topic of inequality in a society.
+
+Author makes an assumption that all kids have equal access to the advise influential on their future; "shopkeepers, teachers, pastors, principles, and coaches offered advise, opportunity, and support to all kids - rich or poor, black or white" (p. 264). This, in my mind, is not entirely correct because adults may be biased about the advise they give to different kids.
+
+__Approach:__ \\
+The author uses both qualitative and quantitative methods to support main topic. Author to examines the lives that children lived and the accomplishments they made throughout their life. 
+
+Using two methods of analysis allows to form complete picture about the phenomenon. Qualitative research is based on the numerical evidences of growing opportunity gap (p.263). Use of qualitative data allows to form explanations and identify causes and correlation between the variables of research (for example, income, age, etc). The limitation of quantitative data is that it cannot describe the experiences that kids were going through during early stages of their lives.
+
+__Sampling__ \\
+In order to collect information, author conducted sampling of the population. Sample was formed by taking into account kids across the country. Sample was formed based on the algorithm of a "quarter" model; ensuring gender equality; working-class girl and her mother plus one upper-middle-class girl and her mother matched with one working-class boy and his father plus one upper-middle-class boy and his father. As a consequence, the gender ratio was kept consistent. The benefit of this approach is that it allowed to see the lives kids lived based on the social class. The research was undergoing for two years and involved interviewing 107 young adults (p. 265). Given that the book main argument is about growing class gap, the sampling was divided into two subsamples corresponding to upper-middle-class and working-class respondents.

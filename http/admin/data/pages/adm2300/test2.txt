@@ -1,0 +1,105 @@
+====== TEST 2 ======
+
+Oct 2 - Nov 4
+
+The Socio-political Context of Public Administration. ([[#ch. 3]] & [[#ch. 4]]) \\
+Public Administration and Budgets. ([[#ch. 6]]) \\
+Human Resource Management. (ch. 7) \\
+A Separate Public Administration? Aboriginals and the Canadian State. \\
+
+===== ch. 3 Institutions of Governance =====
+
+Decision-making authorities: prime minister, cabinet, government departments, senior management of the public service, cabinet committees, and central agencies.
+
+==== The Political Executive ====
+
+===== ch. 6 Financial Management =====
+
+**Parliamentary budget officer (PBO)** - provides independent financial analysis.
+
+==== Traditional Elements of Financial Management ====
+**Revenue budget** - responsibility of the prime minister and the minister of finance; sets how money are raised to sustain the operations of government. \\
+**Expenditure budget** - responsibility of officials from every department and agency.
+
+Ideal budget contains 3 elements: control, provision of management information, and planning.
+
+=== Budgetary Incrementalism ===
+**line-item budgeting**
+  * lists items;
+  * developed from the bottom up;
+  * most easily prepared by middle managers;
+
+__Advantages__
+  * stability in budgeting - next year budget will be a revision of current year budget;
+  * don't need to negotiate;
+  * easy and time efficient.
+
+__Disadvantages__
+  * limited planning value;
+  * provides limited info to evaluate quality;
+  * doesn't allow to assess efficiency;
+  * a backward-looking document.
+
+=== Performance Budgeting ===
+**defines relationship between financial inputs and outputs**
+
+__Advantages__
+  * permits efficiency evaluation;
+
+__Disadvantages__
+  * can be applied only to services that are easily quantifiable;
+  * quantifiable analysis doesn't reveal quality;
+  * provides crude efficiency indicators.
+
+=== Budgetary Rationalism: PPBS ===
+**links financial inputs to policy and program outputs**
+
+**Planning-Programming-Budgeting System (PPBS)**
+  * planning - developed based on established policy priorities and objectives;
+  * programming - conceptualization of operational means to meet objectives;
+  * budgeting - establishment of multi-year funding.
+  * links strategic planning and prioritization with operational management concerns
+  * problematic to set priorities across the government (each department can rationalize reasons for own priority)
+  * decision-making powers rest in hands of senior managers within organizations and central agencies
+
+__6 essential concepts of PPBS__
+  - specify objectives
+  - clarify and assess the ways to meet objectives
+  - frame budget proposals
+  - project costs over a number of years
+  - formalize plans of actions for each program
+  - develop info system for each program to control it
+
+  * A budget
+    * funding of all existing and approved programs
+  * B budget
+    * new policy & programs undertakings with their implications
+  * X budget
+    * least important items that could be eliminated without significant harm to general priorities
+
+** Policy and Expenditure Management System (PEMS)**
+
+  * modified PPBS that integrates planning, programming, and financial allocation to give ministers and departments greater control over their budgets;
+  * government sets broad policies along with revenue and expenditure projections;
+  * fiscal plan is the foundation for funding allocation.
+
+** Expenditure Management System (EMS) **
+  * budget plan - multi-year funding for al departments and agencies;
+  * reference level - funding of a new initiative from existing money;
+  * contingency and operating reserve - emergency spendings
+
+** Expenditure Management Information System **
+  * built on EMS framework;
+  * designed to give departments and agencies greater control over spending and priority setting;
+  * government-wide capacity to integrate priorities;
+  * puts in place neccessary analytical tools;
+  * improved reporting;
+  * improved communication;
+
+
+
+
+
+
+
+Created on: 2015/11/04 22:18

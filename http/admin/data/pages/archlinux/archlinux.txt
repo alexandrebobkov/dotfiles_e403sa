@@ -1,0 +1,13 @@
+====== ARCH LINUX ======
+
+[[archlinux:archlinux_customization|Customization]] \\
+[[archlinux:archlinux_shell|Shell]] \\
+
+{{:arch_linux:screenshot_2017-feb-06_03_02_21.png?nolink&800 |}} \\
+
+
+
+
+
+
+Created on: 2017/02/09 00:51

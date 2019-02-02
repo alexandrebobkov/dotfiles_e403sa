@@ -1,0 +1,37 @@
+====== WEBSITE ======
+
+[[web:Lectures|Lectures]] \\
+[[web:Readings|Readings]] \\
+[[web:Review|Review]] \\
+
+===== Home Page =====
+  - an intuitive navigation bar;
+  - define a unique position to separate from direct competitors:
+    - a clear niche;
+    - why are you different?
+  - create a personal connection with the targeted audience;
+  - **complete call to action**: guide visitor to the most relevant path;
+  - motivate visitors to browse through the website;
+  - social proof: testimonials;
+  - relevant blog posts: address specific points that might be top of mind for the target audience;
+  - site links: list some of the most important pages and social links in the footer;
+  - scannability: plenty of white space without being overwhelmed by text;
+
+===== Service Page =====
+  - Google-friendly headline: clear & concise headline, use of keywords, header wraps and tags;
+  - effectively communicate what the services are, how they are performed, and what could be achieved;
+  - mention what you do, how you do it, and describe the results;
+  - weed out potential bad fits;
+  - make use of numbers: display some relevant statistics, display number of clients, the number of times a particular service was performed, etc.;
+  - drive good prospects into the sales funnel: encourage them to take some action to connect with the firm;
+  - **pricing**: put a price range;
+
+===== About Page =====
+  - differentiate the firm, beyond positioning, through personal characteristics that a prospect might connect with;
+  - give prospects a sense of the firm culture;
+  - reveal what the firm stands for, along with any relevant historical context about why that's important to the firm.
+
+
+
+
+Created on: 2018/02/07 15:27

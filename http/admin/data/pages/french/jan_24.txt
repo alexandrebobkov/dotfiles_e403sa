@@ -1,0 +1,49 @@
+====== JAN 24 ======
+
+East -> Est \\
+Weast -> Ouest \\
+South -> Sud \\
+North -> Nord \\
+
+right -> droite \\
+gaucge -> left \\
+
+
+ly -> ent \\
+et -> "ay" as in "say" \\
+é -> "ay" as in "say" \\
+oi -> wa; oiseau -> bird \\
+s -> "s" or "z" \\
+c -> s or k \\
+ou -> "oo" \\
+an + en \\
+
+mainville; natacion; nageur -> swimmer; ici -> here; heart -> coeur; deniere;
+
+<WRAP center round box 60%>
+Comment ca va? Ca va bien.
+
+Est-ce que tu es une etudiane?
+
+Est-ce que tu es né ici à Ottawa?
+
+Je parle juste un peu francais.
+
+Puvrez-vous repeter svp?
+
+You're welcome -> de rien.
+
+Can you calculate for me? -> Est-ce que tu peux calculer poir moi?
+
+D'oú viens-tu?
+
+</WRAP>
+
+
+
+
+
+
+
+
+Created on: 2016/01/26 08:45

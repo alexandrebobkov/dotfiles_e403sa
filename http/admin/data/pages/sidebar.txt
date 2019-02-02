@@ -1,0 +1,41 @@
+**__NAVIGATION__**
+-----
+:home: **[[start|HOME]]**
+-----
+:doc: **__QUICK LIST__**
+  * // ** I. Near Future ** //
+    - [[academics:carleton|Public. Admin]]
+    - [[finances|Finances]]
+    - 
+  * // ** II. Marketing ** //
+    - 
+    - [[marketing:leads|Leads]]
+    - [[marketing:web|Website]]
+  * // ** III. ** //
+    -
+    - [[cra:volunteer|CRA Volunteer Program]]\\
+    -
+  * // ** IV. Computing ** //
+    - [[archlinux:archlinux|Arch Linux]]\\
+    - 
+    - 
+
+----
+[[sidebar|go to sidebar]]
+----
+
+**__REFERENCES__**
+
+[[http://www.madtownagency.com/|madtown]]\\
+[[wiki:syntax|syntax page]] \\
+[[https://www.dokuwiki.org/config|Config]] \\
+[[https://www.dokuwiki.org/namespace_templates|Templates]] \\
+[[formatting]] :*: \\
+[[http://publications.gc.ca/site/eng/home.html|Publications Canada]] \\
+----
+
+:music: **__MUSIC__**
+  * [[https://youtu.be/QROR4LioU-8|Die Fledermaus Overture]] :*: \\
+  * [[https://youtu.be/Xa30dBpOjyI|Smooth Jazz]] \\
+  * [[https://youtu.be/L08DFwFypaI?t=4m9s]] \\
+  * [[https://www.youtube.com/watch?v=KJwB0hIiwYM|Saldo Maldo]] \\

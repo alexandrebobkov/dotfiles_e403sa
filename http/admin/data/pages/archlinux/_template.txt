@@ -1,0 +1,4 @@
+====== @PAGE@ ======
+
+@DATE@ \\
+//Arch Linux//

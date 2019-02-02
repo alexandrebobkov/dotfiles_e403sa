@@ -1,0 +1,244 @@
+[[adm2300:essay|Term-Paper]] \\
+[[adm2300:test2|Test #2]] \\
+[[#Lecture 0]] \\
+[[#Lecture 1]] \\
+[[#Lecture 2]] \\
+[[#Lecture 3]] \\
+[[#Lecture 4]] \\
+[[#Lecture 5]] \\
+[[adm2300:Review]] \\
+
+====== Lecture 0 ======
+//September 9, 2015//
+
+**Textbook:** Thinking Government: Public Administration and Politics in Canada. 3rd edition.
+
+====== Lecture 1 ======
+//September 11, 2015//
+
+===== What is Public Administration? =====
+  - formal separation of politics and administration
+  - bureaucracy general tasks: typology
+  - leadership & public administration: who sets goals
+
+**Bureaucracies** are the machinery of government that play a significant role in providing order and information (know what to do and act).
+
+Periods of growth:
+  - Absolutist
+  - Shift to constitution-based forms
+  - Development of administration: constitution-making process.
+
+Start of Public Administration:
+  - German and France scholars interested in machinery of government.
+  - American scholars were concerned in regards to unitary states; ignited concerns over public administration.
+  - U.K. - social scholars who believed in gradual reform of politics to improve people's lives.
+
+Factors that caused increase of attention to Public Administration:
+  - the raise of labour markets;
+  - industrialization;
+  - urbanization.
+
+==== General Tasks of Bureaucrats ====
+  - Regulate
+  - Social welfare
+  - Regional development
+
+Tasks are shaped by public sentiment and paradigm of the policy choices.
+
+**Does public leadership matter to public administration?**
+
+__YES__
+  * vision needs to be present in order to assess and achieve the goals;
+  * strong character leads to the effective use of people, communication and trust.
+
+__NO__
+  * perception is everything in politics;
+  * good and bad traits can be a matter of spin;
+  * increased concern about managing crisises;
+  * incompetent ministers;
+  * complexity and size of bureaucracies make it difficult to determine who is responsible for what (even good leader does not know);
+
+====== Lecture 2 ======
+//September 16, 2015//
+
+===== The Theories and Logic of Public Administration =====
+  * public vs. private sector
+  * structural-mechanics vs. organic-humanistic models
+  * theoretical approaches to public administration
+
+==== Public vs. Private ====
+**Similarities of both sectors**
+  * considerable size;
+  * organized along hierarchy;
+  * management defines, co-ordinates & directs resources towards the achievement of a set goals;
+  * interact with multiple organizations;
+  * organizational complexity;
+  * manage relations with other organizations in order to achieve goals;
+  * organizations can have multiple roles;
+  * have finite resources (human and financial);
+  * innovation is not given.
+
+=== Features of the private sector ===
+  * main goals in achieving a profit;
+  * all efforts oriented towards making $$$;
+  * private sector has competition;
+  * short-term orientation (fiscal quarters);
+  * profitability gauges success or failure;
+  * private organizations retain managers who retain profits;
+  * if firm goes under, it is taken over by other profitable firm(s);
+  * rights do not exist in the private sector;
+  * relationship is purely transactional (salesman are best friends until you have $$$);
+  * managers and employees work towards profitability;
+  * clear chain of commands;
+  * consumers/clients who have $$$ are served, and even then service can be refused (i.e. Ferrarri's waiting list);
+  * principle of property ensures that commercial secret is not subject to public scrutiny;
+  * no interest is served beyond the firm's interest.
+
+=== Features of the public sector ===
+  * numerous goals due to the principle of serving to the public;
+  * no competitors - states don't go under;
+  * public services & goods meet the needs of the public as set out by an elected government;
+  * success/failure is measured politically and administratively;
+  * qualitative assessment of the public sector;
+  * qualitative assessments depend on perspectives and on what is being measured: assessments are not absolute (ex.: people would complain about quality of services rather than the price of services being rendered);
+  * no bottom line in public sector;
+  * difficult to evaluate public sector;
+  * economic considerations are not necessarily the primary concern;
+  * transactional relationships ruled out by serving citizens with rights and obligation;
+  * long-term orientation;
+  * public sector is legally obligated to serve everyone - citizens have legal equality;
+  * dysfunctional department/agency is the one that does not serve public well - it gets closed down, and another agency with different goals is opened instead.
+  * population is __not__ tax payers - but citizens who enjoy formal legal equality;
+  * controversies erupt when groups are being improperly served by the public sector;
+  * public sector is legally accountable for its actions through freedom of information (FOI);
+  * successful FOI requires agencies to disclose files;
+  * messy chian of commands;
+  * legal obligations and traditions require public servants to:
+    * serve the public in a reputable manner;
+    * treat their profession with respect;
+    * promote the interests of the public service.
+====== Lecture 3 ======
+//September 18, 2015//
+====== Lecture 4 ======
+//September 23, 2015//
+====== Lecture 5 ======
+** Midterm #1 **
+
+//September 25, 2015//
+
+====== Lecture 12 ======
+//October 21, 2015//
+
+__Recap: Reforming and Renewing the Public Service__
+  * demoralization of the Public Service;
+  * Program Review suggested departments to assess activities and make them more efficient;
+  * specialized programs were developed;
+  * key change -> appointment of officials;
+  * controversial -> PCO took more corporate approach to departments by encouraging generalists rather than specialists;
+  * central agencies -> take active role;
+
+===== Public Service Modernization Act, 2003 =====
+  * greater control over in hiring and advertising jobs;
+  * qualified candidates over best;
+  * departmental HR plans approved by the PSC and reviewed by the CHRO;
+  * strengthens accountability;
+  * stimulates collaborative approach to labour relations;
+
+===== A Representative Public Service? =====
+  * idea came from representative public service -> it should reflect the society it serves;
+  * came up in 1960s -> John Porter's //The Vertical Mosaic//;
+  * rise of women's and Aboriginal movements, multiculturalism policy, national sentiment;
+  * => public service should reflect whom it serves;
+  * PS concern -> recognize equity and __representation of society__;
+
+===== Roots of Bilingualism and Bicultiralism =====
+  * Canada -> bilingual and bicultural country;
+  * only French and English linguistic communities enjoy constitutional standing;
+  * French Canadians were marginalized in business and government;
+  * poor representation of French Canadians in the Public Service -> spoken English was required in order to enter senior positions;
+  * Commission was formed -> (1) French and English Canada's official language; (2) the City of Ottawa a bilingual city as a way to create a more equal partnership between the two studies;
+  * Quebec's Quiet Revolution -> contributed to the concerns over the absence of French in the Public Service;
+  * Quebecois nationalists felt Ottawa and federalism were not advancing their interests;
+
+===== Establishing a Bilingual Public Service =====
+  * Glassco Commission -> investigated making improvements to public sector service and management, endorsed the idea of making a career in the public service attractive to anglophones and francophones;
+  * Tudeau's political ideals -> -> Official Languages Act of 1969 (was very paranoic about it); __it is a federal piece of the legislation__; **//only applies to the Federal government//**;
+  * recognized Canada with two official languages, equal in status, rights, and privileges;
+  * Canadians can work in the language of their __choice__ and opportunities for advancement will be provided;
+  * Canadians can be serves in the language of their choice;
+  * Ottawa is committed to supporting the vitality
+  * Quebec -> home of French Canadian -> why should they feel home in Quebec only, but no other province?? of French and English linguistic minorities across Canada;
+  * historically, Quebec is __home__ of French Canadian;
+
+==== Results ====
+  * French Canadians are over-represented because they are more likely to be bilingual than English Canadian;
+  * historically, learning English was a matter of survival in the business world for French Canadians;
+  * Quebec and New Brunswick (the only province that accepted bilingualism at provincial level) are the most bilingual provinces;
+  * Quebec encouraged learning English;
+  * classification: A - beginner .... C - advanced;
+  * 60% of positions are English-essential, and 40% are bilingual;
+  * discrimination against French Canadians has been eliminated in the Public Service;
+  * English Canadians are unable to maintain competency in French (largest problem);
+
+===== Pay Equity in the Public Service =====
+  * women in the Public Service traditionally relegated to routine administrative positions;
+  * pink-collar jobs;
+  * equal pay for work of equal value :!:;
+  * __women's work__ undervalued because certain positions have been traditionally filled by woman;
+  * traditionally, woman had smaller pay because husband was making significantly more;
+  * job requirements for both genders have been similar;
+  * Canadian Human Rights Act, s.11 -> endorsed pay equity;
+  * Ottawa refused to respect sec.11 until it was taken to court by ;
+  * pay equity is now a matter that is negotiated during collective bargaining;
+
+===== Why Employment Equity? =====
+  * //represent who you are serving//;
+  * equitable representation;
+  * recognizing historical injustices;
+  * recognizing that non-English and non-White groups have made important contributions to Canadian life;
+
+===== Evolution of Employment Equity in the PS =====
+  * 1977d discrimination -> prohibited  discrimination with federally regulated ministries;
+  * CHRS legislation can be easily amended by the parliament;
+  * work in tandem with merit;
+
+===== Results of Equity =====
+  * many provinces/municipalities have enraced employment equity given Ottawa's role as an agenda-setter;
+  * aboriginals are underrepresented in the Public Service, nut they are often in jobs with lowers skills and educational requirements;
+  * individuals with disabilities tend to be segregated in administration support;
+  * the majority of administrative support jobs are performed by women;
+  * women are underrepresented in executive positions;
+  * younger women (in 30s) are better off;
+  * 43% of executive positions in the PS are filled by women, while 8.5% executive positions are filled by women in Canada's 100 listed companies;
+
+===== Uniqueness of Bargaining in PS =====
+  * vast majority of federal public sector workers are unionized;
+  * issues are far more limited in the private sector;
+  * seniority and merit are not up for debate (doesn't matter);
+  * employer -> both, governor and employer;
+  * strikes can have political repercussions;
+
+===== The Evolution of Collective Bargaining =====
+  * unionization and collective bargaining rights were prohibited for federal workers until 1967;
+  * crown agencies recognized unions and participated in collective bargaining;
+
+===== Parties to the Collective Bargaining Process =====
+  * the Public Service Labour Relations -> employee bargaining units;
+  * bargaining units are based on occupational groups and categories are recognized by Treasury Board and the PSC;
+  * Treasury Board -> official employer for negotiating purposes and it is assisted by senior management from departments and offices;
+  * certain categories of workers are not permitted to engage in collective bargaining;
+  * Ottawa has designation power -> fewer strikes; -> bargaining units are prohibited from going to strike;
+
+===== Choosing the System of Collective Bargaining =====
+  * bargaining units may select an arbitrator track or a conciliation/strike track;
+  * parties negotiate an agreement and a conciliator is introduced into the process whn negotiations become difficult;
+  * conciliator -> assesses both parties' positions and advises them on how they can reach an agreement within 14 days of being appointed;
+  * can't reach agreement -> third-party fact finder;
+  * fact finder -> communicates with both parties, assess positions, and provides advice -> within 30 days + reports to PSLBR;
+  * report is released within 15 days of being filed in order to encourage the two parties to reach an agreement;
+  * public perception -> is a tool in public bargaining;
+
+|  **Arbitration**  |  **Conciliation**  |
+| parties asked to agree on as many issues as possible  | either party requests a conciliation panel  |
+| remaining issues are presented to an arbitration board that is composed of each party's representative  | the panel's composition is formed by an arbitration board -> must report back in 14 days  |
+| an arbitral award is handed out once decision reached | if no solution reached within 14 days -> go on strike  |

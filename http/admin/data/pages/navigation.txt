@@ -1,0 +1,37 @@
+**__NAVIGATION__**
+----
+:home: **[[start|HOME]]**
+
+:doc: **__COURSES__**
+  * // ** Fall 2015 ** //
+    - [[ADM2300:ADM2300|ADM2300 - Public Admin]]
+    - [[PAP3350:PAP3350|PAP3350 - Public Policy]]
+    - [[PAP3370:PAP3370|PAP3370 - Theory of Organizations]]
+    - [[PAP4355:PAP4355|PAP4355 - Ethics]]
+
+  * // ** Winter 2015 ** //
+    - [[PAP2320:PAP2320|PAP2320 - Public Management]]
+    - [[SCS2150:SCS2150|SCS2150 - Intro. to Methodology]]
+    - ADM
+    - POL
+
+----
+**__ uOttawa Links __**
+
+[[https://uottawa.blackboard.com/|BlackBoard]]
+[[http://maestro.uottawa.ca/en/home/12-tlss/124-blackboard-login|Blackboard]]
+[[http://www.uottawa.ca/en/students|UOZone]]
+
+----
+
+**__REFERENCES__**
+
+[[https://www.dokuwiki.org/config|Config]]
+[[https://www.dokuwiki.org/namespace_templates|Templates]]
+[[formatting]] :*:
+----
+
+:music: **__MUSIC__**
+  * [[https://youtu.be/QROR4LioU-8|Die Fledermaus Overture]] :*:
+
+{{like>}}

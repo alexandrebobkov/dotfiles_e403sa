@@ -1,0 +1,29 @@
+====== PROJECT ======
+
+[[project:charter|Project Charter]]
+
+//Questions to Ask During Interview//
+  * get to know the company;
+  * what are the expectations (project deliverables)?
+  * what are the priorities?
+  * what's the best way to communicate?
+  * do they support the project or not?
+  * understand the client's business, priorities.
+  * look at things form client's perspective.
+
+__Tasks to do:__
+  * keep the client informed about the progress, changes and major problems
+  * provide information and insight about the job
+  * speak in terms of needs
+
+===== Project Charter =====
+  * include as a part of the final report
+  * outline project plan
+  * refer to slide #29
+
+
+
+
+
+
+Created on: 2016/01/26 19:02

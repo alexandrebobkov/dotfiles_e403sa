@@ -1,0 +1,17 @@
+====== PAP3310 ======
+
+__Tests and Exam Format__ \\
+MC & short response question (on the exam)
+  * 20-30 m/c questions
+  * 1-2 long questions; not essay type; ex.: give an example of research method; approx. max of 1 page per question -> focus on content and quality of answer.
+
+[[pap3310:Lectures|Lectures]] \\
+[[pap3310:Readings|Readings]] \\
+[[pap3310:Review|Review]] \\
+
+
+
+
+
+
+Created on: 2016/01/26 10:58

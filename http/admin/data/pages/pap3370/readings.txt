@@ -1,0 +1,155 @@
+PAP3370 - Theory of Public Organizations
+====== READINGS ======
+[[#Chapter 1]] \\
+[[#Chapter 2]] \\
+[[#Chapter 3]] \\
+[[#Chapter 6]] \\
+[[#Chapter 4]] \\ 
+[[#Chapter 5]] \\
+
+====== Chapter 1 ======
+**The Challenge of Effective Public Organization and Management**
+
+pp. 3-16 (13)
+
+The study of organizational behavior has primary origins in social psychology. Organizational behavior focuses on individual and group behaviors in organizations. It analyzes motivation, work satisfaction, leadership, etc. Organizational theory is based on sociology. It focuses on organizational environments, goals, effectiveness, decision making, structure and design.
+
+In the wake of growth of public sector in 1960s, graduate programs in public administration spread among universities. Master of Public Administration emphasize management skills and technical knowledge.
+
+//An organization// is a group of people who work together to pursue a goal. They do so by using resources from environment. Resources are transformed by tasks and technologies, which help to achieve effective performance. 
+
+//Structures// are the stable assignments and divisions of responsibility within the organization. It is achieved through means of hierarchies of authority, rules and regulations, and specialization of individuals, groups, and sub-units.
+
+//Processes// are physically observable activities.
+====== Chapter 2 ======
+**Understanding the Study of Organizations: A Historical Review**
+
+pp. 16-52 (36)
+
+=== Scientific Management. Frederick Taylor, 1919 ===
+  * 1919
+  * systematic analysis of every little act;
+  * determination to find one best way;
+  * emphasis on the efficient programming of tasks and workers;
+  * pay as the primary reward for work;
+  * criticized for negatively influencing workers morale; 
+  * in fact, felt that scientific management would benefit workers by higher pay, work quality and lesser supervision;
+
+=== Bureaucracy. Max Weber ===
+  * founder of organizational sociology;
+  * analysis of complex organizations;
+  * bureaucratic form of organization has technical advantage;
+  * follow the rules -> low motivation of employees;
+  * characteristics:
+    * fixed rules;
+    * hierarchy of authority;
+    * admin positions require expert training;
+    * management follows rules, and has expertise in own area;
+    * management is employed full-time.
+
+=== Administrative Management, 1958 ===
+== Gulick's "Notes on the Theory of Organization", 1937 ==
+    * need for clearly-defined specializations, that allow consistent fulfillment of tasks; specialization has to be broad enough to avoid worker idle;
+    * work is to be coordinated;
+    * span of control: "can't serve to more than one master"; 
+    * 3 principles:
+      - subordinates to report to 1 supervisor; span of control to be kept narrow (1 supervisor -> 6 to 10 subordinates);
+      - each subordinate to have only one supervisor;
+      - technical efficiency - group tasks by similarity (into homogeneous groups).
+    * division of management and administration;
+    * **P**lanning, **O**rganizing, **S**taffing, **D**irecting, **CO**rdinating, **R**eporting, **B**udgeting.
+== Mooney's "The Scalar Principle", 1930 ==
+     * organization is like a scale that can be graded into series of steps
+     * principles:
+      - leadership - supreme coordinating authority;
+      - delegation - higher levels assign authority to lower levels;
+      - function - each person is assigned a specific task.
+
+=== The Hawthorne Studies ===
+  * series of experiments at the Hawthorne plant in the mid-1920s;
+  * emphasizes social influences, informal processes, and the motivating power of attention;
+  * realized distinction between formal and informal organization (unofficial social process within the organization such as norms and standards);
+  * importance of social and psychological factors in the workplace;
+
+=== The Inducements-Contributions Equilibrium & Limits of rationality, Chester & Herbert ===
+== Bernard's "Functions of the Executive" ==
+  * criticized the administrative management school
+  * according to Bernard, __organization__ //is a system of  consciously coordinated activities or forces of two or more person// (1938).
+  * organization is an economy of incentives that make individuals to contribute their participation and efforts (i.e. power, prestige, fulfillment of ideas, etc.);
+  * executive must use communication channels to influence workers' subjective valuation of incentives;
+  * formal- and informal organizations are interrelated;
+
+== Simon's "Proverbs of Administration", 1946 ==
+  * criticized the administrative management school;
+  * specialization by function is not a must;
+  * span of control can be widened if necessary;
+
+=== Human Relations ===
+== Maslow's Hierarchy ==
+== Theory Y ==
+  * workers are self-motivated to advance within the organization;
+
+=== Open-Systems Approaches & Contingency Theory ===
+  * more elaborate view of organizations;
+  * organizations adopt different forms under different circumstances;
+  * organizations is a system of interdependent social and technical subsystems that tend to form an equilibrium;
+  * organizations are ongoing systems that seek to maintain equilibrium in response to disturbances coming from external environment;
+  * effective organizations adapt their structures to contingencies;
+  * organizations classification by Burns & Stalker:
+    - __organic organizations__ -> flexible, with less emphasis on communication & chain of command, job descriptions and organizational charts; more emphasis on networking and flexible work assignments.
+    - __mechanic organizations__ -> bureaucratic, designed along the lines of the classical approaches;
+  * organizations with routine tasks have more formal, centralized structures;
+  * non-routine tasks must have more flexible structures.
+====== Chapter 3 ======
+**What Makes Public Organizations Distinctive**
+
+pp. 53-85 (32)
+====== Chapter 4 ======
+**Analyzing the Environment of Public Organizations**
+
+pp. 86-108 (22) 
+
+Conditions:
+  - Technological - general level of knowledge.
+  - Legal - laws, regulations, procedures, etc.
+  - Political - general form of government and political environment.
+  - Economic - inflation, interest rates, tax rates, etc.
+  - Demographic - population characteristics.
+  - Ecological - climate, geography, natural resources, etc.
+  - Cultural - values, attitudes, beliefs, social customs, etc.
+====== Chapter 5 ======
+**The Impact of Political Power and Public Policy**
+
+pp. 109-145 (36)
+
+  - Chief Executives: greatest formal power over the public bureaucracies in their jurisdictions.
+    * budgeting authority
+    * policy initiatives and executive orders
+  - Legislative Bodies: have formal powers and authority to control agency budgets, pass legislation that authorize and directs agency actions.
+  - Courts: exert control over the public bureaucracy; ultimate check on the power of the public bureaucracy.
+  - Government Agencies
+  - Other Levels of Government
+  - Interest Groups
+  - Policy Subsystems & Policy Communities
+  - Media
+  - General Public Opinion
+  - Citizens
+
+//Mass publics// - broad population. \\
+//Attentive publics// - organized groups that are interested in specific agencies. \\
+Public organizations need support from both //publics//.
+====== Chapter 6 ======
+**Organizational Goals and Effectiveness**
+
+pp. 146 - 172 (26)
+
+== Models for Assessing Organizational Effectiveness ==
+  - **The Goal Approach**
+  - **The Systems-Resource Approach**
+  - **Participant-Satisfaction Models**
+  - **HR & Internal Process Models**
+  - **Government Performance Project**
+
+== The Competing Values Approach ==
+== Balanced Scorecard ==
+

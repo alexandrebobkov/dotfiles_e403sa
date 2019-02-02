@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg7384" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" height="16" width="16" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata90">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>Gnome Symbolic Icon Theme</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <title id="title9167">Gnome Symbolic Icon Theme</title>
+ <g id="layer9" transform="translate(-161 -177)">
+  <circle id="path6125" cy="190" cx="169" r="2" style="opacity:0.32;color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#bebebe"/>
+  <path id="rect11714-6" style="opacity:0.32;color:#000000;fill:#bebebe" d="m169 179c-2.8142 0-5.1717 1-7 2.5856v1.4144h1.4807c1.5193-1.2647 3.2194-2 5.5193-2s4 0.77953 5.5193 2h1.4807v-1.3813c-1.6404-1.4658-4.1858-2.6187-7-2.6187z"/>
+  <path id="rect11703-65" d="m169 182c-1.5039 0-2.8603 0.36049-3.875 1h7.6875c-1.021-0.62695-2.3505-1-3.8125-1z" style="opacity:0.32;color:#000000;fill:#bebebe"/>
+  <rect id="rect11508" style="color-rendering:auto;color:#000000;shape-rendering:auto;solid-color:#000000;fill:#bebebe;mix-blend-mode:normal;image-rendering:auto;isolation:auto;paint-order:normal;enable-background:new;display:block" rx="1.4961" ry="1.4961" height="3.0078" width="3.0078" y="184" x="163.49"/>
+  <rect id="rect11510" style="color-rendering:auto;color:#000000;shape-rendering:auto;solid-color:#000000;fill:#bebebe;mix-blend-mode:normal;image-rendering:auto;isolation:auto;paint-order:normal;enable-background:new;display:block" rx="1.4961" ry="1.4961" height="3.0078" width="3.0078" y="184" x="167.49"/>
+  <rect id="rect11512" style="color-rendering:auto;color:#000000;shape-rendering:auto;solid-color:#000000;fill:#bebebe;mix-blend-mode:normal;image-rendering:auto;isolation:auto;paint-order:normal;enable-background:new;display:block" rx="1.4961" ry="1.4961" height="3.0078" width="3.0078" y="184" x="171.49"/>
+ </g>
+</svg>

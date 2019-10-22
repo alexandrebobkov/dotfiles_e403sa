@@ -192,7 +192,7 @@ for_window [title="galculator"] floating enable border pixel 5
 for_window [class="Firefox"] border pixel 0
 for_window [class="Min"] border pixel 0
 for_window [class="Chromium"] border pixel 3
-for_window [class="Xfce4-terminal"] border pixel 3
+for_window [class="Xfce4-terminal"] border pixel 15
 #for_window [class="Xfce4-terminal"] floating enable border normal
 new_window pixel 3
 
@@ -254,7 +254,8 @@ set $white2	#F1F2F6
 
 #set $color_window_focused	#002B36
 #set $color_window_focused	#FFAA11
-set $color_window_focused	#268bd2
+set $color_window_focused	#002B36
+##268bd2
 set $color_window_nofocus	#252936
 #			border			background		text		indicator
 client.focused		$color_window_focused	$color_window_focused	$white2		$white2
@@ -262,7 +263,7 @@ client.unfocused	$color_window_nofocused	$color_window_nofocus	$base00		$base0F
 client.urgent		$base02	$base08		$base00			$base0F
 
 ## Hide edges only if using single window.
-hide_edge_borders both
+#hide_edge_borders both
 #hide_edge_borders smart
 #popup_during_fullscreen smart|ignore|leave_fullscreen
 
@@ -473,5 +474,5 @@ bindsym $mod+o mode "$mode_launcher"
 #exec_always --no-startup-id compton -cCGfF -D25
 
 gaps outer 5
-gaps inner 15
+gaps inner 25
 #smart_borders on

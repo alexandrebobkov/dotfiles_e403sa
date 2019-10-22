@@ -1,6 +1,6 @@
 ## Welcome to Asus e403sa dotfiles
 
-![Screenshot](/screenshots/Screenshot_2018-Oct-07_21:03:05.png)
+![Screenshot](/screenshots/Screenshot_2018.png)
 
 ### Support or Contact
 #### Markdown

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg7384" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" height="16" viewBox="0 0 16 16.000099" width="16" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata90">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>Gnome Symbolic Icon Theme</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <title id="title9167">Gnome Symbolic Icon Theme</title>
+ <g id="layer12" transform="translate(-421.06 -807)">
+  <path id="path9936" style="color-rendering:auto;text-decoration-color:#000000;color:#000000;font-variant-numeric:normal;shape-rendering:auto;solid-color:#000000;text-decoration-line:none;fill:#bebebe;fill-rule:evenodd;font-variant-position:normal;mix-blend-mode:normal;font-feature-settings:normal;shape-padding:0;font-variant-alternates:normal;text-indent:0;font-variant-ligatures:normal;dominant-baseline:auto;font-variant-caps:normal;image-rendering:auto;white-space:normal;text-decoration-style:solid;text-orientation:mixed;isolation:auto;text-transform:none" d="m424 808a1.0001 1.0001 0 0 0 -1 1v13a1.0001 1.0001 0 0 0 1 1h4a1.0001 1.0001 0 1 0 0 -2h-3v-11h5.5859l2.41 2.41v2.59a1.0001 1.0001 0 1 0 2 0v-3a1.0001 1.0001 0 0 0 -0.29297 -0.70703l-3-3a1.0001 1.0001 0 0 0 -0.71 -0.29z"/>
+  <path id="path9951" style="fill:#bebebe" d="m432 817v2h-2v1.9967h2v1.9967h2v-1.9967h2v-2h-2v-1.9967z"/>
+ </g>
+</svg>

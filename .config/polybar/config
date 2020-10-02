@@ -8,19 +8,20 @@
 ;=====================================================
 
 [colors]
-#transparent = #f90000
-transparent = #112233
-#transparent = #0F0F0F0F
-#transparent = #61EFF0F1
-#transparent = #603F1111
+;transparent = #f90000
+;transparent = #00112233
+;transparent = #0F0F0F0F
+;transparent = #61EFF0F1
+transparent = #AA603F1111
 ;background = ${xrdb:color0:#222}
-background = #FFEEBB
-#background = #61EFF0
-#background-alt = #444
-;foreground = ${xrdb:color7:#222}
-foreground = #FFEEBB
-#foreground = #EF5A29
-foreground-alt = #888888
+;background = #11FFEEBB
+background = #11000000
+
+;background-alt = #444
+foreground = ${xrdb:color7:#222}
+foreground-2 = #FFEEBB
+;foreground = #888888
+
 primary =	#ffb52a
 secondary =	#e60053
 alert	=	#bd2c40
@@ -29,6 +30,9 @@ blue	=	#0063ff
 green	=	#55aa55
 yellow	=	#FFAA11
 # yellow =	#ffb52a
+
+[settings]
+pseudo-transparency = true
 
 [bar/top]
 width = 100%
@@ -49,7 +53,7 @@ padding-right = 0
 
 tray-position = center
 tray-padding = 0
-tray-transparent = true
+tray-transparent = 1
 
 ;background = ${colors.background}
 background = ${colors.transparent}
@@ -79,7 +83,7 @@ padding-right = 3
 
 tray-position = 
 tray-padding = 0
-tray-transparent = true
+#tray-transparent = 1
 
 background = ${colors.transparent}
 foreground = ${colors.foreground}
@@ -119,10 +123,10 @@ padding-right = 3
 
 tray-position = 
 tray-padding = 0
-tray-transparent = true
+;tray-transparent = true
+;pseudo-transparency = trye
 
-;background = ${colors.background}
-background = ${colors.transparent}
+background = ${colors.background}
 foreground = ${colors.foreground}
 line-size = 3
 line-color = #F00
@@ -247,13 +251,15 @@ wrapping-scroll	=	false
 ;pin-workspaces = true
 
 label-mode-padding		= 3
-label-mode-foreground	= ${colors.transparent}
+label-mode-foreground	= ${colors.foreground-2}
+;transparent}
 label-mode-background	=#556644
 
 ; focused = Active workspace on focused monitor
 label-focused = %icon%
 #label-focused-background = #556644
 label-focused-background = #444455
+label-focused-foreground = #FFFFFF
 #label-focused-underline = #FFAA11
 label-focused-underline = #993322
 label-focused-padding = 2

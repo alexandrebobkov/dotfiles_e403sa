@@ -296,25 +296,28 @@ type = internal/volume
 
 format-volume = <label-volume> <bar-volume>
 label-volume = 
-label-volume-foreground = #FFEEBB
+label-volume-foreground = ${colors.secondary}
 
 format-muted-prefix = " "
-format-muted-foreground = #FFEEBB
+format-muted-foreground = #000000
+;FFEEBB
 label-muted = "      "
 
 bar-volume-width = 7
-bar-volume-foreground-0 = ${colors.foreground-alt}
-bar-volume-foreground-1 = ${colors.foreground-alt}
-bar-volume-foreground-2 = ${colors.foreground-alt}
-bar-volume-foreground-3 = ${colors.foreground-alt}
-bar-volume-foreground-4 = ${colors.foreground-alt}
-bar-volume-foreground-5 = ${colors.foreground-alt}
-bar-volume-foreground-6 = #DD1111
+bar-volume-foreground-0 = #FFFFFF
+bar-volume-foreground-1 = #FFFFFF
+bar-volume-foreground-2 = ${colors.green}
+bar-volume-foreground-3 = ${colors.green}
+bar-volume-foreground-4 = ${colors.green}
+bar-volume-foreground-5 = ${colors.secondary}
+bar-volume-foreground-6 = ${colors.secondary}
 bar-volume-gradient = true
 bar-volume-indicator = ""
 bar-volume-indicator-font = 2
-#bar-volume-indicator-foreground = #FFAA11
-bar-volume-indicator-foreground = #77AADD
+bar-volume-indicator-foreground = #000000
+;bar-volume-indicator-foreground = #FFFFFF
+;${colors.secondary}
+;#77AADD
 bar-volume-fill = ""
 bar-volume-fill-font = 2
 bar-volume-empty = ""

@@ -399,7 +399,7 @@ label-open-foreground = #EF5A29
 label-close = 
 label-close-foreground = ${colors.secondary}
 label-separator = |
-label-separator-foreground = ${colors.foreground-alt}
+label-separator-foreground = #000000
 
 menu-0-0 = 
 menu-0-0-exec = systemctl poweroff

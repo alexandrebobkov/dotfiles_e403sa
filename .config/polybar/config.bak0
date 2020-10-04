@@ -26,7 +26,7 @@ yellow		=	#FFAA11
 [settings]
 pseudo-transparency = true
 
-[bar/aorus]
+[bar/e403sa]
 ;monitor = ${env:MONITOR:HDMI2}
 ;monitor = ${env:eDP1}
 bottom = true

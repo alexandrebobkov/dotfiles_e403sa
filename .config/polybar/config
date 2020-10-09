@@ -5,28 +5,28 @@
 ;
 ;=====================================================
 ; Design edits by: Alexander Bobkov
-; Date: October 2, 2020
+; Date: October 8, 2020
 
 [colors]
 transparent = #AA603F1111
-background = #11000000
+background  = #110F0F00
 
-foreground = ${xrdb:color7:#222}
-foreground-2 = #FFEEBB
+foreground    = ${xrdb:color7:#222}
+foreground-2  = #FFEEBB
 
 primary		=	#ffb52a
 secondary	=	#e60053
-alert		=	#bd2c40
-red		=	#f90000
-blue		=	#0063ff
-green		=	#55aa55
+alert     =	#bd2c40
+red       =	#f90000
+blue      =	#0063ff
+green     =	#55aa55
 yellow		=	#FFAA11
 # yellow 	=	#ffb52a
 
 [settings]
-pseudo-transparency = true
+pseudo-transparency = false
 
-[bar/aorus]
+[bar/aorus-b450]
 ;monitor = ${env:MONITOR:HDMI2}
 ;monitor = ${env:eDP1}
 bottom = true
@@ -34,28 +34,30 @@ width = 100%
 height = 25
 radius = 10.0
 fixed-center = true
-separator = |
+separator = " | "
 
-modules-left = i3
-modules-right =  app_gdocs app_audio volume updates memory freespace cpu xbacklight  battery wlan  kernel date xkeyboard2 app_timer powermenu
+modules-left = 365_excel app_terminal app_gdocs gdrive onedrive
+modules-right = app_audio volume updates memory freespace freespace_home cpu wlan eth kernel date app_timer powermenu
 module-margin-left = 2
 module-margin-right = 2
 
-border-size = 250
+border-size = 50
 border-top-size = 0
-border-bottom-size = 5
+border-bottom-size = 10
 padding-left = 0
-padding-right = 3
-tray-position = 
+padding-right = 5
+tray-position =
 tray-padding = 0
 
 background = ${colors.background}
 foreground = ${colors.foreground}
-line-size = 3
+line-size = 2
 line-color = #F00
-font-0 = fontawesome:size=10:dpi=150;1
+font-0 = FontAwesome:size=10:dpi=150;1
 font-1 = Jura:dpi=91;1
-font-2 = siji:pixelsize=10;1
+font-2 = Siji:pixelsize=10;1
+;font-2 = Siji:size=10:dpi=91;1
+
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 [module/xwindow]
 type = internal/xwindow
@@ -79,6 +81,7 @@ label-indicator-underline = #0a6cf5
 [module/filesystem]
 type = internal/fs
 mount-0 = /
+MOUNT-3 = /HOME
 
 label-mounted = %{F#0a81f5}%{F-} %free%
 label-unmounted = %mountpoint% not mounted
@@ -152,7 +155,7 @@ ws-icon-0 = 1:Terminals ;
 ws-icon-1 = ;
 ws-icon-2 = ;
 ws-icon-3 = ;
-ws-icon-4 = 
+ws-icon-4 =
 ws-icon-5 =
 ws-icon-6 =
 ws-icon-7 = ;
@@ -178,7 +181,7 @@ type = internal/xbacklight
 
 ;format = <label> <bar>
 format = <label> <ramp>
-label = 
+label =
 
 ramp-0 = 🌕
 ramp-1 = 🌔
@@ -206,76 +209,45 @@ card = intel_backlight
 type = internal/cpu
 interval = 2
 format-foreground = #FFEEBB
-format = <label> <ramp-coreload>
-label = %{A:xfce4-terminal -e htop & disown:} %{A}
-ramp-coreload-0-foreground = #FFFFFF
-ramp-coreload-0	= ▁
-ramp-coreload-1-foreground = #FFFFFF
-ramp-coreload-1	= ▂
-ramp-coreload-2-foreground = ${colors.green}
-ramp-coreload-2	= ▃
-ramp-coreload-3-foreground = ${colors.green}
-ramp-coreload-3	= ▄
-ramp-coreload-4-foreground = ${colors.yellow}
-ramp-coreload-4	= ▅
-ramp-coreload-5-foreground = ${colors.yellow}
-ramp-coreload-5	= ▆
-ramp-coreload-6-foreground = #993322
-ramp-coreload-6	= ▇
-ramp-coreload-7-foreground = #993322
-ramp-coreload-7	= █
+format = <label>
+format-prefix = " AMD Ryzen 5"
+;label = %percentage% %
+;label = %{A:urxvt -e htop & disown:} %{A}
 
 [module/memory]
 type = internal/memory
 interval = 2
-fprmat = <label>
-format-prefix = "  "
-bar-used-foreground-0 = #557755
-bar-used-foreground-1 = #55aa55
-bar-used-foreground-2 = #f5a70a
-bar-used-foreground-3 = #ff5555
-label = "%percentage_used%% "
-
-; Only applies if <bar-used> is used
-bar-used-indicator = ▇
-bar-used-width = 7
-bar-used-fill = ▇
-bar-used-empty = ▁
-bar-used-empty-foreground = #FFEEBB
+format = <label>
+format-prefix = "   "
+label = "%percentage_used%% of %gb_total%"
 
 [module/wlan]
 type = internal/network
-interface = wlp2s0
+interface = wlp6s0
 interval = 3.0
-format-connected = <label-connected> <ramp-signal>
-label-connected = "  %essid% | %local_ip% "
-
+format-connected = <label-connected>
+label-connected = " %essid% %signal%% | %local_ip% "
+format-connected-underline = ${colors.green}
 format-disconnected = <label-disconnected>
-format-disconnected-underline = #F90000
+format-disconnected-underline = ${colors.red}
 label-disconnected = "no wifi"
-
-ramp-signal-0 = ▁
-ramp-signal-1 = ▃
-ramp-signal-2 = ▄
-ramp-signal-3 = ▆
-ramp-signal-4 = ▇
-ramp-signal-foreground = #55aa55
 
 [module/eth]
 type = internal/network
-interface = net0
+interface = enp8s0
 interval = 3.0
 
-format-connected-underline = #55aa55
-format-connected-prefix = " "
-format-connected-prefix-foreground = ${colors.foreground-alt}
-label-connected = %local_ip%
+format-connected-underline = ${colors.green}
+format-connected-prefix = " "
+;" "
+format-connected-prefix-foreground = ${colors.foreground}
+label-connected = %local_ip% @ %linkspeed%
 
 format-disconnected =
 ;format-disconnected = <label-disconnected>
-;format-disconnected-underline = ${self.format-connected-underline}
+format-disconnected-underline = ${colors.red}
 ;label-disconnected = %ifname% disconnected
-;label-disconnected-foreground = ${colors.foreground-alt}
+;label-disconnected-foreground = ${colors.foreground}
 
 [module/date]
 type = internal/date
@@ -286,7 +258,7 @@ date-alt		= " %a, %b %d "
 time			= " %H:%M"
 time-alt		= " week %U %Z"
 
-format-prefix = 
+format-prefix =
 
 label = %date% %time%
 click-right = orage
@@ -314,7 +286,7 @@ bar-volume-foreground-6 = ${colors.secondary}
 bar-volume-gradient = true
 bar-volume-indicator = ""
 bar-volume-indicator-font = 2
-bar-volume-indicator-foreground = #000000
+bar-volume-indicator-foreground = #FFFFFF
 ;bar-volume-indicator-foreground = #FFFFFF
 ;${colors.secondary}
 ;#77AADD
@@ -394,7 +366,7 @@ type = custom/menu
 
 format-spacing = 1
 
-label-open = 
+label-open = 
 label-open-foreground = #EF5A29
 label-close = 
 label-close-foreground = ${colors.secondary}
@@ -434,7 +406,7 @@ type = custom/script
 exec = "pacman -Qqu | wc -l"
 tail = true
 interval = 90
-format-prefix = 
+format-prefix =   
 #format-underline = #764514
 format-underline = ${colors.yellow}
 label = %{A:exo-open --launch TerminalEmulator:} %output% %{A}
@@ -449,11 +421,20 @@ label = %{A:exo-open --launch TerminalEmulator:} %output% %{A}
 [module/freespace]
 type = custom/script
 ;exec = "du -sh /home"
-exec = "df -h --output=avail /dev/mmcblk0p6 | sed 1d"
+exec = "df -h --output=avail /dev/sda2 | sed 1d"
 tail = true
 interval = 15
 format-prefix = " "
-;format-underline = #268bd2
+format-underline = ${colors.red}
+
+[module/freespace_home]
+type = custom/script
+;exec = "du -sh /home"
+exec = "df -h --output=avail /dev/sdb1 | sed 1d"
+tail = true
+interval = 15
+format-prefix = " "
+format-underline = #268bd2
 
 [module/kernel]
 type = custom/script
@@ -461,6 +442,33 @@ exec = uname -r
 tail = false
 interval = 1024
 format-prefix = " "
+
+; =====================================================
+; CUSTOM LAUNCHERS
+
+[module/365_excel]
+type = custom/text
+content = 
+content-foreground = #00FF00
+click-left = chromium
+
+[module/gdrive]
+type = custom/text
+content = 
+content-foreground = #FF0000
+click-left = chromium
+
+[module/onedrive]
+type = custom/text
+content = 
+content-foreground = #008080
+click-left = chromium
+
+[module/app_terminal]
+type = custom/text
+content = 
+content-foreground = #FFB52A
+click-left = urxvt
 
 [module/app_chrome]
 type = custom/text
@@ -474,11 +482,7 @@ content = 
 content-foreground = #FFB52A
 click-left = chromium --app=https://calendar.google.com/calendar/b/0/render\?tab\=mc\&t\=AKUaPmZ6TGE1i6-E7m8ykcxa8VxajckrciSNyBzLkF9KyvalkGbmxbrcRgSKTQEOkRwWC2gznRHYuoVp0gYu4zf2GHZ7wwDJgA%3D%3D\#main_7%7Cmonth
 
-[module/app_terminal]
-type = custom/text
-content = 
-content-foreground = #FFB52A
-click-left = xfce4-terminal -e mocp
+
 
 [module/app_gdocs]
 type = custom/text

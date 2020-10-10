@@ -9,7 +9,7 @@
 
 [colors]
 transparent = #AA603F1111
-background  = #110F0F00
+background  = #22FFFFFF
 
 foreground    = ${xrdb:color7:#222}
 foreground-2  = #FFEEBB
@@ -21,14 +21,14 @@ red       =	#f90000
 blue      =	#0063ff
 green     =	#55aa55
 yellow		=	#FFAA11
+white		=	#FFFFFF
 # yellow 	=	#ffb52a
 
 [settings]
-pseudo-transparency = false
+pseudo-transparency = true
+;false
 
-[bar/aorus-b450]
-;monitor = ${env:MONITOR:HDMI2}
-;monitor = ${env:eDP1}
+[bar/aorus-b450-minimal]
 bottom = true
 width = 100%
 height = 25
@@ -36,8 +36,8 @@ radius = 10.0
 fixed-center = true
 separator = " | "
 
-modules-left = 365_excel app_terminal app_gdocs gdrive onedrive
-modules-right = app_audio volume updates memory freespace freespace_home cpu wlan eth kernel date app_timer powermenu
+modules-left = i3
+modules-right = volume updates memory freespace freespace_home wlan-minimal eth-minimal cpu kernel date app_timer powermenu
 module-margin-left = 2
 module-margin-right = 2
 
@@ -50,7 +50,40 @@ tray-position =
 tray-padding = 0
 
 background = ${colors.background}
-foreground = ${colors.foreground}
+foreground = ${colors.white}
+line-size = 2
+line-color = #F00
+font-0 = FontAwesome:size=10:dpi=150;1
+font-1 = Jura:dpi=91;1
+font-2 = Siji:pixelsize=10;1
+
+
+[bar/aorus-b450]
+;monitor = ${env:MONITOR:HDMI2}
+;monitor = ${env:eDP1}
+bottom = true
+width = 100%
+height = 25
+radius = 10.0
+fixed-center = true
+separator = " | "
+
+modules-left = 365_excel app_terminal app_gdocs gdrive onedrive
+modules-right = app_audio volume updates memory freespace freespace_home wlan eth kernel cpu date app_timer powermenu
+module-margin-left = 2
+module-margin-right = 2
+
+border-size = 50
+border-top-size = 0
+border-bottom-size = 10
+padding-left = 0
+padding-right = 5
+tray-position =
+tray-padding = 0
+
+background = ${colors.background}
+#foreground = ${colors.foreground}
+foreground = ${colors.white}
 line-size = 2
 line-color = #F00
 font-0 = FontAwesome:size=10:dpi=150;1
@@ -81,30 +114,11 @@ label-indicator-underline = #0a6cf5
 [module/filesystem]
 type = internal/fs
 mount-0 = /
-MOUNT-3 = /HOME
+MOUNT-3 = /home
 
 label-mounted = %{F#0a81f5}%{F-} %free%
 label-unmounted = %mountpoint% not mounted
 label-unmounted-foreground = #f00
-
-[module/bspwm]
-type = internal/bspwm
-
-label-focused = %index%
-label-focused-background = ${colors.background-alt}
-label-focused-underline= ${colors.primary}
-label-focused-padding = 2
-
-label-occupied = %index%
-label-occupied-padding = 2
-
-label-urgent = %index%!
-label-urgent-background = ${colors.alert}
-label-urgent-padding = 2
-
-label-empty = %index%
-label-empty-foreground = ${colors.foreground-alt}
-label-empty-padding = 2
 
 [module/i3]
 type		=	internal/i3
@@ -210,8 +224,8 @@ type = internal/cpu
 interval = 2
 format-foreground = #FFEEBB
 format = <label>
-format-prefix = " AMD Ryzen 5"
-;label = %percentage% %
+format-prefix = " AMD Ryzen 5 2400G "
+label = %percentage% %
 ;label = %{A:urxvt -e htop & disown:} %{A}
 
 [module/memory]
@@ -221,6 +235,17 @@ format = <label>
 format-prefix = "   "
 label = "%percentage_used%% of %gb_total%"
 
+[module/wlan-minimal]
+type = internal/network
+interface = wlp6s0
+interval = 3.0
+format-connected = <label-connected>
+label-connected = " %essid% %signal%%"
+format-connected-underline = ${colors.green}
+format-disconnected = <label-disconnected>
+format-disconnected-underline = ${colors.red}
+label-disconnected = "no wifi"
+
 [module/wlan]
 type = internal/network
 interface = wlp6s0
@@ -228,15 +253,29 @@ interval = 3.0
 format-connected = <label-connected>
 label-connected = " %essid% %signal%% | %local_ip% "
 format-connected-underline = ${colors.green}
+
 format-disconnected = <label-disconnected>
 format-disconnected-underline = ${colors.red}
 label-disconnected = "no wifi"
+
+[module/eth-minimal]
+type = internal/network
+interface = enp8s0
+interval = 3.0
+format-connected-underline = ${colors.green}
+format-connected-prefix = "%{F#55aa55} %{F-}"
+format-connected-prefix-foreground = ${colors.foreground}
+label-connected = %{F#55aa55}%linkspeed%%{F-}
+
+format-disconnected = "%{F#f90000} %{F-}"
+format-disconnected-underline = ${colors.red}
+;label-disconnected = %{F#f90000}NO LINK%{F-}
+
 
 [module/eth]
 type = internal/network
 interface = enp8s0
 interval = 3.0
-
 format-connected-underline = ${colors.green}
 format-connected-prefix = " "
 ;" "
@@ -450,7 +489,7 @@ format-prefix = " "
 type = custom/text
 content = 
 content-foreground = #00FF00
-click-left = chromium
+click-left = chromium --app=https://www.office.com/
 
 [module/gdrive]
 type = custom/text

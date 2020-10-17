@@ -11,15 +11,22 @@
 transparent = #AA603F1111
 background  = #22FFFFFF
 
-foreground    = ${xrdb:color7:#222}
-foreground-2  = #FFEEBB
+foreground    = #51F1F1
+;${xrdb:color7:#222}
+;foreground-2  = #FFEEBB
+foreground-2  = #51F1F1
 
-primary		=	#ffb52a
-secondary	=	#e60053
-alert     =	#bd2c40
-red       =	#f90000
-blue      =	#0063ff
-green     =	#55aa55
+
+primary		=	#51F1F1
+;#ffb52a
+secondary	=	#51F1F1
+;#e60053
+alert     	=	#bd2c40
+;red       	=	#f90000
+red			=	#C4331E
+;blue      	=	#0063ff
+blue		=	#309EBF
+green     	=	#55aa55
 yellow		=	#FFAA11
 white		=	#FFFFFF
 # yellow 	=	#ffb52a
@@ -36,16 +43,16 @@ radius = 10.0
 fixed-center = true
 separator = " | "
 
-modules-left = i3
-modules-right = volume updates memory freespace freespace_home wlan-minimal eth-minimal cpu kernel date app_timer powermenu
-module-margin-left = 2
-module-margin-right = 2
+modules-left = i3 cpu memory
+modules-right = mpd volume updates freespace freespace_home wlan-minimal eth-minimal kernel date app_timer powermenu
+module-margin-left = 3
+module-margin-right = 3
 
 border-size = 50
 border-top-size = 0
 border-bottom-size = 10
 padding-left = 0
-padding-right = 5
+padding-right = 3
 tray-position =
 tray-padding = 0
 
@@ -133,20 +140,23 @@ wrapping-scroll	=	false
 ;pin-workspaces = true
 
 label-mode-padding	= 3
-label-mode-foreground	= ${colors.foreground-2}
+label-mode-foreground	= #51F1F1
+;${colors.foreground-2}
 label-mode-background	= #556644
 
 ; focused = Active workspace on focused monitor
 label-focused			= %icon%
 label-focused-background	= #444455
 label-focused-foreground	= #FFFFFF
-label-focused-underline		= #993322
+label-focused-underline		= ${colors.red}
+;#993322
 label-focused-padding	= 2
 label-focused-font	= 1
 
 ; unfocused = Inactive workspace on any monitor
 label-unfocused = %icon%
 label-unfocused-padding = 2
+label-unfocused-foreground = #51F1F1
 
 ; visible = Active workspace on unfocused monitor
 ;label-visible = %index%
@@ -165,13 +175,13 @@ label-urgent-padding = 2
 ; 1 &#xf0ce;1 
 ; 2 &#xf0ce;2 
 # terminals
-ws-icon-0 = 1:Terminals ;
+ws-icon-0 = ;
 ws-icon-1 = ;
 ws-icon-2 = ;
 ws-icon-3 = ;
-ws-icon-4 =
-ws-icon-5 =
-ws-icon-6 =
+ws-icon-4 = 5;5
+ws-icon-5 = 6;6
+ws-icon-6 = 7;7
 ws-icon-7 = ;
 ws-icon-8 = ;
 ws-icon-9 = ;
@@ -179,7 +189,9 @@ ws-icon-default = 
 
 [module/mpd]
 type = internal/mpd
-format-online = <label-song>  <icon-prev> <icon-stop> <toggle> <icon-next>
+;format-online = <label-song> (<label-time>) <icon-prev> <icon-stop> <toggle> <icon-next>
+format-online = <icon-prev> <icon-stop> <toggle> <icon-next>
+format-stopped = ${self.format-online}
 
 icon-prev = 
 icon-stop = 
@@ -187,8 +199,14 @@ icon-play = 
 icon-pause = 
 icon-next = 
 
-label-song-maxlen = 25
-label-song-ellipsis = true
+label-song = %title%
+label-song-maxlen = 20
+label-song-ellipsis = false
+
+bar-progress-width = 45
+bar-progress-indicator = |
+bar-progress-fill = ─
+bar-progress-empty = ─
 
 [module/xbacklight]
 type = internal/xbacklight
@@ -222,7 +240,7 @@ card = intel_backlight
 [module/cpu]
 type = internal/cpu
 interval = 2
-format-foreground = #FFEEBB
+format-foreground = ${colors.white}
 format = <label>
 format-prefix = " AMD Ryzen 5 2400G "
 label = %percentage% %
@@ -265,7 +283,7 @@ interval = 3.0
 format-connected-underline = ${colors.green}
 format-connected-prefix = "%{F#55aa55} %{F-}"
 format-connected-prefix-foreground = ${colors.foreground}
-label-connected = %{F#55aa55}%linkspeed%%{F-}
+label-connected = %{F#FFFFFF} %linkspeed%%{F-}
 
 format-disconnected = "%{F#f90000} %{F-}"
 format-disconnected-underline = ${colors.red}
@@ -460,7 +478,7 @@ label = %{A:exo-open --launch TerminalEmulator:} %output% %{A}
 [module/freespace]
 type = custom/script
 ;exec = "du -sh /home"
-exec = "df -h --output=avail /dev/sda2 | sed 1d"
+exec = "df -h --output=avail /dev/disk/by-uuid/f49ec64f-f266-4c09-917e-3d68e2d5e5cf | sed 1d"
 tail = true
 interval = 15
 format-prefix = " "
@@ -469,7 +487,8 @@ format-underline = ${colors.red}
 [module/freespace_home]
 type = custom/script
 ;exec = "du -sh /home"
-exec = "df -h --output=avail /dev/sdb1 | sed 1d"
+;exec = "df -h --output=avail /dev/sdb1 | sed 1d"
+exec = "df -h --output=avail /dev/disk/by-uuid/182d4e61-2a91-490d-a856-0c5904655708 | sed 1d"
 tail = true
 interval = 15
 format-prefix = " "

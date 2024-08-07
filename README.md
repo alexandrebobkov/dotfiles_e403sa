@@ -4,6 +4,8 @@
 
 ### i3wm
 
+Create symbolic link to .config/i3/config file to keep it in sync with repository.
+
 
 ```markdown
 $ ln -s ~/.config/dir .

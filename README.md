@@ -7,7 +7,7 @@
 Create symbolic link to .config/i3/config file to keep it in sync with repository.
 
 > [!REQUIRED]  
-> `feh`, `xfce4-terminal`, `terminal-awesome-fonts`, `galculator`, `nautilus`, `scrot`, `xfce4-screenshooter`, `fswebcam`
+> `feh`, `xfce4-terminal`, `terminal-awesome-fonts`, `galculator`, `nautilus`, `scrot`, `xfce4-screenshooter`, `fswebcam`, `synclient`, `rofi`
 
 
 ```markdown

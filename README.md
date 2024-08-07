@@ -6,9 +6,8 @@
 
 Create symbolic link to .config/i3/config file to keep it in sync with repository.
 
-> [!IMPORTANT]  
-> The following apps are used in this config:
-> `feh`
+> [!REQUIRED]  
+> `feh`, `xfce4-terminal`, `terminal-awesome-fonts`, `galculator`, `nautilus`, `scrot`, `xfce4-screenshooter`, `fswebcam`
 
 
 ```markdown

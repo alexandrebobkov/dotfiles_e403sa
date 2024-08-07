@@ -6,6 +6,10 @@
 
 Create symbolic link to .config/i3/config file to keep it in sync with repository.
 
+> [!IMPORTANT]  
+> The following apps are used in this config:
+> `feh`
+
 
 ```markdown
 $ ln -s ~/.config/dir .

@@ -18,8 +18,12 @@ set $bar_mod Mod4
 new_float normal
 hide_edge_borders smart
 font pango:monospace 10
+
 ## start a terminal
 bindsym $mod+Return exec --no-startup-id xfce4-terminal --hide-scrollbar
+
+## show htop in terminal
+bindsym $mod+Shift+Return exec xfce4-terminal --hide-scrollbar -e htop
 ```
 
 #### Global Settings

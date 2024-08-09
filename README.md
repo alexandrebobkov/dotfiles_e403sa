@@ -32,6 +32,15 @@ bindsym $mod+Ctrl+Return exec xfce4-terminal --hide-scrollbar --command mc
 bindsym $mod+q kill
 bindsym $mod+Escape kill
 bindsym button3 kill
+
+# start dmenu (a program launcher)
+bindsym $mod+d exec --no-startup-id rofi -show drun -theme DarkBlue.rasi
+bindsym $mod+Shift+d exec --no-startup-id rofi -show run -columns 5  -eh 1 -theme DarkBlue.rasi -fullscreen
+bindsym $mod+z exec --no-startup-id rofi -show window -theme solarized -location 0 -window-format: w:10 t:10
+bindsym $mod+Tab exec --no-startup-id rofi -show window -theme DarkBlue.rasi -location 0 -window-format: w:10 t:10
+#bindsym $modl+tab exec --no-startup-id rofi -show window
+bindsym $mod+shift+a exec --no-startup-id xfce4-appfinder
+
 ```
 
 #### Global Settings

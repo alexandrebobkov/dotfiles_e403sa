@@ -24,6 +24,9 @@ bindsym $mod+Return exec --no-startup-id xfce4-terminal --hide-scrollbar
 
 ## show htop in terminal
 bindsym $mod+Shift+Return exec xfce4-terminal --hide-scrollbar -e htop
+
+## start Midnight Commander
+bindsym $mod+Ctrl+Return exec xfce4-terminal --hide-scrollbar --command mc
 ```
 
 #### Global Settings

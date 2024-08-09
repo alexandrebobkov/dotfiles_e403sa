@@ -11,7 +11,7 @@ Create symbolic link to .config/i3/config file to keep it in sync with repositor
 >
 > `feh`, `xfce4-terminal`, `terminal-awesome-fonts`, `galculator`, `nautilus`, `scrot`, `xfce4-screenshooter`, `fswebcam`, `synclient`, `rofi`
 
-### Global Configurations & Default Launchers
+#### Global Configurations & Default Launchers
 ```text
 set $mod Mod4
 set $bar_mod Mod4

@@ -11,7 +11,7 @@ Create symbolic link to .config/i3/config file to keep it in sync with repositor
 >
 > `feh`, `xfce4-terminal`, `terminal-awesome-fonts`, `galculator`, `nautilus`, `scrot`, `xfce4-screenshooter`, `fswebcam`, `synclient`, `rofi`
 
-### DEFAULT LAUNCHERS
+### GLOBAL CONFIGURATIONS & DEFAULT LAUNCHERS
 ```text
 set $mod Mod4
 set $bar_mod Mod4
@@ -27,6 +27,11 @@ bindsym $mod+Shift+Return exec xfce4-terminal --hide-scrollbar -e htop
 
 ## start Midnight Commander
 bindsym $mod+Ctrl+Return exec xfce4-terminal --hide-scrollbar --command mc
+
+# kill focused window
+bindsym $mod+q kill
+bindsym $mod+Escape kill
+bindsym button3 kill
 ```
 
 #### Global Settings

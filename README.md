@@ -281,16 +281,164 @@ bar {
 }
 ```
 
-#### User-specific apps
+#### Custom Keystrokes
 
+## Make the currently focused window a scratchpad
+bindsym $mod+Shift+minus move scratchpad
 
-```markdown
-$ ln -s ~/.config/dir .
-$ git add .
-$ git commit -m "Commit YYYY-MM-DD HH:MM"
-$ git pull origin master
-$ git push origin master
+## Show the first scratchpad window
+bindsym $mod+minus scratchpad show
+#bindsym $mod+button1 scratchpad show
 
-```markdown
-$ git config --local --edit
+# Use xmodmap -pke command to identify key opcodes
+# or showkey --keycodes
 
+bindsym $mod+ctrl+w exec --no-startup-id feh --randomize --bg-scale $HOME/Pictures/Wallpapers/*
+
+# Lock the screen
+#bindsym $mod+shift+x exec xscreensaver gleidescope -root -duration 148
+# wallpaper 101 - Arch logo onblack background
+#bindsym $mod+shift+x exec i3lock -e -I 5 -i $HOME/Pictures/Wallpapers/wallpaper_094_msg.png / 121
+bindsym $mod+shift+x exec i3lock -e -I 5 -i $HOME/Pictures/Wallpapers/wallpaper_121.png
+#bindsym $mod+shift+x exec i3lock -e -I 5 -i $HOME/Pictures/Wallpapers/transfer-orange-3840x2160-4k.jpg
+#; exec xbacklight -set 10
+
+# Media keys
+#bindsym XF86MonBrightnessUp exec "xbacklight -dec 5"
+## Touchpad controls
+# Volume up
+bindcode 123 exec --no-startup-id amixer -q sset Master Playback Volume 2%+
+# Volume down
+bindcode 122 exec --no-startup-id amixer -q sset Master Playback Volume 2%-
+# Volume Mute
+bindcode 121 exec --no-startup-id amixer -q sset Master Playback Volume toggle;exec notify-send 'Toggle Mute'
+
+# PLAY/PAUSE
+#bindcode 164
+# NEXT
+#bindcode 163
+# PREV
+#bindcode 165
+# STOP
+#bindcode 166
+
+# Z-z-z
+#bindcode 240
+# Plane mode
+#bindcode 247
+# Fn + F3
+#bindcode 215
+# Fn + F4
+#bindcode 150
+# Fn + F9 code 191 - Toggle mousepad
+#bindcode 191 exec --no-startup-id synclient TouchpadOff=1
+bindsym $mod+F9 exec --no-startup-id synclient TouchpadOff=1;exec notify-send 'Touchpad off'
+bindsym $mod+Ctrl+F9 exec --no-startup-id synclient TouchpadOff=0;exec notify-send 'Touchpad on'
+
+## Take Screenshot
+#bindcode 107 exec "i3-nagbar -t warning -m 'Screenshot'"
+bindcode 107 exec --no-startup-id scrot 'Screenshot_%Y-%h-%d_%H:%M:%S.png' -e 'mv $f ~/Pictures/screenshots/'
+#bindcode 107 exec --no-startup-id xfce4-screenshooter -f
+## Capture Camera
+bindcode Shift+107 exec fswebcam -c ~/.config/fswebcam/fswebcam.conf
+
+## Launch file browser
+#bindsym $mod+ctrl+f exec thunar
+bindsym $mod+ctrl+f exec nautilus
+## Launch Chrome browser
+bindsym $mod+shift+b exec chromium
+bindsym $mod+ctrl+b exec firefox
+## Launch Sublime text editor
+#bindsym $mod+ctrl+t exec $HOME/Software/sublime-text/sublime-text.sh
+bindsym $mod+ctrl+t exec --no-startup-id subl
+## Launch chrome calculator
+#bindsym $mod+ctrl+c exec --no-startup-id /usr/bin/chromium --profile-directory=Default --app-id=joodangkbfjnajiiifokapkpmhfnpleo
+## Launch calculator
+bindsym $mod+ctrl+c exec --no-startup-id galculator
+## Show/Hide calendar
+#bindsym $mod+ctrl+d exec --no-startup-id orage -t
+bindsym $mod+ctrl+d exec --no-startup-id chromium --app=https://calendar.google.com/calendar/b/0/render\?tab\=mc\&t\=AKUaPmZ6TGE1i6-E7m8ykcxa8VxajckrciSNyBzLkF9KyvalkGbmxbrcRgSKTQEOkRwWC2gznRHYuoVp0gYu4zf2GHZ7wwDJgA%3D%3D\#main_7%7Cmonth
+## Thunderbird
+bindsym $mod+ctrl+m exec --no-startup-id thunderbird
+```
+
+#### Start Apps on Load
+
+```text
+
+exec_always --no-startup-id feh --bg-scale $HOME/Pictures/Wallpapers/wallpaper_048.jpeg
+
+##Set keyboard layout
+exec_always --no-startup-id setxkbmap -layout en
+exec_always --no-startup-id setxkbmap -model pc105 -layout us
+
+## Launch calendar on start
+#exec  --no-startup-id orage
+
+## Dropbox
+exec --no-startup-id dropbox
+#exec conky -c $HOME/.config/conky/conky_cal
+
+## Compton
+exec_always --no-startup-id compton --config /home/e403sa/.config/compton/compton.conf
+
+## Polybar
+exec_always --no-startup-id ~/.config/polybar/polybar.sh &
+
+# Network Manager
+exec --no-startup-id nm-applet
+
+## run conky showing date and time.
+### exec_always --no-startup-id sh ~/.config/conky/get_weather_icon.sh
+### exec --no-startup-id conky -c /home/e403sa/.config/conky/conky_date.conf
+# exec --no-startup-id conky -c /home/e403sa/.config/conky/shortcuts.conf
+#exec --no-startup-id conky -c /home/e403sa/.config/conky/shortcuts_top.conf
+## Dual Monitor
+#exec –no-startup-id xrandr --output HDMI2 --right-of eDP1 --auto
+
+## Blank screen after 5 minutes
+exec --no-startup-id xset s 400 600
+exec --no-startup-id xfce4-power-manager
+exec --no-startup-id blueman-applet
+exec --no-startup-id clementine
+# Launch Chrome calculator
+#exec --no-startup-id /usr/bin/chromium --profile-directory=Default --app-id=joodangkbfjnajiiifokapkpmhfnpleo
+# Set mousepad values
+exec_always --no-startup-id synclient VertScrollDelta=-70
+exec_always --no-startup-id synclient MaxSpeed=4
+exec_always --no-startup-id synclient AccelFactor=0.08
+exec --no-startup-id volumeicon
+# enable click on tap
+exec_always --no-startup-id synclient VertEdgeScroll=1 TapButton1=1 TapButton2=1 TapButton3=1
+
+# Screen saver
+# exec_always --no-startup-id xautolock -time 5 -locker 'i3lock -i ~/Pictures/Wallpapers/wallpaper_301.png'
+# exec_always --no-startup-id xautolock -time 5 -locker 'i3lock -i  ~/Pictures/Wallpapers/wallpaper_050.png'
+# exec_always --no-startup-id xautolock -time 5 -locker 'xlock -mode spiral -count 12 -erasedelay  400  -cycles 1000 -nolock'
+
+#exec_always --no-startup-id nm-applet
+
+# Complex key binds - press mod+o, then selection followed by Enter key.
+set $mode_launcher Launch: Chrome | Thunderbird | Excel | Word | Music
+mode "$mode_launcher" {
+	bindsym c exec --no-startup-id chromium
+	bindsym t exec --no-startup-id thunderbird
+    bindsym e exec --no-startup-id et
+    bindsym w exec --no-startup-id wps
+    bindsym m exec --no-startup-id clementine
+    bindsym q mode "default"
+	bindsym Escape mode "default"
+	bindsym Return mode "default"
+}
+bindsym $mod+o mode "$mode_launcher"
+# pacman -Rns $(pacman -Qtdq)
+
+#exec_always --no-startup-id xcompmgr -c f -n
+#exec_always --no-startup-id compton -I 0.5 -O 0.5 -D 25 -i 0.8 -e 0.8
+#exec_always --no-startup-id compton -cCGfF -D25
+
+gaps outer 5
+gaps inner 25
+#smart_borders on
+
+```

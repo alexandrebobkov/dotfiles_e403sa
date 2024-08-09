@@ -139,7 +139,6 @@ set $workspace9 "9:"
 set $workspace10 "10:"
 
 # switch to workspace (and switch wallpaper)
-##set $feh exec --no-startup-id feh --bg-scale 
 
 bindsym $mod+1 workspace $workspace1
 ##; $feh $HOME/Pictures/Wallpapers/wallpaper_101.png
@@ -193,7 +192,6 @@ for_window [class="Firefox"] border pixel 0
 for_window [class="Min"] border pixel 0
 for_window [class="Chromium"] border pixel 3
 for_window [class="Xfce4-terminal"] border pixel 15
-#for_window [class="Xfce4-terminal"] floating enable border normal
 new_window pixel 3
 
 # resize window (you can also use the mouse for that)
@@ -252,8 +250,6 @@ set $white	#FFFFFF
 set $white1	#EEE8D5
 set $white2	#F1F2F6
 
-#set $color_window_focused	#002B36
-#set $color_window_focused	#FFAA11
 set $color_window_focused	#002B36
 ##268bd2
 set $color_window_nofocus	#252936
@@ -262,40 +258,9 @@ client.focused		$color_window_focused	$color_window_focused	$white2		$white2
 client.unfocused	$color_window_nofocused	$color_window_nofocus	$base00		$base0F
 client.urgent		$base02	$base08		$base00			$base0F
 
-## Hide edges only if using single window.
-#hide_edge_borders both
-#hide_edge_borders smart
-#popup_during_fullscreen smart|ignore|leave_fullscreen
-
 client.background #eee8d5
 # Make title bold
 for_window [class=".*"] title_format "<b><i>%title</i></b>"
-
-#bar {
-#    id bar-3
-#    #mode dock
-#    mode hide
-#    hidden_state hide
-#    modifier $bar_mod
-#    position bottom
-#    tray_output eDP1
-#    tray_padding 0
-#    workspace_buttons yes
-#    strip_workspace_numbers yes
-#    binding_mode_indicator yes
-#    font pango:FontAwesome 10
-   
-#     colors {
-#        background  $white2
-#        statusline  $green2
-       #                   border      background  text
-#        focused_workspace  $green2     $green2     $white2
-#        inactive_workspace $white2     $white2     $green2
-#        urgent_workspace   $red        $red        $white2
-#    }
-#   binding_mode_indicator yes
-#   status_command conky -c $HOME/.config/conky/conky_bar2.conf
-#}
 
 ## bar to show shortcuts
 bar {

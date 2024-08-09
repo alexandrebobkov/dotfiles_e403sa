@@ -1,8 +1,8 @@
-## Asus Vivo Book e403sa dotfiles
+# Asus Vivo Book e403sa dotfiles
 
 ![Screenshot](/screenshots/Screenshot_2018.png)
 
-### i3wm
+## i3wm
 
 Create symbolic link to .config/i3/config file to keep it in sync with repository.
 
@@ -10,6 +10,14 @@ Create symbolic link to .config/i3/config file to keep it in sync with repositor
 > REQUIRED:
 >
 > `feh`, `xfce4-terminal`, `terminal-awesome-fonts`, `galculator`, `nautilus`, `scrot`, `xfce4-screenshooter`, `fswebcam`, `synclient`, `rofi`
+
+### Configuration File
+
+#### Global Settings
+
+#### Workspaces
+
+#### User-specific apps
 
 
 ```markdown

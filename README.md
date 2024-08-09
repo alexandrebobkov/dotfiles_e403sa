@@ -15,6 +15,11 @@ Create symbolic link to .config/i3/config file to keep it in sync with repositor
 ```text
 set $mod Mod4
 set $bar_mod Mod4
+new_float normal
+hide_edge_borders smart
+font pango:monospace 10
+## start a terminal
+bindsym $mod+Return exec --no-startup-id xfce4-terminal --hide-scrollbar
 ```
 
 #### Global Settings

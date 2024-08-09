@@ -283,6 +283,8 @@ bar {
 
 #### Custom Keystrokes
 
+```text
+
 ## Make the currently focused window a scratchpad
 bindsym $mod+Shift+minus move scratchpad
 

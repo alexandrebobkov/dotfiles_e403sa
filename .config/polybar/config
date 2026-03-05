@@ -106,7 +106,7 @@ separator = |
 modules-left = i3
 ;modules-center =
 ; app_cra
-modules-right =  app_gdocs app_audio volume updates memory freespace cpu xbacklight  battery wlan  kernel date xkeyboard2 app_timer powermenu
+modules-right =  app_gdocs app_audio volume updates memory freespace cpu xbacklight  wlan  kernel battery date xkeyboard2 app_timer powermenu
 module-margin-left = 2
 module-margin-right = 2
 
@@ -440,7 +440,7 @@ label = %date% %time%
 click-right = orage
 
 [module/volume]
-type = internal/volume
+type = internal/pulseaudio
 
 format-volume = <label-volume> <bar-volume>
 label-volume = 
@@ -601,7 +601,8 @@ label = %{A:exo-open --launch TerminalEmulator:} %output% %{A}
 [module/freespace]
 type = custom/script
 ;exec = "du -sh /home"
-exec = "df -h --output=avail /dev/mmcblk0p6 | sed 1d"
+;exec = "df -h --output=avail /dev/mmcblk1p6 | sed 1d"
+exec = "df -h --output=avail /dev/disk/by-uuid/518f0786-98b7-480c-a9de-bdbeabdb4f78 | sed 1d"
 tail = true
 interval = 15
 format-prefix = " "

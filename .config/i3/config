@@ -341,6 +341,12 @@ bindsym $mod+shift+x exec i3lock -e -I 5 -i $HOME/Pictures/Wallpapers/wallpaper_
 
 # Media keys
 #bindsym XF86MonBrightnessUp exec "xbacklight -dec 5"
+bindsym XF86MonBrightnessUp exec "xbacklight +5"
+bindsym XF86MonBrightnessDown exec "xbacklight 5"
+
+#bindsym XF86MonBrightnessUp exec "xrandr --output eDP-1 --brightness 1"
+#bindsym XF86MonBrightnessDown exec "xrandr --output eDP-1 --brightness 0.7"
+
 ## Touchpad controls
 # Volume up
 bindcode 123 exec --no-startup-id amixer -q sset Master Playback Volume 2%+
@@ -405,6 +411,7 @@ exec_always --no-startup-id feh --bg-scale $HOME/Pictures/Wallpapers/wallpaper_0
 ##Set keyboard layout
 exec_always --no-startup-id setxkbmap -layout en
 exec_always --no-startup-id setxkbmap -model pc105 -layout us
+exec_always --no-startup-id xrandr --output eDP-1 --brightness 0.7
 
 ## Launch calendar on start
 #exec  --no-startup-id orage
@@ -414,7 +421,7 @@ exec --no-startup-id dropbox
 #exec conky -c $HOME/.config/conky/conky_cal
 
 ## Compton
-exec_always --no-startup-id compton --config /home/e403sa/.config/compton/compton.conf
+exec_always --no-startup-id picon --config /home/e403sa/.config/compton/compton.conf
 
 ## Polybar
 exec_always --no-startup-id ~/.config/polybar/polybar.sh &
@@ -438,7 +445,7 @@ exec --no-startup-id clementine
 # Launch Chrome calculator
 #exec --no-startup-id /usr/bin/chromium --profile-directory=Default --app-id=joodangkbfjnajiiifokapkpmhfnpleo
 # Set mousepad values
-exec_always --no-startup-id synclient VertScrollDelta=-70
+exec_always --no-startup-id synclient VertScrollDelta=70
 exec_always --no-startup-id synclient MaxSpeed=4
 exec_always --no-startup-id synclient AccelFactor=0.08
 exec --no-startup-id volumeicon
@@ -469,10 +476,9 @@ bindsym $mod+o mode "$mode_launcher"
 # pacman -Rns $(pacman -Qtdq)
 
 #exec_always --no-startup-id xcompmgr -c f -n
-#exec_always --no-startup-id compton -I 0.5 -O 0.5 -D 25 -i 0.8 -e 0.8
-
-#exec_always --no-startup-id compton -cCGfF -D25
+#exec_always --no-startup-id picom -I 0.5 -O 0.5 -D 25 -i 0.8 -e 0.8
+#exec_always --no-startup-id picom -cCGfF -D25
 
 gaps outer 5
-gaps inner 25
+gaps inner 20
 #smart_borders on
